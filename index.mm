@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -86,6 +86,12 @@
 </node>
 <node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1570476132171">
 <edge COLOR="#00ffff"/>
+</node>
+<node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1570477828743">
+<edge COLOR="#7c0000"/>
+<node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1570477876910" LINK="https://reactjs.org/"/>
+<node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
+<node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
 </node>
 </node>
 </map>
