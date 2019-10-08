@@ -10,4 +10,12 @@ do
 
     mv /tmp/$$ "$FILE"
 
+    IDS=$(grep 'href=..FMID' "$FILE" | sed 's/.*"#\(FMID[^"]*\)".*/\1/')
+
+    for ID in $(grep 'href=..FMID' "$FILE" | sed 's/.*"#\(FMID[^"]*\)".*/\1/')
+    do
+      echo "$ID"
+      grep "\"$ID" "$FILE" | sed "s/.*\($ID\).*href=.\([^\"]*\)\".*/\2/"
+    done
+
 done
