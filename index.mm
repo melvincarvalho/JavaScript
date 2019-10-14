@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -80,11 +80,10 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://bxjs.dev/">https://bxjs.dev/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
-<node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1570476132171">
+<node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1571071024753" LINK="language.mm">
 <edge COLOR="#00ffff"/>
 </node>
 <node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1570477828743">
@@ -92,6 +91,11 @@
 <node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1570527616559" LINK="react/index.mm"/>
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
+</node>
+<node TEXT="deploy" POSITION="right" ID="ID_990538417" CREATED="1570562156934" MODIFIED="1570562159471">
+<edge COLOR="#00007c"/>
+<node TEXT="export as html" ID="ID_902563853" CREATED="1570562160720" MODIFIED="1570562166060"/>
+<node TEXT="bin/processhtml.sh" ID="ID_463733076" CREATED="1570562167077" MODIFIED="1570562187527" LINK="execute:_bin/processhtml.sh"/>
 </node>
 </node>
 </map>

@@ -1,6 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="react" FOLDED="false" ID="ID_43637424" CREATED="1570527567769" MODIFIED="1570527604613" LINK="../index.mm" STYLE="oval">
+<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1570980115621" ICON_SIZE="20.0 pt" LINK="../2019/09/24/index.mm" STYLE="oval">
+<icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
@@ -63,9 +64,41 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="3" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="getting started" POSITION="right" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1570527650611" LINK="https://reactjs.org/docs/getting-started.html">
+<hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="Summary" POSITION="right" ID="ID_1226961462" CREATED="1570979963389" MODIFIED="1570980209554" COLOR="#3333ff">
+<icon BUILTIN="wizard"/>
+<edge COLOR="#0000ff"/>
+<font SIZE="11" BOLD="true"/>
+</node>
+<node TEXT="Details" POSITION="right" ID="ID_120250381" CREATED="1570979967089" MODIFIED="1570980228711">
+<icon BUILTIN="list"/>
+<edge COLOR="#00ff00"/>
+<font BOLD="true"/>
+</node>
+<node TEXT="todo" POSITION="right" ID="ID_1414960960" CREATED="1570968728177" MODIFIED="1570968728179">
+<icon BUILTIN="idea"/>
 <edge COLOR="#ff0000"/>
+<node TEXT="next" ID="ID_785505323" CREATED="1570968728179" MODIFIED="1570980194153">
+<icon BUILTIN="prepare"/>
+</node>
+<node TEXT="doing" ID="ID_1140642316" CREATED="1570968728181" MODIFIED="1570980197861">
+<icon BUILTIN="go"/>
+</node>
+<node TEXT="done" ID="ID_1835807969" CREATED="1570968728183" MODIFIED="1570980201811">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
+<icon BUILTIN="attach"/>
+<edge COLOR="#00007c"/>
+</node>
+<node TEXT="docs" POSITION="left" ID="ID_1100215200" CREATED="1570969039178" MODIFIED="1570980265221">
+<icon BUILTIN="folder"/>
+<edge COLOR="#ff00ff"/>
+</node>
+<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1570968950725">
+<icon BUILTIN="hashtag"/>
+<edge COLOR="#007c00"/>
 </node>
 </node>
 </map>

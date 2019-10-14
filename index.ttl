@@ -1,0 +1,15 @@
+<#ID_634574866> <urn:string:@_TEXT> """made using webmaps""" .
+<#ID_849215328> <urn:string:@_TEXT> """Video""" .
+<#ID_1566689685> <urn:string:@_TEXT> """language""" .
+<#ID_153818301> <urn:string:@_TEXT> """frameworks""" .
+<#ID_921980201> <urn:string:@_TEXT> """react""" .
+<#ID_921980201> <urn:string:child> <ID_921980201> .
+<#ID_850712897> <urn:string:@_TEXT> """vue""" .
+<#ID_850712897> <urn:string:child> <ID_850712897> .
+<#ID_101804111> <urn:string:@_TEXT> """angular""" .
+<#ID_101804111> <urn:string:child> <ID_101804111> .
+<#ID_990538417> <urn:string:@_TEXT> """deploy""" .
+<#ID_902563853> <urn:string:@_TEXT> """export as html""" .
+<#ID_902563853> <urn:string:child> <ID_902563853> .
+<#ID_463733076> <urn:string:@_TEXT> """bin/processhtml.sh""" .
+<#ID_463733076> <urn:string:child> <ID_463733076> .
