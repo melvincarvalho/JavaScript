@@ -63,9 +63,11 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="3" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="getting started" POSITION="right" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1570527650611" LINK="https://reactjs.org/docs/getting-started.html">
-<edge COLOR="#ff0000"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="links" POSITION="right" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
+<icon BUILTIN="attach"/>
+<edge COLOR="#ff00ff"/>
+<node TEXT="getting started" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1571160465273" LINK="https://reactjs.org/docs/getting-started.html"/>
 </node>
 </node>
 </map>
