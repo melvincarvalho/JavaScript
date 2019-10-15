@@ -260,8 +260,11 @@
                             "@_TEXT": "react",
                             "@_ID": "ID_921980201",
                             "@_CREATED": 1570477831137,
-                            "@_MODIFIED": 1570527616559,
-                            "@_LINK": "react/index.mm"
+                            "@_MODIFIED": 1571160355679,
+                            "@_LINK": "react/index.mm",
+                            "icon": {
+                                "@_BUILTIN": "folder"
+                            }
                         },
                         {
                             "@_TEXT": "vue",
@@ -276,31 +279,6 @@
                             "@_CREATED": 1570477835956,
                             "@_MODIFIED": 1570477905907,
                             "@_LINK": "https://angular.io/"
-                        }
-                    ]
-                },
-                {
-                    "@_TEXT": "deploy",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_990538417",
-                    "@_CREATED": 1570562156934,
-                    "@_MODIFIED": 1570562159471,
-                    "edge": {
-                        "@_COLOR": "#00007c"
-                    },
-                    "node": [
-                        {
-                            "@_TEXT": "export as html",
-                            "@_ID": "ID_902563853",
-                            "@_CREATED": 1570562160720,
-                            "@_MODIFIED": 1570562166060
-                        },
-                        {
-                            "@_TEXT": "bin/processhtml.sh",
-                            "@_ID": "ID_463733076",
-                            "@_CREATED": 1570562167077,
-                            "@_MODIFIED": 1570562187527,
-                            "@_LINK": "execute:_bin/processhtml.sh"
                         }
                     ]
                 }

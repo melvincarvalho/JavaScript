@@ -8,8 +8,3 @@
 <#ID_850712897> <urn:string:child> <ID_850712897> .
 <#ID_101804111> <urn:string:@_TEXT> """angular""" .
 <#ID_101804111> <urn:string:child> <ID_101804111> .
-<#ID_990538417> <urn:string:@_TEXT> """deploy""" .
-<#ID_902563853> <urn:string:@_TEXT> """export as html""" .
-<#ID_902563853> <urn:string:child> <ID_902563853> .
-<#ID_463733076> <urn:string:@_TEXT> """bin/processhtml.sh""" .
-<#ID_463733076> <urn:string:child> <ID_463733076> .
