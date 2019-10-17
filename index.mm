@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="8" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -93,6 +93,22 @@
 </node>
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
+</node>
+<node TEXT="questions" POSITION="right" ID="ID_1450636763" CREATED="1571271470008" MODIFIED="1571271472743">
+<edge COLOR="#007c00"/>
+<node ID="ID_83102648" CREATED="1571271537267" MODIFIED="1571271537267" LINK="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/">https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </map>

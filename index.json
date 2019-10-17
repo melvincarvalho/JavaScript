@@ -186,7 +186,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 7,
+                    "@_COUNTER": 8,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -281,6 +281,36 @@
                             "@_LINK": "https://angular.io/"
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "questions",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1450636763",
+                    "@_CREATED": 1571271470008,
+                    "@_MODIFIED": 1571271472743,
+                    "edge": {
+                        "@_COLOR": "#007c00"
+                    },
+                    "node": {
+                        "@_ID": "ID_83102648",
+                        "@_CREATED": 1571271537267,
+                        "@_MODIFIED": 1571271537267,
+                        "@_LINK": "https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
             ]
         }
