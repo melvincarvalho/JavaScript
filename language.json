@@ -6,9 +6,9 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1570980115621,
+            "@_MODIFIED": 1571271635147,
             "@_ICON_SIZE": "20.0 pt",
-            "@_LINK": "../2019/09/24/index.mm",
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
             "icon": {
                 "@_BUILTIN": "bookmark"
@@ -206,12 +206,12 @@
                     "icon": {
                         "@_BUILTIN": "wizard"
                     },
-                    "edge": {
-                        "@_COLOR": "#0000ff"
-                    },
                     "font": {
                         "@_SIZE": 11,
                         "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#0000ff"
                     }
                 },
                 {

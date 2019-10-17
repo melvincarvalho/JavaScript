@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1570980115621" ICON_SIZE="20.0 pt" LINK="../2019/09/24/index.mm" STYLE="oval">
+<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1571271635147" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -67,8 +67,8 @@
 <hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Summary" POSITION="right" ID="ID_1226961462" CREATED="1570979963389" MODIFIED="1570980209554" COLOR="#3333ff">
 <icon BUILTIN="wizard"/>
-<edge COLOR="#0000ff"/>
 <font SIZE="11" BOLD="true"/>
+<edge COLOR="#0000ff"/>
 </node>
 <node TEXT="Details" POSITION="right" ID="ID_120250381" CREATED="1570979967089" MODIFIED="1570980228711">
 <icon BUILTIN="list"/>
