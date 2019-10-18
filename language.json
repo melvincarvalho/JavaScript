@@ -197,24 +197,6 @@
             ],
             "node": [
                 {
-                    "@_TEXT": "Summary",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1226961462",
-                    "@_CREATED": 1570979963389,
-                    "@_MODIFIED": 1570980209554,
-                    "@_COLOR": "#3333ff",
-                    "icon": {
-                        "@_BUILTIN": "wizard"
-                    },
-                    "font": {
-                        "@_SIZE": 11,
-                        "@_BOLD": true
-                    },
-                    "edge": {
-                        "@_COLOR": "#0000ff"
-                    }
-                },
-                {
                     "@_TEXT": "Details",
                     "@_POSITION": "right",
                     "@_ID": "ID_120250381",
@@ -229,48 +211,6 @@
                     "font": {
                         "@_BOLD": true
                     }
-                },
-                {
-                    "@_TEXT": "todo",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1414960960",
-                    "@_CREATED": 1570968728177,
-                    "@_MODIFIED": 1570968728179,
-                    "icon": {
-                        "@_BUILTIN": "idea"
-                    },
-                    "edge": {
-                        "@_COLOR": "#ff0000"
-                    },
-                    "node": [
-                        {
-                            "@_TEXT": "next",
-                            "@_ID": "ID_785505323",
-                            "@_CREATED": 1570968728179,
-                            "@_MODIFIED": 1570980194153,
-                            "icon": {
-                                "@_BUILTIN": "prepare"
-                            }
-                        },
-                        {
-                            "@_TEXT": "doing",
-                            "@_ID": "ID_1140642316",
-                            "@_CREATED": 1570968728181,
-                            "@_MODIFIED": 1570980197861,
-                            "icon": {
-                                "@_BUILTIN": "go"
-                            }
-                        },
-                        {
-                            "@_TEXT": "done",
-                            "@_ID": "ID_1835807969",
-                            "@_CREATED": 1570968728183,
-                            "@_MODIFIED": 1570980201811,
-                            "icon": {
-                                "@_BUILTIN": "button_ok"
-                            }
-                        }
-                    ]
                 },
                 {
                     "@_TEXT": "links",
@@ -303,7 +243,7 @@
                     "@_POSITION": "left",
                     "@_ID": "ID_466759422",
                     "@_CREATED": 1570968754383,
-                    "@_MODIFIED": 1570968950725,
+                    "@_MODIFIED": 1571411739700,
                     "icon": {
                         "@_BUILTIN": "hashtag"
                     },

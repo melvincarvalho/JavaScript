@@ -65,28 +65,10 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="4" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="Summary" POSITION="right" ID="ID_1226961462" CREATED="1570979963389" MODIFIED="1570980209554" COLOR="#3333ff">
-<icon BUILTIN="wizard"/>
-<font SIZE="11" BOLD="true"/>
-<edge COLOR="#0000ff"/>
-</node>
 <node TEXT="Details" POSITION="right" ID="ID_120250381" CREATED="1570979967089" MODIFIED="1570980228711">
 <icon BUILTIN="list"/>
 <edge COLOR="#00ff00"/>
 <font BOLD="true"/>
-</node>
-<node TEXT="todo" POSITION="right" ID="ID_1414960960" CREATED="1570968728177" MODIFIED="1570968728179">
-<icon BUILTIN="idea"/>
-<edge COLOR="#ff0000"/>
-<node TEXT="next" ID="ID_785505323" CREATED="1570968728179" MODIFIED="1570980194153">
-<icon BUILTIN="prepare"/>
-</node>
-<node TEXT="doing" ID="ID_1140642316" CREATED="1570968728181" MODIFIED="1570980197861">
-<icon BUILTIN="go"/>
-</node>
-<node TEXT="done" ID="ID_1835807969" CREATED="1570968728183" MODIFIED="1570980201811">
-<icon BUILTIN="button_ok"/>
-</node>
 </node>
 <node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
 <icon BUILTIN="attach"/>
@@ -96,7 +78,7 @@
 <icon BUILTIN="folder"/>
 <edge COLOR="#ff00ff"/>
 </node>
-<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1570968950725">
+<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571411739700">
 <icon BUILTIN="hashtag"/>
 <edge COLOR="#007c00"/>
 </node>
