@@ -186,7 +186,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 8,
+                    "@_COUNTER": 10,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -203,6 +203,36 @@
                     },
                     "edge": {
                         "@_COLOR": "#0000ff"
+                    }
+                },
+                {
+                    "@_TEXT": "lists",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_829378880",
+                    "@_CREATED": 1571361129403,
+                    "@_MODIFIED": 1571361131287,
+                    "edge": {
+                        "@_COLOR": "#007c7c"
+                    },
+                    "node": {
+                        "@_ID": "ID_157748484",
+                        "@_CREATED": 1571361132464,
+                        "@_MODIFIED": 1571361132464,
+                        "@_LINK": "https://github.com/sorrycc/awesome-javascript",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/sorrycc/awesome-javascript",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/sorrycc/awesome-javascript"
+                                    }
+                                }
+                            }
+                        }
                     }
                 },
                 {
@@ -311,6 +341,98 @@
                             }
                         }
                     }
+                },
+                {
+                    "@_TEXT": "sandboxes",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1460537766",
+                    "@_CREATED": 1571361050431,
+                    "@_MODIFIED": 1571361053912,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    },
+                    "node": [
+                        {
+                            "@_ID": "ID_899668548",
+                            "@_CREATED": 1571360405670,
+                            "@_MODIFIED": 1571360405670,
+                            "@_LINK": "https://codesandbox.io/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://codesandbox.io/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://codesandbox.io/"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_ID": "ID_1286093091",
+                            "@_CREATED": 1571360703809,
+                            "@_MODIFIED": 1571360703809,
+                            "@_LINK": "https://glitch.com/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://glitch.com/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://glitch.com/"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_ID": "ID_1150601009",
+                            "@_CREATED": 1571361085412,
+                            "@_MODIFIED": 1571361085412,
+                            "@_LINK": "https://jsfiddle.net/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://jsfiddle.net/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://jsfiddle.net/"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_ID": "ID_942460316",
+                            "@_CREATED": 1571361098536,
+                            "@_MODIFIED": 1571361098536,
+                            "@_LINK": "https://codepen.io/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://codepen.io/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://codepen.io/"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
                 }
             ]
         }

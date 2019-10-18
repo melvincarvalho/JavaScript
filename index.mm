@@ -63,10 +63,26 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="8" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
+</node>
+<node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1571361131287">
+<edge COLOR="#007c7c"/>
+<node ID="ID_157748484" CREATED="1571361132464" MODIFIED="1571361132464" LINK="https://github.com/sorrycc/awesome-javascript"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/sorrycc/awesome-javascript">https://github.com/sorrycc/awesome-javascript</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Video" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1570476114594">
 <edge COLOR="#ff00ff"/>
@@ -104,6 +120,58 @@
   </head>
   <body>
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/">https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node TEXT="sandboxes" POSITION="right" ID="ID_1460537766" CREATED="1571361050431" MODIFIED="1571361053912">
+<edge COLOR="#7c007c"/>
+<node ID="ID_899668548" CREATED="1571360405670" MODIFIED="1571360405670" LINK="https://codesandbox.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://codesandbox.io/">https://codesandbox.io/</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1286093091" CREATED="1571360703809" MODIFIED="1571360703809" LINK="https://glitch.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://glitch.com/">https://glitch.com/</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1571361085412" LINK="https://jsfiddle.net/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://jsfiddle.net/">https://jsfiddle.net/</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node ID="ID_942460316" CREATED="1571361098536" MODIFIED="1571361098536" LINK="https://codepen.io/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://codepen.io/">https://codepen.io/</a> 
   </body>
 </html>
 
