@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 11,
+                    "@_COUNTER": 12,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -428,12 +428,12 @@
                     "icon": {
                         "@_BUILTIN": "button_ok"
                     },
-                    "edge": {
-                        "@_COLOR": "#7c007c"
-                    },
                     "font": {
                         "@_SIZE": 12,
                         "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#7c007c"
                     },
                     "node": [
                         {
@@ -497,6 +497,29 @@
                             "@_MODIFIED": 1571811858058
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "Credits",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_1557743166",
+                    "@_CREATED": 1571817846433,
+                    "@_MODIFIED": 1571817924400,
+                    "icon": {
+                        "@_BUILTIN": "back"
+                    },
+                    "edge": {
+                        "@_COLOR": "#ff0000"
+                    },
+                    "font": {
+                        "@_BOLD": true
+                    },
+                    "node": {
+                        "@_TEXT": "Inspired by Adam Golab",
+                        "@_ID": "ID_1173854025",
+                        "@_CREATED": 1571817860325,
+                        "@_MODIFIED": 1571817898426,
+                        "@_LINK": "https://github.com/adam-golab/react-developer-roadmap#roadmap"
+                    }
                 }
             ]
         }
