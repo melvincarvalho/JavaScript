@@ -187,28 +187,11 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 6,
+                    "@_COUNTER": 16,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
             "node": [
-                {
-                    "@_TEXT": "meta frameworks",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1544605098",
-                    "@_CREATED": 1571227413610,
-                    "@_MODIFIED": 1571227417749,
-                    "edge": {
-                        "@_COLOR": "#00ffff"
-                    },
-                    "node": {
-                        "@_TEXT": "iconic",
-                        "@_ID": "ID_662028730",
-                        "@_CREATED": 1571227427047,
-                        "@_MODIFIED": 1571227434154,
-                        "@_LINK": "https://ionicframework.com/blog/announcing-ionic-react/"
-                    }
-                },
                 {
                     "@_TEXT": "links",
                     "@_POSITION": "left",
@@ -242,8 +225,121 @@
                                 "@_MODIFIED": 1571810970442,
                                 "@_LINK": "roadmap.mm"
                             }
+                        },
+                        {
+                            "@_TEXT": "meta frameworks",
+                            "@_ID": "ID_1544605098",
+                            "@_CREATED": 1571227413610,
+                            "@_MODIFIED": 1571817991015,
+                            "node": {
+                                "@_TEXT": "iconic",
+                                "@_ID": "ID_662028730",
+                                "@_CREATED": 1571227427047,
+                                "@_MODIFIED": 1571227434154,
+                                "@_LINK": "https://ionicframework.com/blog/announcing-ionic-react/"
+                            }
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "Build Tools",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_724688107",
+                    "@_CREATED": 1571811593039,
+                    "@_MODIFIED": 1571817987453,
+                    "edge": {
+                        "@_COLOR": "#00007c"
+                    }
+                },
+                {
+                    "@_TEXT": "Styling",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1267363076",
+                    "@_CREATED": 1571811599841,
+                    "@_MODIFIED": 1571817987459,
+                    "edge": {
+                        "@_COLOR": "#007c00"
+                    }
+                },
+                {
+                    "@_TEXT": "State Management",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1952310218",
+                    "@_CREATED": 1571811607571,
+                    "@_MODIFIED": 1571817987462,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    }
+                },
+                {
+                    "@_TEXT": "Type Checkers",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1289375581",
+                    "@_CREATED": 1571811805261,
+                    "@_MODIFIED": 1571817987470,
+                    "edge": {
+                        "@_COLOR": "#007c7c"
+                    }
+                },
+                {
+                    "@_TEXT": "Form Helpers",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1385748350",
+                    "@_CREATED": 1571811821518,
+                    "@_MODIFIED": 1571817987471,
+                    "edge": {
+                        "@_COLOR": "#7c7c00"
+                    }
+                },
+                {
+                    "@_TEXT": "Routing",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1228318416",
+                    "@_CREATED": 1571811825328,
+                    "@_MODIFIED": 1571817987472,
+                    "edge": {
+                        "@_COLOR": "#ff0000"
+                    }
+                },
+                {
+                    "@_TEXT": "API Clients",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1434625848",
+                    "@_CREATED": 1571811832714,
+                    "@_MODIFIED": 1571817987482,
+                    "edge": {
+                        "@_COLOR": "#0000ff"
+                    }
+                },
+                {
+                    "@_TEXT": "Utility Libraries",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1862350426",
+                    "@_CREATED": 1571811842635,
+                    "@_MODIFIED": 1571817987483,
+                    "edge": {
+                        "@_COLOR": "#00ff00"
+                    }
+                },
+                {
+                    "@_TEXT": "Testing",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1596624615",
+                    "@_CREATED": 1571811851473,
+                    "@_MODIFIED": 1571817987484,
+                    "edge": {
+                        "@_COLOR": "#ff00ff"
+                    }
+                },
+                {
+                    "@_TEXT": "i18n",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_454994441",
+                    "@_CREATED": 1571811854648,
+                    "@_MODIFIED": 1571817987487,
+                    "edge": {
+                        "@_COLOR": "#00ffff"
+                    }
                 }
             ]
         }
