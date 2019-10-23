@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="React Roadmap" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1571810989127" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="React Roadmap" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1571811663316" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -109,8 +109,13 @@
 <node TEXT="Data Structures and Algorithms" ID="ID_1403144772" CREATED="1571811403636" MODIFIED="1571811411901"/>
 <node TEXT="Design Patterns" ID="ID_400624862" CREATED="1571811492133" MODIFIED="1571811495436"/>
 </node>
-<node TEXT="React" POSITION="right" ID="ID_368966963" CREATED="1571811443569" MODIFIED="1571811511767">
+<node TEXT="React" POSITION="right" ID="ID_368966963" CREATED="1571811443569" MODIFIED="1571811728072" HGAP_QUANTITY="-202.74999354034682 pt" VSHIFT_QUANTITY="-56.99999830126768 pt" COLOR="#666600">
+<icon BUILTIN="button_ok"/>
 <edge COLOR="#7c007c"/>
+<font SIZE="12" BOLD="true"/>
+<node TEXT="Build Tools" ID="ID_724688107" CREATED="1571811593039" MODIFIED="1571811599015"/>
+<node TEXT="Styling" ID="ID_1267363076" CREATED="1571811599841" MODIFIED="1571811606464"/>
+<node TEXT="StateManagement" ID="ID_1952310218" CREATED="1571811607571" MODIFIED="1571811611379"/>
 </node>
 </node>
 </map>
