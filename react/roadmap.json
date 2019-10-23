@@ -1,0 +1,432 @@
+{
+    "map": {
+        "@_version": "freeplane 1.7.0",
+        "node": {
+            "@_TEXT": "React Roadmap",
+            "@_FOLDED": false,
+            "@_ID": "ID_1831615648",
+            "@_CREATED": 1569272472516,
+            "@_MODIFIED": 1571810989127,
+            "@_ICON_SIZE": "20.0 pt",
+            "@_LINK": "index.mm",
+            "@_STYLE": "oval",
+            "icon": {
+                "@_BUILTIN": "bookmark"
+            },
+            "font": {
+                "@_SIZE": 18
+            },
+            "hook": [
+                {
+                    "@_NAME": "MapStyle",
+                    "properties": {
+                        "@_edgeColorConfiguration": "#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff",
+                        "@_fit_to_viewport": false
+                    },
+                    "map_styles": {
+                        "stylenode": {
+                            "@_LOCALIZED_TEXT": "styles.root_node",
+                            "@_STYLE": "oval",
+                            "@_UNIFORM_SHAPE": true,
+                            "@_VGAP_QUANTITY": "24.0 pt",
+                            "font": {
+                                "@_SIZE": 24
+                            },
+                            "stylenode": [
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.predefined",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "default",
+                                            "@_ICON_SIZE": "12.0 pt",
+                                            "@_COLOR": "#000000",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "SansSerif",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": false,
+                                                "@_ITALIC": false
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.details"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.attributes",
+                                            "font": {
+                                                "@_SIZE": 9
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.note",
+                                            "@_COLOR": "#000000",
+                                            "@_BACKGROUND_COLOR": "#ffffff",
+                                            "@_TEXT_ALIGN": "LEFT"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.floating",
+                                            "edge": {
+                                                "@_STYLE": "hide_edge"
+                                            },
+                                            "cloud": {
+                                                "@_COLOR": "#f0f0f0",
+                                                "@_SHAPE": "ROUND_RECT"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.user-defined",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.topic",
+                                            "@_COLOR": "#18898b",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.subtopic",
+                                            "@_COLOR": "#cc3300",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.subsubtopic",
+                                            "@_COLOR": "#669900",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.important",
+                                            "icon": {
+                                                "@_BUILTIN": "yes"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.AutomaticLayout",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level.root",
+                                            "@_COLOR": "#000000",
+                                            "@_STYLE": "oval",
+                                            "@_SHAPE_HORIZONTAL_MARGIN": "10.0 pt",
+                                            "@_SHAPE_VERTICAL_MARGIN": "10.0 pt",
+                                            "font": {
+                                                "@_SIZE": 18
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,1",
+                                            "@_COLOR": "#0033ff",
+                                            "font": {
+                                                "@_SIZE": 16
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,2",
+                                            "@_COLOR": "#00b439",
+                                            "font": {
+                                                "@_SIZE": 14
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,3",
+                                            "@_COLOR": "#990000",
+                                            "font": {
+                                                "@_SIZE": 12
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,4",
+                                            "@_COLOR": "#111111",
+                                            "font": {
+                                                "@_SIZE": 10
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,5"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,6"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,7"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,8"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,9"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,10"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,11"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "@_NAME": "AutomaticEdgeColor",
+                    "@_COUNTER": 11,
+                    "@_RULE": "ON_BRANCH_CREATION"
+                }
+            ],
+            "node": [
+                {
+                    "@_TEXT": "Learn the Basics",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1226961462",
+                    "@_CREATED": 1570979963389,
+                    "@_MODIFIED": 1571811021037,
+                    "@_COLOR": "#3333ff",
+                    "icon": {
+                        "@_BUILTIN": "wizard"
+                    },
+                    "font": {
+                        "@_SIZE": 11,
+                        "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#0000ff"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "HTML",
+                            "@_ID": "ID_983192535",
+                            "@_CREATED": 1571811022355,
+                            "@_MODIFIED": 1571811023871,
+                            "node": [
+                                {
+                                    "@_TEXT": "Learn the Basics",
+                                    "@_ID": "ID_1118553545",
+                                    "@_CREATED": 1571811174044,
+                                    "@_MODIFIED": 1571811180244
+                                },
+                                {
+                                    "@_TEXT": "Divide page into sections",
+                                    "@_ID": "ID_505030620",
+                                    "@_CREATED": 1571811189238,
+                                    "@_MODIFIED": 1571811195401
+                                },
+                                {
+                                    "@_TEXT": "Semantic HTML",
+                                    "@_ID": "ID_94548786",
+                                    "@_CREATED": 1571811202629,
+                                    "@_MODIFIED": 1571811205725
+                                },
+                                {
+                                    "@_TEXT": "Structuring DOM",
+                                    "@_ID": "ID_1680700320",
+                                    "@_CREATED": 1571811211477,
+                                    "@_MODIFIED": 1571811214985
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "CSS",
+                            "@_ID": "ID_353552199",
+                            "@_CREATED": 1571811030606,
+                            "@_MODIFIED": 1571811032045,
+                            "node": [
+                                {
+                                    "@_TEXT": "Learn the Basics",
+                                    "@_ID": "ID_683981309",
+                                    "@_CREATED": 1571811133493,
+                                    "@_MODIFIED": 1571811187332
+                                },
+                                {
+                                    "@_TEXT": "Grid",
+                                    "@_ID": "ID_294458053",
+                                    "@_CREATED": 1571811052451,
+                                    "@_MODIFIED": 1571811056546
+                                },
+                                {
+                                    "@_TEXT": "Flexbox",
+                                    "@_ID": "ID_400699016",
+                                    "@_CREATED": 1571811057525,
+                                    "@_MODIFIED": 1571811060021
+                                },
+                                {
+                                    "@_TEXT": "Responsive",
+                                    "@_ID": "ID_354386883",
+                                    "@_CREATED": 1571811072351,
+                                    "@_MODIFIED": 1571811076458
+                                },
+                                {
+                                    "@_TEXT": "Media Queries",
+                                    "@_ID": "ID_1174268823",
+                                    "@_CREATED": 1571811077703,
+                                    "@_MODIFIED": 1571811080809
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "JS",
+                            "@_ID": "ID_479922325",
+                            "@_CREATED": 1571811033199,
+                            "@_MODIFIED": 1571811034964,
+                            "node": [
+                                {
+                                    "@_TEXT": "Learn Basics",
+                                    "@_ID": "ID_1307760208",
+                                    "@_CREATED": 1571811145850,
+                                    "@_MODIFIED": 1571811149753
+                                },
+                                {
+                                    "@_TEXT": "Syntax and basic operations",
+                                    "@_ID": "ID_1660327032",
+                                    "@_CREATED": 1571811223198,
+                                    "@_MODIFIED": 1571811227785
+                                },
+                                {
+                                    "@_TEXT": "DOM manipulation",
+                                    "@_ID": "ID_354910566",
+                                    "@_CREATED": 1571811234718,
+                                    "@_MODIFIED": 1571811237822
+                                },
+                                {
+                                    "@_TEXT": "Hoisting",
+                                    "@_ID": "ID_1991172976",
+                                    "@_CREATED": 1571811247158,
+                                    "@_MODIFIED": 1571811249547
+                                },
+                                {
+                                    "@_TEXT": "Event Bubbling",
+                                    "@_ID": "ID_676937316",
+                                    "@_CREATED": 1571811252364,
+                                    "@_MODIFIED": 1571811260189
+                                },
+                                {
+                                    "@_TEXT": "Prototyping",
+                                    "@_ID": "ID_22290514",
+                                    "@_CREATED": 1571811260988,
+                                    "@_MODIFIED": 1571811264233
+                                },
+                                {
+                                    "@_TEXT": "AJAX",
+                                    "@_ID": "ID_850455083",
+                                    "@_CREATED": 1571811275800,
+                                    "@_MODIFIED": 1571811280471
+                                },
+                                {
+                                    "@_TEXT": "ES6",
+                                    "@_ID": "ID_342427820",
+                                    "@_CREATED": 1571811281404,
+                                    "@_MODIFIED": 1571811285039,
+                                    "node": {
+                                        "@_TEXT": "new features",
+                                        "@_ID": "ID_1969411615",
+                                        "@_CREATED": 1571811286142,
+                                        "@_MODIFIED": 1571811289100
+                                    }
+                                },
+                                {
+                                    "@_TEXT": "Optional",
+                                    "@_ID": "ID_1002807887",
+                                    "@_CREATED": 1571811296150,
+                                    "@_MODIFIED": 1571811298738,
+                                    "node": {
+                                        "@_TEXT": "JQuery",
+                                        "@_ID": "ID_1698736320",
+                                        "@_CREATED": 1571811299755,
+                                        "@_MODIFIED": 1571811302452
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "Genaral Development Skills",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1762257958",
+                    "@_CREATED": 1570979963389,
+                    "@_MODIFIED": 1571811474344,
+                    "@_COLOR": "#006600",
+                    "icon": {
+                        "@_BUILTIN": "bookmark"
+                    },
+                    "font": {
+                        "@_SIZE": 11,
+                        "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#7c7c00"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "GIT",
+                            "@_ID": "ID_478513095",
+                            "@_CREATED": 1571811362189,
+                            "@_MODIFIED": 1571811363502
+                        },
+                        {
+                            "@_TEXT": "HTTP / HTTPS",
+                            "@_ID": "ID_738473052",
+                            "@_CREATED": 1571811364317,
+                            "@_MODIFIED": 1571811376175
+                        },
+                        {
+                            "@_TEXT": "Learn to search for solutions",
+                            "@_ID": "ID_244420502",
+                            "@_CREATED": 1571811384990,
+                            "@_MODIFIED": 1571811390390
+                        },
+                        {
+                            "@_TEXT": "Terminal",
+                            "@_ID": "ID_750418238",
+                            "@_CREATED": 1571811400622,
+                            "@_MODIFIED": 1571811402654
+                        },
+                        {
+                            "@_TEXT": "Data Structures and Algorithms",
+                            "@_ID": "ID_1403144772",
+                            "@_CREATED": 1571811403636,
+                            "@_MODIFIED": 1571811411901
+                        },
+                        {
+                            "@_TEXT": "Design Patterns",
+                            "@_ID": "ID_400624862",
+                            "@_CREATED": 1571811492133,
+                            "@_MODIFIED": 1571811495436
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "React",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_368966963",
+                    "@_CREATED": 1571811443569,
+                    "@_MODIFIED": 1571811511767,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    }
+                }
+            ]
+        }
+    }
+}

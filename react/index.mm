@@ -72,7 +72,9 @@
 <icon BUILTIN="attach"/>
 <edge COLOR="#ff00ff"/>
 <node TEXT="getting started" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1571160465273" LINK="https://reactjs.org/docs/getting-started.html"/>
-<node TEXT="react roadmap" ID="ID_1313044671" CREATED="1571810538956" MODIFIED="1571810665499" LINK="https://github.com/adam-golab/react-developer-roadmap"/>
+<node TEXT="roadmap" ID="ID_1313044671" CREATED="1571810538956" MODIFIED="1571810954742" LINK="https://github.com/adam-golab/react-developer-roadmap">
+<node TEXT="mine" ID="ID_63308067" CREATED="1571810963274" MODIFIED="1571810970442" LINK="roadmap.mm"/>
+</node>
 </node>
 </node>
 </map>

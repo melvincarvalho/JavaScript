@@ -1,0 +1,57 @@
+<#ID_1226961462> <urn:string:@_TEXT> """Learn the Basics""" .
+<#ID_983192535> <urn:string:@_TEXT> """HTML""" .
+<#ID_983192535> <urn:string:child> <ID_983192535> .
+<#ID_1118553545> <urn:string:@_TEXT> """Learn the Basics""" .
+<#ID_1118553545> <urn:string:child> <ID_1118553545> .
+<#ID_505030620> <urn:string:@_TEXT> """Divide page into sections""" .
+<#ID_505030620> <urn:string:child> <ID_505030620> .
+<#ID_94548786> <urn:string:@_TEXT> """Semantic HTML""" .
+<#ID_94548786> <urn:string:child> <ID_94548786> .
+<#ID_1680700320> <urn:string:@_TEXT> """Structuring DOM""" .
+<#ID_1680700320> <urn:string:child> <ID_1680700320> .
+<#ID_353552199> <urn:string:@_TEXT> """CSS""" .
+<#ID_353552199> <urn:string:child> <ID_353552199> .
+<#ID_683981309> <urn:string:@_TEXT> """Learn the Basics""" .
+<#ID_683981309> <urn:string:child> <ID_683981309> .
+<#ID_294458053> <urn:string:@_TEXT> """Grid""" .
+<#ID_294458053> <urn:string:child> <ID_294458053> .
+<#ID_400699016> <urn:string:@_TEXT> """Flexbox""" .
+<#ID_400699016> <urn:string:child> <ID_400699016> .
+<#ID_354386883> <urn:string:@_TEXT> """Responsive""" .
+<#ID_354386883> <urn:string:child> <ID_354386883> .
+<#ID_1174268823> <urn:string:@_TEXT> """Media Queries""" .
+<#ID_1174268823> <urn:string:child> <ID_1174268823> .
+<#ID_479922325> <urn:string:@_TEXT> """JS""" .
+<#ID_479922325> <urn:string:child> <ID_479922325> .
+<#ID_1307760208> <urn:string:@_TEXT> """Learn Basics""" .
+<#ID_1307760208> <urn:string:child> <ID_1307760208> .
+<#ID_1660327032> <urn:string:@_TEXT> """Syntax and basic operations""" .
+<#ID_1660327032> <urn:string:child> <ID_1660327032> .
+<#ID_354910566> <urn:string:@_TEXT> """DOM manipulation""" .
+<#ID_354910566> <urn:string:child> <ID_354910566> .
+<#ID_1991172976> <urn:string:@_TEXT> """Hoisting""" .
+<#ID_1991172976> <urn:string:child> <ID_1991172976> .
+<#ID_676937316> <urn:string:@_TEXT> """Event Bubbling""" .
+<#ID_676937316> <urn:string:child> <ID_676937316> .
+<#ID_22290514> <urn:string:@_TEXT> """Prototyping""" .
+<#ID_22290514> <urn:string:child> <ID_22290514> .
+<#ID_850455083> <urn:string:@_TEXT> """AJAX""" .
+<#ID_850455083> <urn:string:child> <ID_850455083> .
+<#ID_342427820> <urn:string:@_TEXT> """ES6""" .
+<#ID_342427820> <urn:string:child> <ID_342427820> .
+<#ID_1002807887> <urn:string:@_TEXT> """Optional""" .
+<#ID_1002807887> <urn:string:child> <ID_1002807887> .
+<#ID_1762257958> <urn:string:@_TEXT> """Genaral Development Skills""" .
+<#ID_478513095> <urn:string:@_TEXT> """GIT""" .
+<#ID_478513095> <urn:string:child> <ID_478513095> .
+<#ID_738473052> <urn:string:@_TEXT> """HTTP / HTTPS""" .
+<#ID_738473052> <urn:string:child> <ID_738473052> .
+<#ID_244420502> <urn:string:@_TEXT> """Learn to search for solutions""" .
+<#ID_244420502> <urn:string:child> <ID_244420502> .
+<#ID_750418238> <urn:string:@_TEXT> """Terminal""" .
+<#ID_750418238> <urn:string:child> <ID_750418238> .
+<#ID_1403144772> <urn:string:@_TEXT> """Data Structures and Algorithms""" .
+<#ID_1403144772> <urn:string:child> <ID_1403144772> .
+<#ID_400624862> <urn:string:@_TEXT> """Design Patterns""" .
+<#ID_400624862> <urn:string:child> <ID_400624862> .
+<#ID_368966963> <urn:string:@_TEXT> """React""" .
