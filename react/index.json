@@ -187,31 +187,11 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 5,
+                    "@_COUNTER": 6,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
             "node": [
-                {
-                    "@_TEXT": "links",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_990086409",
-                    "@_CREATED": 1571160460734,
-                    "@_MODIFIED": 1571160488688,
-                    "icon": {
-                        "@_BUILTIN": "attach"
-                    },
-                    "edge": {
-                        "@_COLOR": "#ff00ff"
-                    },
-                    "node": {
-                        "@_TEXT": "getting started",
-                        "@_ID": "ID_1710336257",
-                        "@_CREATED": 1570527641882,
-                        "@_MODIFIED": 1571160465273,
-                        "@_LINK": "https://reactjs.org/docs/getting-started.html"
-                    }
-                },
                 {
                     "@_TEXT": "meta frameworks",
                     "@_POSITION": "right",
@@ -228,6 +208,35 @@
                         "@_MODIFIED": 1571227434154,
                         "@_LINK": "https://ionicframework.com/blog/announcing-ionic-react/"
                     }
+                },
+                {
+                    "@_TEXT": "links",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_990086409",
+                    "@_CREATED": 1571160460734,
+                    "@_MODIFIED": 1571160488688,
+                    "icon": {
+                        "@_BUILTIN": "attach"
+                    },
+                    "edge": {
+                        "@_COLOR": "#ff00ff"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "getting started",
+                            "@_ID": "ID_1710336257",
+                            "@_CREATED": 1570527641882,
+                            "@_MODIFIED": 1571160465273,
+                            "@_LINK": "https://reactjs.org/docs/getting-started.html"
+                        },
+                        {
+                            "@_TEXT": "react roadmap",
+                            "@_ID": "ID_1313044671",
+                            "@_CREATED": 1571810538956,
+                            "@_MODIFIED": 1571810665499,
+                            "@_LINK": "https://github.com/adam-golab/react-developer-roadmap"
+                        }
+                    ]
                 }
             ]
         }

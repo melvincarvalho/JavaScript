@@ -63,15 +63,16 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="links" POSITION="right" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
-<icon BUILTIN="attach"/>
-<edge COLOR="#ff00ff"/>
-<node TEXT="getting started" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1571160465273" LINK="https://reactjs.org/docs/getting-started.html"/>
-</node>
+<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="meta frameworks" POSITION="right" ID="ID_1544605098" CREATED="1571227413610" MODIFIED="1571227417749">
 <edge COLOR="#00ffff"/>
 <node TEXT="iconic" ID="ID_662028730" CREATED="1571227427047" MODIFIED="1571227434154" LINK="https://ionicframework.com/blog/announcing-ionic-react/"/>
+</node>
+<node TEXT="links" POSITION="left" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
+<icon BUILTIN="attach"/>
+<edge COLOR="#ff00ff"/>
+<node TEXT="getting started" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1571160465273" LINK="https://reactjs.org/docs/getting-started.html"/>
+<node TEXT="react roadmap" ID="ID_1313044671" CREATED="1571810538956" MODIFIED="1571810665499" LINK="https://github.com/adam-golab/react-developer-roadmap"/>
 </node>
 </node>
 </map>
