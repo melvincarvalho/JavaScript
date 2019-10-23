@@ -6,6 +6,26 @@
 <#ID_1544605098> <urn:string:@_TEXT> """meta frameworks""" .
 <#ID_1544605098> <urn:string:child> <ID_1544605098> .
 <#ID_724688107> <urn:string:@_TEXT> """Build Tools""" .
+<#ID_1501344868> <urn:string:@_TEXT> """Package Managers""" .
+<#ID_1501344868> <urn:string:child> <ID_1501344868> .
+<#ID_1504932536> <urn:string:@_TEXT> """npm""" .
+<#ID_1504932536> <urn:string:child> <ID_1504932536> .
+<#ID_188558832> <urn:string:@_TEXT> """yarn""" .
+<#ID_188558832> <urn:string:child> <ID_188558832> .
+<#ID_698465838> <urn:string:@_TEXT> """pnpm""" .
+<#ID_698465838> <urn:string:child> <ID_698465838> .
+<#ID_592275761> <urn:string:@_TEXT> """Task Runners""" .
+<#ID_592275761> <urn:string:child> <ID_592275761> .
+<#ID_1059037154> <urn:string:@_TEXT> """Parcel""" .
+<#ID_1059037154> <urn:string:child> <ID_1059037154> .
+<#ID_1143630574> <urn:string:@_TEXT> """Webpack""" .
+<#ID_1143630574> <urn:string:child> <ID_1143630574> .
+<#ID_839105692> <urn:string:@_TEXT> """Rollup""" .
+<#ID_839105692> <urn:string:child> <ID_839105692> .
+<#ID_1625995004> <urn:string:@_TEXT> """gulp""" .
+<#ID_1625995004> <urn:string:child> <ID_1625995004> .
+<#ID_1300991999> <urn:string:@_TEXT> """npm scripts""" .
+<#ID_1300991999> <urn:string:child> <ID_1300991999> .
 <#ID_1267363076> <urn:string:@_TEXT> """Styling""" .
 <#ID_1952310218> <urn:string:@_TEXT> """State Management""" .
 <#ID_1289375581> <urn:string:@_TEXT> """Type Checkers""" .

@@ -249,7 +249,81 @@
                     "@_MODIFIED": 1571817987453,
                     "edge": {
                         "@_COLOR": "#00007c"
-                    }
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "Package Managers",
+                            "@_ID": "ID_1501344868",
+                            "@_CREATED": 1571818240446,
+                            "@_MODIFIED": 1571818247534,
+                            "node": [
+                                {
+                                    "@_TEXT": "npm",
+                                    "@_ID": "ID_1504932536",
+                                    "@_CREATED": 1571818264272,
+                                    "@_MODIFIED": 1571818286848,
+                                    "@_LINK": "https://www.npmjs.com/"
+                                },
+                                {
+                                    "@_TEXT": "yarn",
+                                    "@_ID": "ID_188558832",
+                                    "@_CREATED": 1571818266961,
+                                    "@_MODIFIED": 1571818296089,
+                                    "@_LINK": "https://yarnpkg.com/lang/en/"
+                                },
+                                {
+                                    "@_TEXT": "pnpm",
+                                    "@_ID": "ID_698465838",
+                                    "@_CREATED": 1571818269440,
+                                    "@_MODIFIED": 1571818309392,
+                                    "@_LINK": "https://pnpm.js.org/"
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "Task Runners",
+                            "@_ID": "ID_592275761",
+                            "@_CREATED": 1571818370033,
+                            "@_MODIFIED": 1571818374007,
+                            "node": [
+                                {
+                                    "@_TEXT": "Parcel",
+                                    "@_ID": "ID_1059037154",
+                                    "@_CREATED": 1571818399036,
+                                    "@_MODIFIED": 1571818414261,
+                                    "@_LINK": "https://parceljs.org/"
+                                },
+                                {
+                                    "@_TEXT": "Webpack",
+                                    "@_ID": "ID_1143630574",
+                                    "@_CREATED": 1571818388947,
+                                    "@_MODIFIED": 1571818430216,
+                                    "@_LINK": "https://webpack.js.org/"
+                                },
+                                {
+                                    "@_TEXT": "Rollup",
+                                    "@_ID": "ID_839105692",
+                                    "@_CREATED": 1571818396289,
+                                    "@_MODIFIED": 1571818423193,
+                                    "@_LINK": "https://rollupjs.org/guide/en"
+                                },
+                                {
+                                    "@_TEXT": "gulp",
+                                    "@_ID": "ID_1625995004",
+                                    "@_CREATED": 1571818386283,
+                                    "@_MODIFIED": 1571818445223,
+                                    "@_LINK": "https://gulpjs.com/"
+                                },
+                                {
+                                    "@_TEXT": "npm scripts",
+                                    "@_ID": "ID_1300991999",
+                                    "@_CREATED": 1571818380320,
+                                    "@_MODIFIED": 1571818456661,
+                                    "@_LINK": "https://docs.npmjs.com/misc/scripts"
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "Styling",
