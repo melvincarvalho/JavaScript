@@ -6,7 +6,7 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1571980496737,
+            "@_MODIFIED": 1571980762154,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -240,14 +240,29 @@
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
-                    }
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "#javascript",
+                            "@_ID": "ID_1903100884",
+                            "@_CREATED": 1571980549151,
+                            "@_MODIFIED": 1571980553198
+                        },
+                        {
+                            "@_TEXT": "#arrays",
+                            "@_ID": "ID_574380056",
+                            "@_CREATED": 1571980554162,
+                            "@_MODIFIED": 1571980558584
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "iteration",
                     "@_POSITION": "right",
                     "@_ID": "ID_827097705",
                     "@_CREATED": 1571978822555,
-                    "@_MODIFIED": 1571980467810,
+                    "@_MODIFIED": 1571980781336,
+                    "@_COLOR": "#0000ff",
                     "@_HGAP_QUANTITY": "-103.74999649077662 pt",
                     "@_VSHIFT_QUANTITY": "29.2499991282821 pt",
                     "icon": {
@@ -295,7 +310,8 @@
                             "@_TEXT": "forEach",
                             "@_ID": "ID_1942187454",
                             "@_CREATED": 1571978552314,
-                            "@_MODIFIED": 1571978554389,
+                            "@_MODIFIED": 1571980604882,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach",
                             "node": {
                                 "@_TEXT": "fruits.forEach(function(item, index, array) {&#xa;  console.log(item, index);&#xa;});",
                                 "@_ID": "ID_291057477",
@@ -346,9 +362,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_422242255",
                     "@_CREATED": 1571978826011,
-                    "@_MODIFIED": 1571980484908,
-                    "@_HGAP_QUANTITY": "66.49999843537813 pt",
-                    "@_VSHIFT_QUANTITY": "-50.99999848008161 pt",
+                    "@_MODIFIED": 1571980802834,
+                    "@_COLOR": "#006600",
+                    "@_HGAP_QUANTITY": "101.7499973848463 pt",
+                    "@_VSHIFT_QUANTITY": "-17.24999948590996 pt",
                     "icon": {
                         "@_BUILTIN": "go"
                     },
@@ -367,12 +384,6 @@
                             "@_MODIFIED": 1571980332597
                         },
                         {
-                            "@_TEXT": "includes",
-                            "@_ID": "ID_1792313021",
-                            "@_CREATED": 1571980333402,
-                            "@_MODIFIED": 1571980335213
-                        },
-                        {
                             "@_TEXT": "indexOf",
                             "@_ID": "ID_350597574",
                             "@_CREATED": 1571980336041,
@@ -383,6 +394,19 @@
                             "@_ID": "ID_1430084916",
                             "@_CREATED": 1571980348129,
                             "@_MODIFIED": 1571980349568
+                        },
+                        {
+                            "@_TEXT": "includes",
+                            "@_ID": "ID_1792313021",
+                            "@_CREATED": 1571980333402,
+                            "@_MODIFIED": 1571980670158,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes",
+                            "node": {
+                                "@_TEXT": "var array1 = [1, 2, 3];&#xa;&#xa;console.log(array1.includes(2));&#xa;// expected output: true",
+                                "@_ID": "ID_1406062870",
+                                "@_CREATED": 1571980691899,
+                                "@_MODIFIED": 1571980692754
+                            }
                         },
                         {
                             "@_TEXT": "lastIndexOf",
@@ -429,7 +453,8 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_721627699",
                     "@_CREATED": 1571978829050,
-                    "@_MODIFIED": 1571980496737,
+                    "@_MODIFIED": 1571980819607,
+                    "@_COLOR": "#990000",
                     "@_HGAP_QUANTITY": "-104.49999646842491 pt",
                     "@_VSHIFT_QUANTITY": "-32.99999901652339 pt",
                     "icon": {
@@ -468,22 +493,29 @@
                             "@_MODIFIED": 1571980304226
                         },
                         {
+                            "@_TEXT": "splice",
+                            "@_ID": "ID_565005673",
+                            "@_CREATED": 1571980316594,
+                            "@_MODIFIED": 1571980723606,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice",
+                            "node": {
+                                "@_TEXT": "var months = [&apos;Jan&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;];&#xa;months.splice(1, 0, &apos;Feb&apos;);&#xa;// inserts at index 1&#xa;console.log(months);&#xa;// expected output: Array [&apos;Jan&apos;, &apos;Feb&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;]",
+                                "@_ID": "ID_1181484777",
+                                "@_CREATED": 1571980752354,
+                                "@_MODIFIED": 1571980754019
+                            }
+                        },
+                        {
                             "@_TEXT": "reverse",
                             "@_ID": "ID_722434115",
                             "@_CREATED": 1571980305274,
                             "@_MODIFIED": 1571980306955
                         },
                         {
-                            "@_TEXT": "shirt",
+                            "@_TEXT": "shift",
                             "@_ID": "ID_1190678486",
                             "@_CREATED": 1571980308001,
-                            "@_MODIFIED": 1571980309697
-                        },
-                        {
-                            "@_TEXT": "splice",
-                            "@_ID": "ID_565005673",
-                            "@_CREATED": 1571980316594,
-                            "@_MODIFIED": 1571980318460
+                            "@_MODIFIED": 1571980546653
                         },
                         {
                             "@_TEXT": "unshift",
