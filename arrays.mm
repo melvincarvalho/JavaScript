@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="arrays" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1571980762154" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="arrays" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572034579092" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -65,14 +65,14 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="8" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
-<icon BUILTIN="attach"/>
-<edge COLOR="#00007c"/>
-</node>
 <node TEXT="docs" POSITION="left" ID="ID_1100215200" CREATED="1570969039178" MODIFIED="1570980265221">
 <icon BUILTIN="folder"/>
 <edge COLOR="#ff00ff"/>
 <node TEXT="MDN" ID="ID_1330345949" CREATED="1571978468359" MODIFIED="1571980250295" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"/>
+</node>
+<node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
+<icon BUILTIN="attach"/>
+<edge COLOR="#00007c"/>
 <node TEXT="30s of Code" ID="ID_1680146975" CREATED="1572034321385" MODIFIED="1572034346581" LINK="https://github.com/30-seconds/30-seconds-of-code#-array"/>
 </node>
 <node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571340239144">
@@ -81,7 +81,7 @@
 <node TEXT="#javascript" ID="ID_1903100884" CREATED="1571980549151" MODIFIED="1571980553198"/>
 <node TEXT="#arrays" ID="ID_574380056" CREATED="1571980554162" MODIFIED="1571980558584"/>
 </node>
-<node TEXT="iteration" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1571980781336" COLOR="#0000ff" HGAP_QUANTITY="-103.74999649077662 pt" VSHIFT_QUANTITY="29.2499991282821 pt">
+<node TEXT="iteration (12)" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1572034575107" COLOR="#0000ff" HGAP_QUANTITY="-120.24999599903832 pt" VSHIFT_QUANTITY="38.249998860061204 pt">
 <icon BUILTIN="forward"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#7c0000"/>
@@ -100,7 +100,7 @@
 <node TEXT="some" ID="ID_393810531" CREATED="1571978905169" MODIFIED="1571981731919" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"/>
 <node TEXT="values" ID="ID_206168543" CREATED="1571978906922" MODIFIED="1571981736101" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"/>
 </node>
-<node TEXT="accessor" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1571980802834" COLOR="#006600" HGAP_QUANTITY="101.7499973848463 pt" VSHIFT_QUANTITY="-17.24999948590996 pt">
+<node TEXT="accessor(9)" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1572034588004" COLOR="#006600" HGAP_QUANTITY="49.99999892711644 pt" VSHIFT_QUANTITY="-31.499999061226877 pt">
 <icon BUILTIN="go"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#00007c"/>
@@ -118,20 +118,21 @@
 <node TEXT="LocaleString" ID="ID_1313686839" CREATED="1571980371193" MODIFIED="1571981583047" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toLocaleString"/>
 </node>
 </node>
-<node TEXT="mutator" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1571980819607" COLOR="#990000" HGAP_QUANTITY="-104.49999646842491 pt" VSHIFT_QUANTITY="-32.99999901652339 pt">
+<node TEXT="mutator (8)" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1572034541450" COLOR="#990000" HGAP_QUANTITY="-113.49999620020402 pt" VSHIFT_QUANTITY="-35.249998949468164 pt">
 <icon BUILTIN="yes"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#007c00"/>
-<node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571981617180" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"/>
-<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
+<node TEXT="push" ID="ID_994174174" CREATED="1571980302074" MODIFIED="1571981644721" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push">
 <node TEXT="pop" ID="ID_973548268" CREATED="1571980294848" MODIFIED="1571981639873" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"/>
-<node TEXT="push" ID="ID_994174174" CREATED="1571980302074" MODIFIED="1571981644721" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"/>
+<node TEXT="shift" ID="ID_1190678486" CREATED="1571980308001" MODIFIED="1571981656121" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"/>
+<node TEXT="unshift" ID="ID_352268515" CREATED="1571980319426" MODIFIED="1571981664901" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"/>
+</node>
 <node TEXT="splice" ID="ID_565005673" CREATED="1571980316594" MODIFIED="1571980723606" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice">
 <node TEXT="var months = [&apos;Jan&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;];&#xa;months.splice(1, 0, &apos;Feb&apos;);&#xa;// inserts at index 1&#xa;console.log(months);&#xa;// expected output: Array [&apos;Jan&apos;, &apos;Feb&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;]" ID="ID_1181484777" CREATED="1571980752354" MODIFIED="1571980754019"/>
 </node>
+<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
 <node TEXT="reverse" ID="ID_722434115" CREATED="1571980305274" MODIFIED="1571981651523" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"/>
-<node TEXT="shift" ID="ID_1190678486" CREATED="1571980308001" MODIFIED="1571981656121" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"/>
-<node TEXT="unshift" ID="ID_352268515" CREATED="1571980319426" MODIFIED="1571981664901" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"/>
+<node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571981617180" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"/>
 </node>
 </node>
 </map>
