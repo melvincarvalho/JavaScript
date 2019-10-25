@@ -284,27 +284,6 @@
                     },
                     "node": [
                         {
-                            "@_TEXT": "entries",
-                            "@_ID": "ID_1216656227",
-                            "@_CREATED": 1571978853161,
-                            "@_MODIFIED": 1571981690299,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries"
-                        },
-                        {
-                            "@_TEXT": "every",
-                            "@_ID": "ID_77683321",
-                            "@_CREATED": 1571978855931,
-                            "@_MODIFIED": 1571981694586,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"
-                        },
-                        {
-                            "@_TEXT": "filter",
-                            "@_ID": "ID_1350997162",
-                            "@_CREATED": 1571978857834,
-                            "@_MODIFIED": 1571981699327,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
-                        },
-                        {
                             "@_TEXT": "find",
                             "@_ID": "ID_373621069",
                             "@_CREATED": 1571978873518,
@@ -317,6 +296,27 @@
                             "@_CREATED": 1571978875332,
                             "@_MODIFIED": 1571981709552,
                             "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
+                        },
+                        {
+                            "@_TEXT": "keys",
+                            "@_ID": "ID_377269767",
+                            "@_CREATED": 1571978889459,
+                            "@_MODIFIED": 1571981713808,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys"
+                        },
+                        {
+                            "@_TEXT": "values",
+                            "@_ID": "ID_206168543",
+                            "@_CREATED": 1571978906922,
+                            "@_MODIFIED": 1571981736101,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"
+                        },
+                        {
+                            "@_TEXT": "entries",
+                            "@_ID": "ID_1216656227",
+                            "@_CREATED": 1571978853161,
+                            "@_MODIFIED": 1571981690299,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries"
                         },
                         {
                             "@_TEXT": "forEach",
@@ -332,11 +332,25 @@
                             }
                         },
                         {
-                            "@_TEXT": "keys",
-                            "@_ID": "ID_377269767",
-                            "@_CREATED": 1571978889459,
-                            "@_MODIFIED": 1571981713808,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys"
+                            "@_TEXT": "every",
+                            "@_ID": "ID_77683321",
+                            "@_CREATED": 1571978855931,
+                            "@_MODIFIED": 1571981694586,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"
+                        },
+                        {
+                            "@_TEXT": "some",
+                            "@_ID": "ID_393810531",
+                            "@_CREATED": 1571978905169,
+                            "@_MODIFIED": 1571981731919,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"
+                        },
+                        {
+                            "@_TEXT": "filter",
+                            "@_ID": "ID_1350997162",
+                            "@_CREATED": 1571978857834,
+                            "@_MODIFIED": 1571981699327,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
                         },
                         {
                             "@_TEXT": "map",
@@ -358,20 +372,6 @@
                             "@_CREATED": 1571978901956,
                             "@_MODIFIED": 1571981728266,
                             "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight"
-                        },
-                        {
-                            "@_TEXT": "some",
-                            "@_ID": "ID_393810531",
-                            "@_CREATED": 1571978905169,
-                            "@_MODIFIED": 1571981731919,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"
-                        },
-                        {
-                            "@_TEXT": "values",
-                            "@_ID": "ID_206168543",
-                            "@_CREATED": 1571978906922,
-                            "@_MODIFIED": 1571981736101,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"
                         }
                     ]
                 },
