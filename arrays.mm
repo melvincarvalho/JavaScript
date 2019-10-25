@@ -73,6 +73,7 @@
 <icon BUILTIN="folder"/>
 <edge COLOR="#ff00ff"/>
 <node TEXT="MDN" ID="ID_1330345949" CREATED="1571978468359" MODIFIED="1571980250295" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"/>
+<node TEXT="30s of Code" ID="ID_1680146975" CREATED="1572034321385" MODIFIED="1572034346581" LINK="https://github.com/30-seconds/30-seconds-of-code#-array"/>
 </node>
 <node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571340239144">
 <icon BUILTIN="hashtag"/>
@@ -82,8 +83,8 @@
 </node>
 <node TEXT="iteration" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1571980781336" COLOR="#0000ff" HGAP_QUANTITY="-103.74999649077662 pt" VSHIFT_QUANTITY="29.2499991282821 pt">
 <icon BUILTIN="forward"/>
-<edge COLOR="#7c0000"/>
 <font SIZE="12" BOLD="true"/>
+<edge COLOR="#7c0000"/>
 <node TEXT="entries" ID="ID_1216656227" CREATED="1571978853161" MODIFIED="1571981690299" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries"/>
 <node TEXT="every" ID="ID_77683321" CREATED="1571978855931" MODIFIED="1571981694586" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"/>
 <node TEXT="filter" ID="ID_1350997162" CREATED="1571978857834" MODIFIED="1571981699327" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"/>
@@ -101,8 +102,8 @@
 </node>
 <node TEXT="accessor" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1571980802834" COLOR="#006600" HGAP_QUANTITY="101.7499973848463 pt" VSHIFT_QUANTITY="-17.24999948590996 pt">
 <icon BUILTIN="go"/>
-<edge COLOR="#00007c"/>
 <font SIZE="12" BOLD="true"/>
+<edge COLOR="#00007c"/>
 <node TEXT="concat" ID="ID_442337071" CREATED="1571980331067" MODIFIED="1571981523113" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat"/>
 <node TEXT="indexOf" ID="ID_350597574" CREATED="1571980336041" MODIFIED="1571981509571" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"/>
 <node TEXT="join" ID="ID_1430084916" CREATED="1571980348129" MODIFIED="1571981480769" LINK="https://melvincarvalho.github.io/JavaScript/arrays.html"/>
@@ -119,8 +120,8 @@
 </node>
 <node TEXT="mutator" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1571980819607" COLOR="#990000" HGAP_QUANTITY="-104.49999646842491 pt" VSHIFT_QUANTITY="-32.99999901652339 pt">
 <icon BUILTIN="yes"/>
-<edge COLOR="#007c00"/>
 <font SIZE="12" BOLD="true"/>
+<edge COLOR="#007c00"/>
 <node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571981617180" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"/>
 <node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
 <node TEXT="pop" ID="ID_973548268" CREATED="1571980294848" MODIFIED="1571981639873" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"/>
