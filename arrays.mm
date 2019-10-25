@@ -121,16 +121,16 @@
 <icon BUILTIN="yes"/>
 <edge COLOR="#007c00"/>
 <font SIZE="12" BOLD="true"/>
-<node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571980291548"/>
-<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571980294076"/>
-<node TEXT="pop" ID="ID_973548268" CREATED="1571980294848" MODIFIED="1571980296238"/>
-<node TEXT="push" ID="ID_994174174" CREATED="1571980302074" MODIFIED="1571980304226"/>
+<node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571981617180" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"/>
+<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
+<node TEXT="pop" ID="ID_973548268" CREATED="1571980294848" MODIFIED="1571981639873" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"/>
+<node TEXT="push" ID="ID_994174174" CREATED="1571980302074" MODIFIED="1571981644721" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"/>
 <node TEXT="splice" ID="ID_565005673" CREATED="1571980316594" MODIFIED="1571980723606" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice">
 <node TEXT="var months = [&apos;Jan&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;];&#xa;months.splice(1, 0, &apos;Feb&apos;);&#xa;// inserts at index 1&#xa;console.log(months);&#xa;// expected output: Array [&apos;Jan&apos;, &apos;Feb&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;]" ID="ID_1181484777" CREATED="1571980752354" MODIFIED="1571980754019"/>
 </node>
-<node TEXT="reverse" ID="ID_722434115" CREATED="1571980305274" MODIFIED="1571980306955"/>
-<node TEXT="shift" ID="ID_1190678486" CREATED="1571980308001" MODIFIED="1571980546653"/>
-<node TEXT="unshift" ID="ID_352268515" CREATED="1571980319426" MODIFIED="1571980321698"/>
+<node TEXT="reverse" ID="ID_722434115" CREATED="1571980305274" MODIFIED="1571981651523" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"/>
+<node TEXT="shift" ID="ID_1190678486" CREATED="1571980308001" MODIFIED="1571981656121" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"/>
+<node TEXT="unshift" ID="ID_352268515" CREATED="1571980319426" MODIFIED="1571981664901" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"/>
 </node>
 </node>
 </map>

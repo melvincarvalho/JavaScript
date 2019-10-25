@@ -480,25 +480,29 @@
                             "@_TEXT": "copyWithin",
                             "@_ID": "ID_1584821407",
                             "@_CREATED": 1571980288841,
-                            "@_MODIFIED": 1571980291548
+                            "@_MODIFIED": 1571981617180,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"
                         },
                         {
                             "@_TEXT": "fill",
                             "@_ID": "ID_1156710882",
                             "@_CREATED": 1571980292484,
-                            "@_MODIFIED": 1571980294076
+                            "@_MODIFIED": 1571981628239,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"
                         },
                         {
                             "@_TEXT": "pop",
                             "@_ID": "ID_973548268",
                             "@_CREATED": 1571980294848,
-                            "@_MODIFIED": 1571980296238
+                            "@_MODIFIED": 1571981639873,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop"
                         },
                         {
                             "@_TEXT": "push",
                             "@_ID": "ID_994174174",
                             "@_CREATED": 1571980302074,
-                            "@_MODIFIED": 1571980304226
+                            "@_MODIFIED": 1571981644721,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push"
                         },
                         {
                             "@_TEXT": "splice",
@@ -517,19 +521,22 @@
                             "@_TEXT": "reverse",
                             "@_ID": "ID_722434115",
                             "@_CREATED": 1571980305274,
-                            "@_MODIFIED": 1571980306955
+                            "@_MODIFIED": 1571981651523,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"
                         },
                         {
                             "@_TEXT": "shift",
                             "@_ID": "ID_1190678486",
                             "@_CREATED": 1571980308001,
-                            "@_MODIFIED": 1571980546653
+                            "@_MODIFIED": 1571981656121,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift"
                         },
                         {
                             "@_TEXT": "unshift",
                             "@_ID": "ID_352268515",
                             "@_CREATED": 1571980319426,
-                            "@_MODIFIED": 1571980321698
+                            "@_MODIFIED": 1571981664901,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift"
                         }
                     ]
                 }
