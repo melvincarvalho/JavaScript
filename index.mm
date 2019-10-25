@@ -80,7 +80,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/sorrycc/awesome-javascript">https://github.com/sorrycc/awesome-javascript</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -104,8 +103,8 @@
 </node>
 <node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1570477828743">
 <edge COLOR="#7c0000"/>
-<node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571160355679" LINK="react/index.mm">
-<icon BUILTIN="folder"/>
+<node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571821835867" LINK="react/index.mm">
+<icon BUILTIN="list"/>
 </node>
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
@@ -161,7 +160,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://jsfiddle.net/">https://jsfiddle.net/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_942460316" CREATED="1571361098536" MODIFIED="1571361098536" LINK="https://codepen.io/"><richcontent TYPE="NODE">
@@ -174,7 +172,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://codepen.io/">https://codepen.io/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
