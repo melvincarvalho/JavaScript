@@ -6,7 +6,7 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1572034579092,
+            "@_MODIFIED": 1572035300324,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -380,10 +380,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_422242255",
                     "@_CREATED": 1571978826011,
-                    "@_MODIFIED": 1572034588004,
+                    "@_MODIFIED": 1572035300324,
                     "@_COLOR": "#006600",
-                    "@_HGAP_QUANTITY": "49.99999892711644 pt",
-                    "@_VSHIFT_QUANTITY": "-31.499999061226877 pt",
+                    "@_HGAP_QUANTITY": "49.24999894946818 pt",
+                    "@_VSHIFT_QUANTITY": "-25.499999240040808 pt",
                     "icon": {
                         "@_BUILTIN": "go"
                     },
@@ -475,14 +475,14 @@
                     ]
                 },
                 {
-                    "@_TEXT": "mutator (8)",
+                    "@_TEXT": "mutator (10)",
                     "@_POSITION": "right",
                     "@_ID": "ID_721627699",
                     "@_CREATED": 1571978829050,
-                    "@_MODIFIED": 1572034541450,
+                    "@_MODIFIED": 1572035297234,
                     "@_COLOR": "#990000",
-                    "@_HGAP_QUANTITY": "-113.49999620020402 pt",
-                    "@_VSHIFT_QUANTITY": "-35.249998949468164 pt",
+                    "@_HGAP_QUANTITY": "-120.24999599903835 pt",
+                    "@_VSHIFT_QUANTITY": "-34.499998971819906 pt",
                     "icon": {
                         "@_BUILTIN": "yes"
                     },
@@ -538,11 +538,11 @@
                             }
                         },
                         {
-                            "@_TEXT": "fill",
-                            "@_ID": "ID_1156710882",
-                            "@_CREATED": 1571980292484,
-                            "@_MODIFIED": 1571981628239,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"
+                            "@_TEXT": "sort",
+                            "@_ID": "ID_1987014924",
+                            "@_CREATED": 1572035276842,
+                            "@_MODIFIED": 1572035286429,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
                         },
                         {
                             "@_TEXT": "reverse",
@@ -550,6 +550,13 @@
                             "@_CREATED": 1571980305274,
                             "@_MODIFIED": 1571981651523,
                             "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"
+                        },
+                        {
+                            "@_TEXT": "fill",
+                            "@_ID": "ID_1156710882",
+                            "@_CREATED": 1571980292484,
+                            "@_MODIFIED": 1571981628239,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"
                         },
                         {
                             "@_TEXT": "copyWithin",

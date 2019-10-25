@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="arrays" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572034579092" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="arrays" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572035300324" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -100,7 +100,7 @@
 <node TEXT="some" ID="ID_393810531" CREATED="1571978905169" MODIFIED="1571981731919" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"/>
 <node TEXT="values" ID="ID_206168543" CREATED="1571978906922" MODIFIED="1571981736101" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"/>
 </node>
-<node TEXT="accessor(9)" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1572034588004" COLOR="#006600" HGAP_QUANTITY="49.99999892711644 pt" VSHIFT_QUANTITY="-31.499999061226877 pt">
+<node TEXT="accessor(9)" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1572035300324" COLOR="#006600" HGAP_QUANTITY="49.24999894946818 pt" VSHIFT_QUANTITY="-25.499999240040808 pt">
 <icon BUILTIN="go"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#00007c"/>
@@ -118,7 +118,7 @@
 <node TEXT="LocaleString" ID="ID_1313686839" CREATED="1571980371193" MODIFIED="1571981583047" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toLocaleString"/>
 </node>
 </node>
-<node TEXT="mutator (8)" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1572034541450" COLOR="#990000" HGAP_QUANTITY="-113.49999620020402 pt" VSHIFT_QUANTITY="-35.249998949468164 pt">
+<node TEXT="mutator (10)" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1572035297234" COLOR="#990000" HGAP_QUANTITY="-120.24999599903835 pt" VSHIFT_QUANTITY="-34.499998971819906 pt">
 <icon BUILTIN="yes"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#007c00"/>
@@ -130,8 +130,9 @@
 <node TEXT="splice" ID="ID_565005673" CREATED="1571980316594" MODIFIED="1571980723606" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice">
 <node TEXT="var months = [&apos;Jan&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;];&#xa;months.splice(1, 0, &apos;Feb&apos;);&#xa;// inserts at index 1&#xa;console.log(months);&#xa;// expected output: Array [&apos;Jan&apos;, &apos;Feb&apos;, &apos;March&apos;, &apos;April&apos;, &apos;June&apos;]" ID="ID_1181484777" CREATED="1571980752354" MODIFIED="1571980754019"/>
 </node>
-<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
+<node TEXT="sort" ID="ID_1987014924" CREATED="1572035276842" MODIFIED="1572035286429" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"/>
 <node TEXT="reverse" ID="ID_722434115" CREATED="1571980305274" MODIFIED="1571981651523" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse"/>
+<node TEXT="fill" ID="ID_1156710882" CREATED="1571980292484" MODIFIED="1571981628239" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill"/>
 <node TEXT="copyWithin" ID="ID_1584821407" CREATED="1571980288841" MODIFIED="1571981617180" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/copyWithin"/>
 </node>
 </node>
