@@ -84,20 +84,20 @@
 <icon BUILTIN="forward"/>
 <edge COLOR="#7c0000"/>
 <font SIZE="12" BOLD="true"/>
-<node TEXT="entries" ID="ID_1216656227" CREATED="1571978853161" MODIFIED="1571978855068"/>
-<node TEXT="every" ID="ID_77683321" CREATED="1571978855931" MODIFIED="1571978857177"/>
-<node TEXT="filter" ID="ID_1350997162" CREATED="1571978857834" MODIFIED="1571978859507"/>
-<node TEXT="find" ID="ID_373621069" CREATED="1571978873518" MODIFIED="1571978874614"/>
-<node TEXT="findIndex" ID="ID_120563982" CREATED="1571978875332" MODIFIED="1571978878573"/>
+<node TEXT="entries" ID="ID_1216656227" CREATED="1571978853161" MODIFIED="1571981690299" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries"/>
+<node TEXT="every" ID="ID_77683321" CREATED="1571978855931" MODIFIED="1571981694586" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"/>
+<node TEXT="filter" ID="ID_1350997162" CREATED="1571978857834" MODIFIED="1571981699327" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"/>
+<node TEXT="find" ID="ID_373621069" CREATED="1571978873518" MODIFIED="1571981703455" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"/>
+<node TEXT="findIndex" ID="ID_120563982" CREATED="1571978875332" MODIFIED="1571981709552" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"/>
 <node TEXT="forEach" ID="ID_1942187454" CREATED="1571978552314" MODIFIED="1571980604882" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach">
 <node TEXT="fruits.forEach(function(item, index, array) {&#xa;  console.log(item, index);&#xa;});" ID="ID_291057477" CREATED="1571978718530" MODIFIED="1571978719616"/>
 </node>
-<node TEXT="keys" ID="ID_377269767" CREATED="1571978889459" MODIFIED="1571978890477"/>
-<node TEXT="map" ID="ID_1120455035" CREATED="1571978893194" MODIFIED="1571978894237"/>
-<node TEXT="reduce" ID="ID_965427273" CREATED="1571978894993" MODIFIED="1571978896700"/>
-<node TEXT="reduceRight" ID="ID_921495174" CREATED="1571978901956" MODIFIED="1571978904373"/>
-<node TEXT="some" ID="ID_393810531" CREATED="1571978905169" MODIFIED="1571978906198"/>
-<node TEXT="values" ID="ID_206168543" CREATED="1571978906922" MODIFIED="1571978908014"/>
+<node TEXT="keys" ID="ID_377269767" CREATED="1571978889459" MODIFIED="1571981713808" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys"/>
+<node TEXT="map" ID="ID_1120455035" CREATED="1571978893194" MODIFIED="1571981717688" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"/>
+<node TEXT="reduce" ID="ID_965427273" CREATED="1571978894993" MODIFIED="1571981722382" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce"/>
+<node TEXT="reduceRight" ID="ID_921495174" CREATED="1571978901956" MODIFIED="1571981728266" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight"/>
+<node TEXT="some" ID="ID_393810531" CREATED="1571978905169" MODIFIED="1571981731919" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"/>
+<node TEXT="values" ID="ID_206168543" CREATED="1571978906922" MODIFIED="1571981736101" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"/>
 </node>
 <node TEXT="accessor" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1571980802834" COLOR="#006600" HGAP_QUANTITY="101.7499973848463 pt" VSHIFT_QUANTITY="-17.24999948590996 pt">
 <icon BUILTIN="go"/>

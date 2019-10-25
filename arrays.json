@@ -280,31 +280,36 @@
                             "@_TEXT": "entries",
                             "@_ID": "ID_1216656227",
                             "@_CREATED": 1571978853161,
-                            "@_MODIFIED": 1571978855068
+                            "@_MODIFIED": 1571981690299,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries"
                         },
                         {
                             "@_TEXT": "every",
                             "@_ID": "ID_77683321",
                             "@_CREATED": 1571978855931,
-                            "@_MODIFIED": 1571978857177
+                            "@_MODIFIED": 1571981694586,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every"
                         },
                         {
                             "@_TEXT": "filter",
                             "@_ID": "ID_1350997162",
                             "@_CREATED": 1571978857834,
-                            "@_MODIFIED": 1571978859507
+                            "@_MODIFIED": 1571981699327,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter"
                         },
                         {
                             "@_TEXT": "find",
                             "@_ID": "ID_373621069",
                             "@_CREATED": 1571978873518,
-                            "@_MODIFIED": 1571978874614
+                            "@_MODIFIED": 1571981703455,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
                         },
                         {
                             "@_TEXT": "findIndex",
                             "@_ID": "ID_120563982",
                             "@_CREATED": 1571978875332,
-                            "@_MODIFIED": 1571978878573
+                            "@_MODIFIED": 1571981709552,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex"
                         },
                         {
                             "@_TEXT": "forEach",
@@ -323,37 +328,43 @@
                             "@_TEXT": "keys",
                             "@_ID": "ID_377269767",
                             "@_CREATED": 1571978889459,
-                            "@_MODIFIED": 1571978890477
+                            "@_MODIFIED": 1571981713808,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys"
                         },
                         {
                             "@_TEXT": "map",
                             "@_ID": "ID_1120455035",
                             "@_CREATED": 1571978893194,
-                            "@_MODIFIED": 1571978894237
+                            "@_MODIFIED": 1571981717688,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
                         },
                         {
                             "@_TEXT": "reduce",
                             "@_ID": "ID_965427273",
                             "@_CREATED": 1571978894993,
-                            "@_MODIFIED": 1571978896700
+                            "@_MODIFIED": 1571981722382,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce"
                         },
                         {
                             "@_TEXT": "reduceRight",
                             "@_ID": "ID_921495174",
                             "@_CREATED": 1571978901956,
-                            "@_MODIFIED": 1571978904373
+                            "@_MODIFIED": 1571981728266,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduceRight"
                         },
                         {
                             "@_TEXT": "some",
                             "@_ID": "ID_393810531",
                             "@_CREATED": 1571978905169,
-                            "@_MODIFIED": 1571978906198
+                            "@_MODIFIED": 1571981731919,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some"
                         },
                         {
                             "@_TEXT": "values",
                             "@_ID": "ID_206168543",
                             "@_CREATED": 1571978906922,
-                            "@_MODIFIED": 1571978908014
+                            "@_MODIFIED": 1571981736101,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values"
                         }
                     ]
                 },
