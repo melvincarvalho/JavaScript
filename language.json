@@ -229,24 +229,6 @@
                         "@_MODIFIED": 1571978478197,
                         "node": [
                             {
-                                "@_TEXT": "every",
-                                "@_ID": "ID_1482898744",
-                                "@_CREATED": 1571978628724,
-                                "@_MODIFIED": 1571978630119
-                            },
-                            {
-                                "@_TEXT": "filter",
-                                "@_ID": "ID_540399478",
-                                "@_CREATED": 1571978550313,
-                                "@_MODIFIED": 1571978551601
-                            },
-                            {
-                                "@_TEXT": "forEach",
-                                "@_ID": "ID_1942187454",
-                                "@_CREATED": 1571978552314,
-                                "@_MODIFIED": 1571978554389
-                            },
-                            {
                                 "@_TEXT": "includes",
                                 "@_ID": "ID_1077308008",
                                 "@_CREATED": 1571978560769,
@@ -311,6 +293,104 @@
                                     "@_CREATED": 1571978612312,
                                     "@_MODIFIED": 1571978613987
                                 }
+                            },
+                            {
+                                "@_TEXT": "iteration",
+                                "@_ID": "ID_827097705",
+                                "@_CREATED": 1571978822555,
+                                "@_MODIFIED": 1571978824752,
+                                "node": [
+                                    {
+                                        "@_TEXT": "entries",
+                                        "@_ID": "ID_1216656227",
+                                        "@_CREATED": 1571978853161,
+                                        "@_MODIFIED": 1571978855068
+                                    },
+                                    {
+                                        "@_TEXT": "every",
+                                        "@_ID": "ID_77683321",
+                                        "@_CREATED": 1571978855931,
+                                        "@_MODIFIED": 1571978857177
+                                    },
+                                    {
+                                        "@_TEXT": "filter",
+                                        "@_ID": "ID_1350997162",
+                                        "@_CREATED": 1571978857834,
+                                        "@_MODIFIED": 1571978859507
+                                    },
+                                    {
+                                        "@_TEXT": "find",
+                                        "@_ID": "ID_373621069",
+                                        "@_CREATED": 1571978873518,
+                                        "@_MODIFIED": 1571978874614
+                                    },
+                                    {
+                                        "@_TEXT": "findIndex",
+                                        "@_ID": "ID_120563982",
+                                        "@_CREATED": 1571978875332,
+                                        "@_MODIFIED": 1571978878573
+                                    },
+                                    {
+                                        "@_TEXT": "forEach",
+                                        "@_ID": "ID_1942187454",
+                                        "@_CREATED": 1571978552314,
+                                        "@_MODIFIED": 1571978554389,
+                                        "node": {
+                                            "@_TEXT": "fruits.forEach(function(item, index, array) {&#xa;  console.log(item, index);&#xa;});",
+                                            "@_ID": "ID_291057477",
+                                            "@_CREATED": 1571978718530,
+                                            "@_MODIFIED": 1571978719616
+                                        }
+                                    },
+                                    {
+                                        "@_TEXT": "keys",
+                                        "@_ID": "ID_377269767",
+                                        "@_CREATED": 1571978889459,
+                                        "@_MODIFIED": 1571978890477
+                                    },
+                                    {
+                                        "@_TEXT": "map",
+                                        "@_ID": "ID_1120455035",
+                                        "@_CREATED": 1571978893194,
+                                        "@_MODIFIED": 1571978894237
+                                    },
+                                    {
+                                        "@_TEXT": "reduce",
+                                        "@_ID": "ID_965427273",
+                                        "@_CREATED": 1571978894993,
+                                        "@_MODIFIED": 1571978896700
+                                    },
+                                    {
+                                        "@_TEXT": "reduceRight",
+                                        "@_ID": "ID_921495174",
+                                        "@_CREATED": 1571978901956,
+                                        "@_MODIFIED": 1571978904373
+                                    },
+                                    {
+                                        "@_TEXT": "some",
+                                        "@_ID": "ID_393810531",
+                                        "@_CREATED": 1571978905169,
+                                        "@_MODIFIED": 1571978906198
+                                    },
+                                    {
+                                        "@_TEXT": "values",
+                                        "@_ID": "ID_206168543",
+                                        "@_CREATED": 1571978906922,
+                                        "@_MODIFIED": 1571978908014
+                                    }
+                                ]
+                            },
+                            {
+                                "@_TEXT": "accessor",
+                                "@_ID": "ID_422242255",
+                                "@_CREATED": 1571978826011,
+                                "@_MODIFIED": 1571978827845
+                            },
+                            {
+                                "@_TEXT": "mutator",
+                                "@_ID": "ID_721627699",
+                                "@_CREATED": 1571978829050,
+                                "@_MODIFIED": 1571978831226
                             }
                         ]
                     }
