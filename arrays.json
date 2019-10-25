@@ -381,19 +381,22 @@
                             "@_TEXT": "concat",
                             "@_ID": "ID_442337071",
                             "@_CREATED": 1571980331067,
-                            "@_MODIFIED": 1571980332597
+                            "@_MODIFIED": 1571981523113,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat"
                         },
                         {
                             "@_TEXT": "indexOf",
                             "@_ID": "ID_350597574",
                             "@_CREATED": 1571980336041,
-                            "@_MODIFIED": 1571980338961
+                            "@_MODIFIED": 1571981509571,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf"
                         },
                         {
                             "@_TEXT": "join",
                             "@_ID": "ID_1430084916",
                             "@_CREATED": 1571980348129,
-                            "@_MODIFIED": 1571980349568
+                            "@_MODIFIED": 1571981480769,
+                            "@_LINK": "https://melvincarvalho.github.io/JavaScript/arrays.html"
                         },
                         {
                             "@_TEXT": "includes",
@@ -412,13 +415,15 @@
                             "@_TEXT": "lastIndexOf",
                             "@_ID": "ID_659535653",
                             "@_CREATED": 1571980350401,
-                            "@_MODIFIED": 1571980353775
+                            "@_MODIFIED": 1571981535358,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf"
                         },
                         {
                             "@_TEXT": "slice",
                             "@_ID": "ID_1574549482",
                             "@_CREATED": 1571980354516,
-                            "@_MODIFIED": 1571980356093
+                            "@_MODIFIED": 1571981549720,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice"
                         },
                         {
                             "@_TEXT": "to",
@@ -430,19 +435,22 @@
                                     "@_TEXT": "Source",
                                     "@_ID": "ID_1988183786",
                                     "@_CREATED": 1571980364982,
-                                    "@_MODIFIED": 1571980377998
+                                    "@_MODIFIED": 1571981562077,
+                                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toSource"
                                 },
                                 {
                                     "@_TEXT": "String",
                                     "@_ID": "ID_799815160",
                                     "@_CREATED": 1571980367441,
-                                    "@_MODIFIED": 1571980369904
+                                    "@_MODIFIED": 1571981572014,
+                                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toString"
                                 },
                                 {
                                     "@_TEXT": "LocaleString",
                                     "@_ID": "ID_1313686839",
                                     "@_CREATED": 1571980371193,
-                                    "@_MODIFIED": 1571980375538
+                                    "@_MODIFIED": 1571981583047,
+                                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toLocaleString"
                                 }
                             ]
                         }
