@@ -2,11 +2,11 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "language",
+            "@_TEXT": "arrays",
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1571271635147,
+            "@_MODIFIED": 1571980496737,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -191,216 +191,11 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 6,
+                    "@_COUNTER": 8,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
             "node": [
-                {
-                    "@_TEXT": "Spec",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_120250381",
-                    "@_CREATED": 1570979967089,
-                    "@_MODIFIED": 1571978467214,
-                    "icon": {
-                        "@_BUILTIN": "list"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00ff00"
-                    },
-                    "font": {
-                        "@_BOLD": true
-                    }
-                },
-                {
-                    "@_TEXT": "Arrays",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1330345949",
-                    "@_CREATED": 1571978468359,
-                    "@_MODIFIED": 1571978535075,
-                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
-                    "edge": {
-                        "@_COLOR": "#00ffff"
-                    },
-                    "node": {
-                        "@_TEXT": "functions",
-                        "@_ID": "ID_858094962",
-                        "@_CREATED": 1571978475848,
-                        "@_MODIFIED": 1571978478197,
-                        "node": [
-                            {
-                                "@_TEXT": "includes",
-                                "@_ID": "ID_1077308008",
-                                "@_CREATED": 1571978560769,
-                                "@_MODIFIED": 1571978562529
-                            },
-                            {
-                                "@_TEXT": "indexOf",
-                                "@_ID": "ID_1005453800",
-                                "@_CREATED": 1571978563376,
-                                "@_MODIFIED": 1571978565640
-                            },
-                            {
-                                "@_TEXT": "join",
-                                "@_ID": "ID_1924796388",
-                                "@_CREATED": 1571978573151,
-                                "@_MODIFIED": 1571978574975
-                            },
-                            {
-                                "@_TEXT": "keys",
-                                "@_ID": "ID_188137922",
-                                "@_CREATED": 1571978575801,
-                                "@_MODIFIED": 1571978577050
-                            },
-                            {
-                                "@_TEXT": "map",
-                                "@_ID": "ID_272441636",
-                                "@_CREATED": 1571978577977,
-                                "@_MODIFIED": 1571978579353
-                            },
-                            {
-                                "@_TEXT": "push",
-                                "@_ID": "ID_767134869",
-                                "@_CREATED": 1571978585687,
-                                "@_MODIFIED": 1571978587042
-                            },
-                            {
-                                "@_TEXT": "reverse",
-                                "@_ID": "ID_958422736",
-                                "@_CREATED": 1571978598099,
-                                "@_MODIFIED": 1571978599427
-                            },
-                            {
-                                "@_TEXT": "sort",
-                                "@_ID": "ID_1543473057",
-                                "@_CREATED": 1571978600161,
-                                "@_MODIFIED": 1571978601220
-                            },
-                            {
-                                "@_TEXT": "slice",
-                                "@_ID": "ID_1256535483",
-                                "@_CREATED": 1571978602139,
-                                "@_MODIFIED": 1571978605035,
-                                "node": {
-                                    "@_TEXT": "splice",
-                                    "@_ID": "ID_1917036544",
-                                    "@_CREATED": 1571978612312,
-                                    "@_MODIFIED": 1571978613987
-                                }
-                            },
-                            {
-                                "@_TEXT": "iteration",
-                                "@_ID": "ID_827097705",
-                                "@_CREATED": 1571978822555,
-                                "@_MODIFIED": 1571978824752,
-                                "node": [
-                                    {
-                                        "@_TEXT": "entries",
-                                        "@_ID": "ID_1216656227",
-                                        "@_CREATED": 1571978853161,
-                                        "@_MODIFIED": 1571978855068
-                                    },
-                                    {
-                                        "@_TEXT": "every",
-                                        "@_ID": "ID_77683321",
-                                        "@_CREATED": 1571978855931,
-                                        "@_MODIFIED": 1571978857177
-                                    },
-                                    {
-                                        "@_TEXT": "filter",
-                                        "@_ID": "ID_1350997162",
-                                        "@_CREATED": 1571978857834,
-                                        "@_MODIFIED": 1571978859507
-                                    },
-                                    {
-                                        "@_TEXT": "find",
-                                        "@_ID": "ID_373621069",
-                                        "@_CREATED": 1571978873518,
-                                        "@_MODIFIED": 1571978874614
-                                    },
-                                    {
-                                        "@_TEXT": "findIndex",
-                                        "@_ID": "ID_120563982",
-                                        "@_CREATED": 1571978875332,
-                                        "@_MODIFIED": 1571978878573
-                                    },
-                                    {
-                                        "@_TEXT": "forEach",
-                                        "@_ID": "ID_1942187454",
-                                        "@_CREATED": 1571978552314,
-                                        "@_MODIFIED": 1571978554389,
-                                        "node": {
-                                            "@_TEXT": "fruits.forEach(function(item, index, array) {&#xa;  console.log(item, index);&#xa;});",
-                                            "@_ID": "ID_291057477",
-                                            "@_CREATED": 1571978718530,
-                                            "@_MODIFIED": 1571978719616
-                                        }
-                                    },
-                                    {
-                                        "@_TEXT": "keys",
-                                        "@_ID": "ID_377269767",
-                                        "@_CREATED": 1571978889459,
-                                        "@_MODIFIED": 1571978890477
-                                    },
-                                    {
-                                        "@_TEXT": "map",
-                                        "@_ID": "ID_1120455035",
-                                        "@_CREATED": 1571978893194,
-                                        "@_MODIFIED": 1571978894237
-                                    },
-                                    {
-                                        "@_TEXT": "reduce",
-                                        "@_ID": "ID_965427273",
-                                        "@_CREATED": 1571978894993,
-                                        "@_MODIFIED": 1571978896700
-                                    },
-                                    {
-                                        "@_TEXT": "reduceRight",
-                                        "@_ID": "ID_921495174",
-                                        "@_CREATED": 1571978901956,
-                                        "@_MODIFIED": 1571978904373
-                                    },
-                                    {
-                                        "@_TEXT": "some",
-                                        "@_ID": "ID_393810531",
-                                        "@_CREATED": 1571978905169,
-                                        "@_MODIFIED": 1571978906198
-                                    },
-                                    {
-                                        "@_TEXT": "values",
-                                        "@_ID": "ID_206168543",
-                                        "@_CREATED": 1571978906922,
-                                        "@_MODIFIED": 1571978908014
-                                    }
-                                ]
-                            },
-                            {
-                                "@_TEXT": "accessor",
-                                "@_ID": "ID_422242255",
-                                "@_CREATED": 1571978826011,
-                                "@_MODIFIED": 1571978827845
-                            },
-                            {
-                                "@_TEXT": "mutator",
-                                "@_ID": "ID_721627699",
-                                "@_CREATED": 1571978829050,
-                                "@_MODIFIED": 1571978831226
-                            }
-                        ]
-                    }
-                },
-                {
-                    "@_TEXT": "arrays",
-                    "@_LOCALIZED_STYLE_REF": "styles.subsubtopic",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1284928462",
-                    "@_CREATED": 1571980169123,
-                    "@_MODIFIED": 1571980180331,
-                    "@_LINK": "arrays.mm",
-                    "edge": {
-                        "@_COLOR": "#7c0000"
-                    }
-                },
                 {
                     "@_TEXT": "links",
                     "@_POSITION": "left",
@@ -425,6 +220,13 @@
                     },
                     "edge": {
                         "@_COLOR": "#ff00ff"
+                    },
+                    "node": {
+                        "@_TEXT": "MDN",
+                        "@_ID": "ID_1330345949",
+                        "@_CREATED": 1571978468359,
+                        "@_MODIFIED": 1571980250295,
+                        "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
                     }
                 },
                 {
@@ -432,13 +234,264 @@
                     "@_POSITION": "left",
                     "@_ID": "ID_466759422",
                     "@_CREATED": 1570968754383,
-                    "@_MODIFIED": 1571411739700,
+                    "@_MODIFIED": 1571340239144,
                     "icon": {
                         "@_BUILTIN": "hashtag"
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
                     }
+                },
+                {
+                    "@_TEXT": "iteration",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_827097705",
+                    "@_CREATED": 1571978822555,
+                    "@_MODIFIED": 1571980467810,
+                    "@_HGAP_QUANTITY": "-103.74999649077662 pt",
+                    "@_VSHIFT_QUANTITY": "29.2499991282821 pt",
+                    "icon": {
+                        "@_BUILTIN": "forward"
+                    },
+                    "edge": {
+                        "@_COLOR": "#7c0000"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "entries",
+                            "@_ID": "ID_1216656227",
+                            "@_CREATED": 1571978853161,
+                            "@_MODIFIED": 1571978855068
+                        },
+                        {
+                            "@_TEXT": "every",
+                            "@_ID": "ID_77683321",
+                            "@_CREATED": 1571978855931,
+                            "@_MODIFIED": 1571978857177
+                        },
+                        {
+                            "@_TEXT": "filter",
+                            "@_ID": "ID_1350997162",
+                            "@_CREATED": 1571978857834,
+                            "@_MODIFIED": 1571978859507
+                        },
+                        {
+                            "@_TEXT": "find",
+                            "@_ID": "ID_373621069",
+                            "@_CREATED": 1571978873518,
+                            "@_MODIFIED": 1571978874614
+                        },
+                        {
+                            "@_TEXT": "findIndex",
+                            "@_ID": "ID_120563982",
+                            "@_CREATED": 1571978875332,
+                            "@_MODIFIED": 1571978878573
+                        },
+                        {
+                            "@_TEXT": "forEach",
+                            "@_ID": "ID_1942187454",
+                            "@_CREATED": 1571978552314,
+                            "@_MODIFIED": 1571978554389,
+                            "node": {
+                                "@_TEXT": "fruits.forEach(function(item, index, array) {&#xa;  console.log(item, index);&#xa;});",
+                                "@_ID": "ID_291057477",
+                                "@_CREATED": 1571978718530,
+                                "@_MODIFIED": 1571978719616
+                            }
+                        },
+                        {
+                            "@_TEXT": "keys",
+                            "@_ID": "ID_377269767",
+                            "@_CREATED": 1571978889459,
+                            "@_MODIFIED": 1571978890477
+                        },
+                        {
+                            "@_TEXT": "map",
+                            "@_ID": "ID_1120455035",
+                            "@_CREATED": 1571978893194,
+                            "@_MODIFIED": 1571978894237
+                        },
+                        {
+                            "@_TEXT": "reduce",
+                            "@_ID": "ID_965427273",
+                            "@_CREATED": 1571978894993,
+                            "@_MODIFIED": 1571978896700
+                        },
+                        {
+                            "@_TEXT": "reduceRight",
+                            "@_ID": "ID_921495174",
+                            "@_CREATED": 1571978901956,
+                            "@_MODIFIED": 1571978904373
+                        },
+                        {
+                            "@_TEXT": "some",
+                            "@_ID": "ID_393810531",
+                            "@_CREATED": 1571978905169,
+                            "@_MODIFIED": 1571978906198
+                        },
+                        {
+                            "@_TEXT": "values",
+                            "@_ID": "ID_206168543",
+                            "@_CREATED": 1571978906922,
+                            "@_MODIFIED": 1571978908014
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "accessor",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_422242255",
+                    "@_CREATED": 1571978826011,
+                    "@_MODIFIED": 1571980484908,
+                    "@_HGAP_QUANTITY": "66.49999843537813 pt",
+                    "@_VSHIFT_QUANTITY": "-50.99999848008161 pt",
+                    "icon": {
+                        "@_BUILTIN": "go"
+                    },
+                    "edge": {
+                        "@_COLOR": "#00007c"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "concat",
+                            "@_ID": "ID_442337071",
+                            "@_CREATED": 1571980331067,
+                            "@_MODIFIED": 1571980332597
+                        },
+                        {
+                            "@_TEXT": "includes",
+                            "@_ID": "ID_1792313021",
+                            "@_CREATED": 1571980333402,
+                            "@_MODIFIED": 1571980335213
+                        },
+                        {
+                            "@_TEXT": "indexOf",
+                            "@_ID": "ID_350597574",
+                            "@_CREATED": 1571980336041,
+                            "@_MODIFIED": 1571980338961
+                        },
+                        {
+                            "@_TEXT": "join",
+                            "@_ID": "ID_1430084916",
+                            "@_CREATED": 1571980348129,
+                            "@_MODIFIED": 1571980349568
+                        },
+                        {
+                            "@_TEXT": "lastIndexOf",
+                            "@_ID": "ID_659535653",
+                            "@_CREATED": 1571980350401,
+                            "@_MODIFIED": 1571980353775
+                        },
+                        {
+                            "@_TEXT": "slice",
+                            "@_ID": "ID_1574549482",
+                            "@_CREATED": 1571980354516,
+                            "@_MODIFIED": 1571980356093
+                        },
+                        {
+                            "@_TEXT": "to",
+                            "@_ID": "ID_1004688462",
+                            "@_CREATED": 1571980361420,
+                            "@_MODIFIED": 1571980363939,
+                            "node": [
+                                {
+                                    "@_TEXT": "Source",
+                                    "@_ID": "ID_1988183786",
+                                    "@_CREATED": 1571980364982,
+                                    "@_MODIFIED": 1571980377998
+                                },
+                                {
+                                    "@_TEXT": "String",
+                                    "@_ID": "ID_799815160",
+                                    "@_CREATED": 1571980367441,
+                                    "@_MODIFIED": 1571980369904
+                                },
+                                {
+                                    "@_TEXT": "LocaleString",
+                                    "@_ID": "ID_1313686839",
+                                    "@_CREATED": 1571980371193,
+                                    "@_MODIFIED": 1571980375538
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "mutator",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_721627699",
+                    "@_CREATED": 1571978829050,
+                    "@_MODIFIED": 1571980496737,
+                    "@_HGAP_QUANTITY": "-104.49999646842491 pt",
+                    "@_VSHIFT_QUANTITY": "-32.99999901652339 pt",
+                    "icon": {
+                        "@_BUILTIN": "yes"
+                    },
+                    "edge": {
+                        "@_COLOR": "#007c00"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "copyWithin",
+                            "@_ID": "ID_1584821407",
+                            "@_CREATED": 1571980288841,
+                            "@_MODIFIED": 1571980291548
+                        },
+                        {
+                            "@_TEXT": "fill",
+                            "@_ID": "ID_1156710882",
+                            "@_CREATED": 1571980292484,
+                            "@_MODIFIED": 1571980294076
+                        },
+                        {
+                            "@_TEXT": "pop",
+                            "@_ID": "ID_973548268",
+                            "@_CREATED": 1571980294848,
+                            "@_MODIFIED": 1571980296238
+                        },
+                        {
+                            "@_TEXT": "push",
+                            "@_ID": "ID_994174174",
+                            "@_CREATED": 1571980302074,
+                            "@_MODIFIED": 1571980304226
+                        },
+                        {
+                            "@_TEXT": "reverse",
+                            "@_ID": "ID_722434115",
+                            "@_CREATED": 1571980305274,
+                            "@_MODIFIED": 1571980306955
+                        },
+                        {
+                            "@_TEXT": "shirt",
+                            "@_ID": "ID_1190678486",
+                            "@_CREATED": 1571980308001,
+                            "@_MODIFIED": 1571980309697
+                        },
+                        {
+                            "@_TEXT": "splice",
+                            "@_ID": "ID_565005673",
+                            "@_CREATED": 1571980316594,
+                            "@_MODIFIED": 1571980318460
+                        },
+                        {
+                            "@_TEXT": "unshift",
+                            "@_ID": "ID_352268515",
+                            "@_CREATED": 1571980319426,
+                            "@_MODIFIED": 1571980321698
+                        }
+                    ]
                 }
             ]
         }
