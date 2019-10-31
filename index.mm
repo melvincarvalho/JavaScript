@@ -63,25 +63,19 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="10" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="11" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
 </node>
 <node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1571361131287">
 <edge COLOR="#007c7c"/>
-<node ID="ID_157748484" CREATED="1571361132464" MODIFIED="1571361132464" LINK="https://github.com/sorrycc/awesome-javascript"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/sorrycc/awesome-javascript">https://github.com/sorrycc/awesome-javascript</a> 
-  </body>
-</html>
-</richcontent>
+<node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
 </node>
+<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572497991562">
+<edge COLOR="#7c7c00"/>
+<node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
+<node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
 </node>
 <node TEXT="Video" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1570476114594">
 <edge COLOR="#ff00ff"/>

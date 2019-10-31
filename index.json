@@ -186,7 +186,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 10,
+                    "@_COUNTER": 11,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -215,25 +215,38 @@
                         "@_COLOR": "#007c7c"
                     },
                     "node": {
+                        "@_TEXT": "Awesome JavaScript",
                         "@_ID": "ID_157748484",
                         "@_CREATED": 1571361132464,
-                        "@_MODIFIED": 1571361132464,
-                        "@_LINK": "https://github.com/sorrycc/awesome-javascript",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://github.com/sorrycc/awesome-javascript",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://github.com/sorrycc/awesome-javascript"
-                                    }
-                                }
-                            }
-                        }
+                        "@_MODIFIED": 1572498017973,
+                        "@_LINK": "https://github.com/sorrycc/awesome-javascript"
                     }
+                },
+                {
+                    "@_TEXT": "docs",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_1425964050",
+                    "@_CREATED": 1572497990298,
+                    "@_MODIFIED": 1572497991562,
+                    "edge": {
+                        "@_COLOR": "#7c7c00"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "MDN",
+                            "@_ID": "ID_773205118",
+                            "@_CREATED": 1572497994071,
+                            "@_MODIFIED": 1572498002669,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                        },
+                        {
+                            "@_TEXT": "devdocs",
+                            "@_ID": "ID_83129282",
+                            "@_CREATED": 1572498043641,
+                            "@_MODIFIED": 1572498048395,
+                            "@_LINK": "https://devdocs.io/javascript/"
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "Video",
