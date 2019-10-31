@@ -1,6 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="JavaScript" FOLDED="false" ID="ID_110073400" CREATED="1570292852860" MODIFIED="1570476189689" STYLE="oval">
+<node TEXT="JavaScript" FOLDED="false" ID="ID_110073400" CREATED="1570292852860" MODIFIED="1572498420877" ICON_SIZE="16.0 pt" LINK="https://github.com/melvincarvalho/tech" STYLE="oval">
+<icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>

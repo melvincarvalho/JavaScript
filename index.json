@@ -6,8 +6,13 @@
             "@_FOLDED": false,
             "@_ID": "ID_110073400",
             "@_CREATED": 1570292852860,
-            "@_MODIFIED": 1570476189689,
+            "@_MODIFIED": 1572498420877,
+            "@_ICON_SIZE": "16.0 pt",
+            "@_LINK": "https://github.com/melvincarvalho/tech",
             "@_STYLE": "oval",
+            "icon": {
+                "@_BUILTIN": "bookmark"
+            },
             "font": {
                 "@_SIZE": 18
             },
