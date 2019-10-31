@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1571271635147" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572498454038" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -65,28 +65,24 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="Spec" POSITION="right" ID="ID_120250381" CREATED="1570979967089" MODIFIED="1571978467214">
+<node TEXT="arrays" POSITION="right" ID="ID_1284928462" CREATED="1571980169123" MODIFIED="1572498505851" LINK="arrays.mm">
 <icon BUILTIN="list"/>
-<edge COLOR="#00ff00"/>
-<font BOLD="true"/>
-</node>
-<node TEXT="Arrays" POSITION="right" ID="ID_1330345949" CREATED="1571978468359" MODIFIED="1571978535075" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
-<edge COLOR="#00ffff"/>
-</node>
-<node TEXT="arrays" POSITION="right" ID="ID_1284928462" CREATED="1571980169123" MODIFIED="1571980889293" LINK="arrays.mm">
 <edge COLOR="#7c0000"/>
 </node>
 <node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
 <icon BUILTIN="attach"/>
 <edge COLOR="#00007c"/>
 </node>
-<node TEXT="docs" POSITION="left" ID="ID_1100215200" CREATED="1570969039178" MODIFIED="1570980265221">
-<icon BUILTIN="folder"/>
-<edge COLOR="#ff00ff"/>
+<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
+<icon BUILTIN="info"/>
+<edge COLOR="#7c7c00"/>
+<node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
+<node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
 </node>
 <node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571411739700">
 <icon BUILTIN="hashtag"/>
 <edge COLOR="#007c00"/>
+<node TEXT="#JavaScrpt" ID="ID_1174764408" CREATED="1572498487523" MODIFIED="1572498491727"/>
 </node>
 </node>
 </map>

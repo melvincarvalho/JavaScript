@@ -6,7 +6,7 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1571271635147,
+            "@_MODIFIED": 1572498454038,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -197,39 +197,15 @@
             ],
             "node": [
                 {
-                    "@_TEXT": "Spec",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_120250381",
-                    "@_CREATED": 1570979967089,
-                    "@_MODIFIED": 1571978467214,
-                    "icon": {
-                        "@_BUILTIN": "list"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00ff00"
-                    },
-                    "font": {
-                        "@_BOLD": true
-                    }
-                },
-                {
-                    "@_TEXT": "Arrays",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1330345949",
-                    "@_CREATED": 1571978468359,
-                    "@_MODIFIED": 1571978535075,
-                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
-                    "edge": {
-                        "@_COLOR": "#00ffff"
-                    }
-                },
-                {
                     "@_TEXT": "arrays",
                     "@_POSITION": "right",
                     "@_ID": "ID_1284928462",
                     "@_CREATED": 1571980169123,
-                    "@_MODIFIED": 1571980889293,
+                    "@_MODIFIED": 1572498505851,
                     "@_LINK": "arrays.mm",
+                    "icon": {
+                        "@_BUILTIN": "list"
+                    },
                     "edge": {
                         "@_COLOR": "#7c0000"
                     }
@@ -250,15 +226,31 @@
                 {
                     "@_TEXT": "docs",
                     "@_POSITION": "left",
-                    "@_ID": "ID_1100215200",
-                    "@_CREATED": 1570969039178,
-                    "@_MODIFIED": 1570980265221,
+                    "@_ID": "ID_1425964050",
+                    "@_CREATED": 1572497990298,
+                    "@_MODIFIED": 1572498279093,
                     "icon": {
-                        "@_BUILTIN": "folder"
+                        "@_BUILTIN": "info"
                     },
                     "edge": {
-                        "@_COLOR": "#ff00ff"
-                    }
+                        "@_COLOR": "#7c7c00"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "MDN",
+                            "@_ID": "ID_773205118",
+                            "@_CREATED": 1572497994071,
+                            "@_MODIFIED": 1572498002669,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                        },
+                        {
+                            "@_TEXT": "devdocs",
+                            "@_ID": "ID_83129282",
+                            "@_CREATED": 1572498043641,
+                            "@_MODIFIED": 1572498048395,
+                            "@_LINK": "https://devdocs.io/javascript/"
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "tags",
@@ -271,6 +263,12 @@
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
+                    },
+                    "node": {
+                        "@_TEXT": "#JavaScrpt",
+                        "@_ID": "ID_1174764408",
+                        "@_CREATED": 1572498487523,
+                        "@_MODIFIED": 1572498491727
                     }
                 }
             ]
