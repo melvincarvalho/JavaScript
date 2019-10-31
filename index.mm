@@ -64,20 +64,23 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="11" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="made using webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1570476048397" LINK="https://github.com/solidpayorg/webmaps/">
+<node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
 </node>
-<node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1571361131287">
-<edge COLOR="#007c7c"/>
-<node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
-</node>
-<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572497991562">
+<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
+<icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
 <node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 <node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
 </node>
-<node TEXT="Video" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1570476114594">
+<node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1572498219817">
+<icon BUILTIN="list"/>
+<edge COLOR="#007c7c"/>
+<node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
+</node>
+<node TEXT="Community" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1572498262464">
+<icon BUILTIN="licq"/>
 <edge COLOR="#ff00ff"/>
 <node ID="ID_1384859362" CREATED="1570476124707" MODIFIED="1570476124707" LINK="https://bxjs.dev/"><richcontent TYPE="NODE">
 
@@ -92,10 +95,12 @@
 </richcontent>
 </node>
 </node>
-<node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1571071024753" LINK="language.mm">
+<node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1572498269749" LINK="language.mm">
+<icon BUILTIN="edit"/>
 <edge COLOR="#00ffff"/>
 </node>
-<node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1570477828743">
+<node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1572498255710">
+<icon BUILTIN="executable"/>
 <edge COLOR="#7c0000"/>
 <node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571821835867" LINK="react/index.mm">
 <icon BUILTIN="list"/>
@@ -103,71 +108,18 @@
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
 </node>
-<node TEXT="questions" POSITION="right" ID="ID_1450636763" CREATED="1571271470008" MODIFIED="1571271472743">
+<node TEXT="questions" POSITION="right" ID="ID_1450636763" CREATED="1571271470008" MODIFIED="1572498224362">
+<icon BUILTIN="help"/>
 <edge COLOR="#007c00"/>
-<node ID="ID_83102648" CREATED="1571271537267" MODIFIED="1571271537267" LINK="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/">https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/</a> 
-  </body>
-</html>
-</richcontent>
+<node TEXT="Tricky Interview Questions" ID="ID_83102648" CREATED="1571271537267" MODIFIED="1572498172310" LINK="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"/>
 </node>
-</node>
-<node TEXT="sandboxes" POSITION="right" ID="ID_1460537766" CREATED="1571361050431" MODIFIED="1571361053912">
+<node TEXT="sandboxes" POSITION="right" ID="ID_1460537766" CREATED="1571361050431" MODIFIED="1572498249927">
+<icon BUILTIN="pencil"/>
 <edge COLOR="#7c007c"/>
-<node ID="ID_899668548" CREATED="1571360405670" MODIFIED="1571360405670" LINK="https://codesandbox.io/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://codesandbox.io/">https://codesandbox.io/</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1286093091" CREATED="1571360703809" MODIFIED="1571360703809" LINK="https://glitch.com/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://glitch.com/">https://glitch.com/</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1571361085412" LINK="https://jsfiddle.net/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://jsfiddle.net/">https://jsfiddle.net/</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_942460316" CREATED="1571361098536" MODIFIED="1571361098536" LINK="https://codepen.io/"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://codepen.io/">https://codepen.io/</a> 
-  </body>
-</html>
-</richcontent>
-</node>
+<node TEXT="Code Sandbox" ID="ID_899668548" CREATED="1571360405670" MODIFIED="1572498182638" LINK="https://codesandbox.io/"/>
+<node TEXT="Glitch" ID="ID_1286093091" CREATED="1571360703809" MODIFIED="1572498185769" LINK="https://glitch.com/"/>
+<node TEXT="Codepen" ID="ID_942460316" CREATED="1571361098536" MODIFIED="1572498194984" LINK="https://codepen.io/"/>
+<node TEXT="JS Fiddle" ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1572498190247" LINK="https://jsfiddle.net/"/>
 </node>
 </node>
 </map>
