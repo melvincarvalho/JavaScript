@@ -73,7 +73,7 @@
 <icon BUILTIN="list"/>
 <edge COLOR="#007c7c"/>
 </node>
-<node TEXT="node" POSITION="right" ID="ID_1516168898" CREATED="1573030715288" MODIFIED="1573030813184" LINK="index.mm">
+<node TEXT="node" POSITION="right" ID="ID_1516168898" CREATED="1573030715288" MODIFIED="1573031040882" LINK="node/index.mm">
 <icon BUILTIN="16x16-free-application-icons/png/16x16/Database"/>
 <edge COLOR="#ff0000"/>
 </node>
