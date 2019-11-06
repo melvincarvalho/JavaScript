@@ -2,12 +2,12 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "react",
+            "@_TEXT": "hooks",
             "@_FOLDED": false,
             "@_ID": "ID_43637424",
             "@_CREATED": 1570527567769,
-            "@_MODIFIED": 1570527604613,
-            "@_LINK": "../index.mm",
+            "@_MODIFIED": 1573031520858,
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
             "font": {
                 "@_SIZE": 18
@@ -187,7 +187,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -204,226 +204,34 @@
                     "edge": {
                         "@_COLOR": "#ff00ff"
                     },
-                    "node": [
-                        {
-                            "@_TEXT": "getting started",
-                            "@_ID": "ID_1710336257",
-                            "@_CREATED": 1570527641882,
-                            "@_MODIFIED": 1571160465273,
-                            "@_LINK": "https://reactjs.org/docs/getting-started.html"
-                        },
-                        {
-                            "@_TEXT": "roadmap",
-                            "@_ID": "ID_1313044671",
-                            "@_CREATED": 1571810538956,
-                            "@_MODIFIED": 1571810954742,
-                            "@_LINK": "https://github.com/adam-golab/react-developer-roadmap",
-                            "node": {
-                                "@_TEXT": "mine",
-                                "@_ID": "ID_63308067",
-                                "@_CREATED": 1571810963274,
-                                "@_MODIFIED": 1571810970442,
-                                "@_LINK": "roadmap.mm"
-                            }
-                        },
-                        {
-                            "@_TEXT": "meta frameworks",
-                            "@_ID": "ID_1544605098",
-                            "@_CREATED": 1571227413610,
-                            "@_MODIFIED": 1571817991015,
-                            "node": {
-                                "@_TEXT": "iconic",
-                                "@_ID": "ID_662028730",
-                                "@_CREATED": 1571227427047,
-                                "@_MODIFIED": 1571227434154,
-                                "@_LINK": "https://ionicframework.com/blog/announcing-ionic-react/"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "@_TEXT": "Build Tools",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_724688107",
-                    "@_CREATED": 1571811593039,
-                    "@_MODIFIED": 1571817987453,
-                    "edge": {
-                        "@_COLOR": "#00007c"
-                    },
-                    "node": [
-                        {
-                            "@_TEXT": "Package Managers",
-                            "@_ID": "ID_1501344868",
-                            "@_CREATED": 1571818240446,
-                            "@_MODIFIED": 1571818247534,
-                            "node": [
-                                {
-                                    "@_TEXT": "npm",
-                                    "@_ID": "ID_1504932536",
-                                    "@_CREATED": 1571818264272,
-                                    "@_MODIFIED": 1571818286848,
-                                    "@_LINK": "https://www.npmjs.com/"
-                                },
-                                {
-                                    "@_TEXT": "yarn",
-                                    "@_ID": "ID_188558832",
-                                    "@_CREATED": 1571818266961,
-                                    "@_MODIFIED": 1571818296089,
-                                    "@_LINK": "https://yarnpkg.com/lang/en/"
-                                },
-                                {
-                                    "@_TEXT": "pnpm",
-                                    "@_ID": "ID_698465838",
-                                    "@_CREATED": 1571818269440,
-                                    "@_MODIFIED": 1571818309392,
-                                    "@_LINK": "https://pnpm.js.org/"
-                                }
-                            ]
-                        },
-                        {
-                            "@_TEXT": "Task Runners",
-                            "@_ID": "ID_592275761",
-                            "@_CREATED": 1571818370033,
-                            "@_MODIFIED": 1571818374007,
-                            "node": [
-                                {
-                                    "@_TEXT": "Parcel",
-                                    "@_ID": "ID_1059037154",
-                                    "@_CREATED": 1571818399036,
-                                    "@_MODIFIED": 1571818414261,
-                                    "@_LINK": "https://parceljs.org/"
-                                },
-                                {
-                                    "@_TEXT": "Webpack",
-                                    "@_ID": "ID_1143630574",
-                                    "@_CREATED": 1571818388947,
-                                    "@_MODIFIED": 1571818430216,
-                                    "@_LINK": "https://webpack.js.org/"
-                                },
-                                {
-                                    "@_TEXT": "Rollup",
-                                    "@_ID": "ID_839105692",
-                                    "@_CREATED": 1571818396289,
-                                    "@_MODIFIED": 1571818423193,
-                                    "@_LINK": "https://rollupjs.org/guide/en"
-                                },
-                                {
-                                    "@_TEXT": "gulp",
-                                    "@_ID": "ID_1625995004",
-                                    "@_CREATED": 1571818386283,
-                                    "@_MODIFIED": 1571818445223,
-                                    "@_LINK": "https://gulpjs.com/"
-                                },
-                                {
-                                    "@_TEXT": "npm scripts",
-                                    "@_ID": "ID_1300991999",
-                                    "@_CREATED": 1571818380320,
-                                    "@_MODIFIED": 1571818456661,
-                                    "@_LINK": "https://docs.npmjs.com/misc/scripts"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "@_TEXT": "Styling",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1267363076",
-                    "@_CREATED": 1571811599841,
-                    "@_MODIFIED": 1571817987459,
-                    "edge": {
-                        "@_COLOR": "#007c00"
+                    "node": {
+                        "@_TEXT": "getting started",
+                        "@_ID": "ID_1710336257",
+                        "@_CREATED": 1570527641882,
+                        "@_MODIFIED": 1573031397854,
+                        "@_LINK": "https://reactjs.org/docs/getting-started.html"
                     }
                 },
                 {
-                    "@_TEXT": "State Management",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1952310218",
-                    "@_CREATED": 1571811607571,
-                    "@_MODIFIED": 1571817987462,
-                    "edge": {
-                        "@_COLOR": "#7c007c"
-                    }
-                },
-                {
-                    "@_TEXT": "Type Checkers",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1289375581",
-                    "@_CREATED": 1571811805261,
-                    "@_MODIFIED": 1571817987470,
-                    "edge": {
-                        "@_COLOR": "#007c7c"
-                    }
-                },
-                {
-                    "@_TEXT": "Form Helpers",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1385748350",
-                    "@_CREATED": 1571811821518,
-                    "@_MODIFIED": 1571817987471,
-                    "edge": {
-                        "@_COLOR": "#7c7c00"
-                    }
-                },
-                {
-                    "@_TEXT": "Routing",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1228318416",
-                    "@_CREATED": 1571811825328,
-                    "@_MODIFIED": 1571817987472,
-                    "edge": {
-                        "@_COLOR": "#ff0000"
-                    }
-                },
-                {
-                    "@_TEXT": "API Clients",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1434625848",
-                    "@_CREATED": 1571811832714,
-                    "@_MODIFIED": 1571817987482,
-                    "edge": {
-                        "@_COLOR": "#0000ff"
-                    }
-                },
-                {
-                    "@_TEXT": "Utility Libraries",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1862350426",
-                    "@_CREATED": 1571811842635,
-                    "@_MODIFIED": 1571817987483,
-                    "edge": {
-                        "@_COLOR": "#00ff00"
-                    }
-                },
-                {
-                    "@_TEXT": "Testing",
+                    "@_TEXT": "useState",
                     "@_POSITION": "right",
                     "@_ID": "ID_1596624615",
                     "@_CREATED": 1571811851473,
-                    "@_MODIFIED": 1571817987484,
+                    "@_MODIFIED": 1573031485749,
+                    "@_LINK": "https://reactjs.org/docs/hooks-state.html",
                     "edge": {
                         "@_COLOR": "#ff00ff"
                     }
                 },
                 {
-                    "@_TEXT": "i18n",
+                    "@_TEXT": "useSWR",
                     "@_POSITION": "right",
-                    "@_ID": "ID_454994441",
-                    "@_CREATED": 1571811854648,
-                    "@_MODIFIED": 1571817987487,
+                    "@_ID": "ID_995948036",
+                    "@_CREATED": 1573031457768,
+                    "@_MODIFIED": 1573031464970,
+                    "@_LINK": "https://swr.now.sh/",
                     "edge": {
-                        "@_COLOR": "#00ffff"
-                    }
-                },
-                {
-                    "@_TEXT": "hooks",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1974336673",
-                    "@_CREATED": 1573031317266,
-                    "@_MODIFIED": 1573031357682,
-                    "@_LINK": "hooks.mm",
-                    "edge": {
-                        "@_COLOR": "#7c0000"
+                        "@_COLOR": "#00007c"
                     }
                 }
             ]

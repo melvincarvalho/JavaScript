@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="16" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="links" POSITION="left" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
 <icon BUILTIN="attach"/>
 <edge COLOR="#ff00ff"/>
@@ -116,6 +116,9 @@
 </node>
 <node TEXT="i18n" POSITION="right" ID="ID_454994441" CREATED="1571811854648" MODIFIED="1571817987487">
 <edge COLOR="#00ffff"/>
+</node>
+<node TEXT="hooks" POSITION="right" ID="ID_1974336673" CREATED="1573031317266" MODIFIED="1573031357682" LINK="hooks.mm">
+<edge COLOR="#7c0000"/>
 </node>
 </node>
 </map>
