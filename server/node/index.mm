@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="JavaScript" FOLDED="false" ID="ID_110073400" CREATED="1570292852860" MODIFIED="1572860797594" ICON_SIZE="16.0 pt" LINK="../tech/index.mm" STYLE="oval">
+<node TEXT="node" FOLDED="false" ID="ID_110073400" CREATED="1570292852860" MODIFIED="1573030887746" ICON_SIZE="16.0 pt" LINK="../index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -64,67 +64,43 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="12" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
-<icon BUILTIN="bookmark"/>
-<edge COLOR="#0000ff"/>
-</node>
+<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
-<node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
-<node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
-</node>
-<node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1572498219817">
-<icon BUILTIN="list"/>
-<edge COLOR="#007c7c"/>
-<node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
-</node>
-<node TEXT="Community" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1572498262464">
-<icon BUILTIN="licq"/>
-<edge COLOR="#ff00ff"/>
-<node ID="ID_1384859362" CREATED="1570476124707" MODIFIED="1570476124707" LINK="https://bxjs.dev/"><richcontent TYPE="NODE">
+<node ID="ID_273339059" CREATED="1573030842692" MODIFIED="1573030842692" LINK="https://nodejs.org/en/"><richcontent TYPE="NODE">
 
 <html>
   <head>
     
   </head>
   <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://bxjs.dev/">https://bxjs.dev/</a> 
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://nodejs.org/en/">https://nodejs.org/en/</a> 
   </body>
 </html>
+
 </richcontent>
 </node>
 </node>
-<node TEXT="language" POSITION="right" ID="ID_1566689685" CREATED="1570476128893" MODIFIED="1572498269749" LINK="language.mm">
-<icon BUILTIN="edit"/>
-<edge COLOR="#00ffff"/>
-</node>
-<node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1572498255710">
-<icon BUILTIN="executable"/>
-<edge COLOR="#7c0000"/>
-<node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571821835867" LINK="react/index.mm">
+<node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1572498219817">
 <icon BUILTIN="list"/>
+<edge COLOR="#007c7c"/>
 </node>
-<node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
-<node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
+<node TEXT="npm" POSITION="right" ID="ID_943883803" CREATED="1573030865320" MODIFIED="1573030866720">
+<edge COLOR="#0000ff"/>
+<node ID="ID_954942221" CREATED="1573030867890" MODIFIED="1573030867890" LINK="https://docs.npmjs.com/files/package.json"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://docs.npmjs.com/files/package.json">https://docs.npmjs.com/files/package.json</a> 
+  </body>
+</html>
+
+</richcontent>
 </node>
-<node TEXT="questions" POSITION="right" ID="ID_1450636763" CREATED="1571271470008" MODIFIED="1572498224362">
-<icon BUILTIN="help"/>
-<edge COLOR="#007c00"/>
-<node TEXT="Tricky Interview Questions" ID="ID_83102648" CREATED="1571271537267" MODIFIED="1572498172310" LINK="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"/>
-</node>
-<node TEXT="sandboxes" POSITION="right" ID="ID_1460537766" CREATED="1571361050431" MODIFIED="1572498249927">
-<icon BUILTIN="pencil"/>
-<edge COLOR="#7c007c"/>
-<node TEXT="Code Sandbox" ID="ID_899668548" CREATED="1571360405670" MODIFIED="1572498182638" LINK="https://codesandbox.io/"/>
-<node TEXT="Glitch" ID="ID_1286093091" CREATED="1571360703809" MODIFIED="1572498185769" LINK="https://glitch.com/"/>
-<node TEXT="Codepen" ID="ID_942460316" CREATED="1571361098536" MODIFIED="1572498194984" LINK="https://codepen.io/"/>
-<node TEXT="JS Fiddle" ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1572498190247" LINK="https://jsfiddle.net/"/>
-</node>
-<node TEXT="server" POSITION="right" ID="ID_1516168898" CREATED="1573030715288" MODIFIED="1573030784377" LINK="server/index.mm">
-<icon BUILTIN="16x16-free-application-icons/png/16x16/Database"/>
-<edge COLOR="#ff0000"/>
 </node>
 </node>
 </map>
