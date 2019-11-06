@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="12" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -125,6 +125,10 @@
 <node TEXT="server" POSITION="right" ID="ID_1516168898" CREATED="1573030715288" MODIFIED="1573030784377" LINK="server/index.mm">
 <icon BUILTIN="16x16-free-application-icons/png/16x16/Database"/>
 <edge COLOR="#ff0000"/>
+</node>
+<node TEXT="errors" POSITION="right" ID="ID_437549538" CREATED="1573042933206" MODIFIED="1573042980995" LINK="https://blog.appsignal.com/2019/10/17/javascript-errors-an-exceptional-history.html">
+<icon BUILTIN="stop-sign"/>
+<edge COLOR="#0000ff"/>
 </node>
 </node>
 </map>

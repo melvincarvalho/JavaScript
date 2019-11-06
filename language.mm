@@ -64,10 +64,14 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="6" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="7" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="arrays" POSITION="right" ID="ID_1284928462" CREATED="1571980169123" MODIFIED="1572498505851" LINK="arrays.mm">
 <icon BUILTIN="list"/>
 <edge COLOR="#7c0000"/>
+</node>
+<node TEXT="iterators" POSITION="right" ID="ID_828865921" CREATED="1573045611406" MODIFIED="1573045622975" LINK="https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html">
+<icon BUILTIN="16x16-free-application-icons/png/16x16/List"/>
+<edge COLOR="#00007c"/>
 </node>
 <node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
 <icon BUILTIN="attach"/>
