@@ -2,11 +2,11 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "language",
+            "@_TEXT": "objects",
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1572498454038,
+            "@_MODIFIED": 1573635737120,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -197,45 +197,16 @@
             ],
             "node": [
                 {
-                    "@_TEXT": "arrays",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1284928462",
-                    "@_CREATED": 1571980169123,
-                    "@_MODIFIED": 1572498505851,
-                    "@_LINK": "arrays.mm",
+                    "@_TEXT": "docs",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_1100215200",
+                    "@_CREATED": 1570969039178,
+                    "@_MODIFIED": 1570980265221,
                     "icon": {
-                        "@_BUILTIN": "list"
+                        "@_BUILTIN": "folder"
                     },
                     "edge": {
-                        "@_COLOR": "#7c0000"
-                    }
-                },
-                {
-                    "@_TEXT": "objects",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1402077036",
-                    "@_CREATED": 1573635591705,
-                    "@_MODIFIED": 1573635773087,
-                    "@_LINK": "objects.mm",
-                    "icon": {
-                        "@_BUILTIN": "xmag"
-                    },
-                    "edge": {
-                        "@_COLOR": "#007c00"
-                    }
-                },
-                {
-                    "@_TEXT": "iterators",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_828865921",
-                    "@_CREATED": 1573045611406,
-                    "@_MODIFIED": 1573045622975,
-                    "@_LINK": "https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html",
-                    "icon": {
-                        "@_BUILTIN": "16x16-free-application-icons/png/16x16/List"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00007c"
+                        "@_COLOR": "#ff00ff"
                     }
                 },
                 {
@@ -252,51 +223,97 @@
                     }
                 },
                 {
-                    "@_TEXT": "docs",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_1425964050",
-                    "@_CREATED": 1572497990298,
-                    "@_MODIFIED": 1572498279093,
-                    "icon": {
-                        "@_BUILTIN": "info"
-                    },
-                    "edge": {
-                        "@_COLOR": "#7c7c00"
-                    },
-                    "node": [
-                        {
-                            "@_TEXT": "MDN",
-                            "@_ID": "ID_773205118",
-                            "@_CREATED": 1572497994071,
-                            "@_MODIFIED": 1572498002669,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-                        },
-                        {
-                            "@_TEXT": "devdocs",
-                            "@_ID": "ID_83129282",
-                            "@_CREATED": 1572498043641,
-                            "@_MODIFIED": 1572498048395,
-                            "@_LINK": "https://devdocs.io/javascript/"
-                        }
-                    ]
-                },
-                {
                     "@_TEXT": "tags",
                     "@_POSITION": "left",
                     "@_ID": "ID_466759422",
                     "@_CREATED": 1570968754383,
-                    "@_MODIFIED": 1571411739700,
+                    "@_MODIFIED": 1571340239144,
                     "icon": {
                         "@_BUILTIN": "hashtag"
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
                     },
+                    "node": [
+                        {
+                            "@_TEXT": "#javascript",
+                            "@_ID": "ID_1903100884",
+                            "@_CREATED": 1571980549151,
+                            "@_MODIFIED": 1571980553198
+                        },
+                        {
+                            "@_TEXT": "#object",
+                            "@_ID": "ID_574380056",
+                            "@_CREATED": 1571980554162,
+                            "@_MODIFIED": 1573635692412
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "general",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_827097705",
+                    "@_CREATED": 1571978822555,
+                    "@_MODIFIED": 1573635737119,
+                    "@_COLOR": "#0000ff",
+                    "@_HGAP_QUANTITY": "-99.99999660253533 pt",
+                    "@_VSHIFT_QUANTITY": "-65.24999805539852 pt",
+                    "icon": {
+                        "@_BUILTIN": "forward"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#7c0000"
+                    }
+                },
+                {
+                    "@_TEXT": "properties",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_422242255",
+                    "@_CREATED": 1571978826011,
+                    "@_MODIFIED": 1573635730753,
+                    "@_COLOR": "#006600",
+                    "@_HGAP_QUANTITY": "52.24999886006121 pt",
+                    "@_VSHIFT_QUANTITY": "-8.999999731779113 pt",
+                    "icon": {
+                        "@_BUILTIN": "go"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#00007c"
+                    },
                     "node": {
-                        "@_TEXT": "#JavaScrpt",
-                        "@_ID": "ID_1174764408",
-                        "@_CREATED": 1572498487523,
-                        "@_MODIFIED": 1572498491727
+                        "@_TEXT": "attributes of object properties",
+                        "@_ID": "ID_484164969",
+                        "@_CREATED": 1573635711039,
+                        "@_MODIFIED": 1573635719271,
+                        "@_LINK": "https://2ality.com/2019/11/object-property-attributes.html"
+                    }
+                },
+                {
+                    "@_TEXT": "methods",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_721627699",
+                    "@_CREATED": 1571978829050,
+                    "@_MODIFIED": 1573635725904,
+                    "@_COLOR": "#990000",
+                    "@_HGAP_QUANTITY": "-105.99999642372143 pt",
+                    "@_VSHIFT_QUANTITY": "89.99999731779107 pt",
+                    "icon": {
+                        "@_BUILTIN": "yes"
+                    },
+                    "font": {
+                        "@_SIZE": 12,
+                        "@_BOLD": true
+                    },
+                    "edge": {
+                        "@_COLOR": "#007c00"
                     }
                 }
             ]

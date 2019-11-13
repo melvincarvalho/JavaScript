@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572498454038" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="objects" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1573635737120" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -65,32 +65,35 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="8" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="arrays" POSITION="right" ID="ID_1284928462" CREATED="1571980169123" MODIFIED="1572498505851" LINK="arrays.mm">
-<icon BUILTIN="list"/>
-<edge COLOR="#7c0000"/>
-</node>
-<node TEXT="objects" POSITION="right" ID="ID_1402077036" CREATED="1573635591705" MODIFIED="1573635773087" LINK="objects.mm">
-<icon BUILTIN="xmag"/>
-<edge COLOR="#007c00"/>
-</node>
-<node TEXT="iterators" POSITION="right" ID="ID_828865921" CREATED="1573045611406" MODIFIED="1573045622975" LINK="https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html">
-<icon BUILTIN="16x16-free-application-icons/png/16x16/List"/>
-<edge COLOR="#00007c"/>
+<node TEXT="docs" POSITION="left" ID="ID_1100215200" CREATED="1570969039178" MODIFIED="1570980265221">
+<icon BUILTIN="folder"/>
+<edge COLOR="#ff00ff"/>
 </node>
 <node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
 <icon BUILTIN="attach"/>
 <edge COLOR="#00007c"/>
 </node>
-<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
-<icon BUILTIN="info"/>
-<edge COLOR="#7c7c00"/>
-<node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
-<node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
-</node>
-<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571411739700">
+<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571340239144">
 <icon BUILTIN="hashtag"/>
 <edge COLOR="#007c00"/>
-<node TEXT="#JavaScrpt" ID="ID_1174764408" CREATED="1572498487523" MODIFIED="1572498491727"/>
+<node TEXT="#javascript" ID="ID_1903100884" CREATED="1571980549151" MODIFIED="1571980553198"/>
+<node TEXT="#object" ID="ID_574380056" CREATED="1571980554162" MODIFIED="1573635692412"/>
+</node>
+<node TEXT="general" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1573635737119" COLOR="#0000ff" HGAP_QUANTITY="-99.99999660253533 pt" VSHIFT_QUANTITY="-65.24999805539852 pt">
+<icon BUILTIN="forward"/>
+<font SIZE="12" BOLD="true"/>
+<edge COLOR="#7c0000"/>
+</node>
+<node TEXT="properties" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1573635730753" COLOR="#006600" HGAP_QUANTITY="52.24999886006121 pt" VSHIFT_QUANTITY="-8.999999731779113 pt">
+<icon BUILTIN="go"/>
+<font SIZE="12" BOLD="true"/>
+<edge COLOR="#00007c"/>
+<node TEXT="attributes of object properties" ID="ID_484164969" CREATED="1573635711039" MODIFIED="1573635719271" LINK="https://2ality.com/2019/11/object-property-attributes.html"/>
+</node>
+<node TEXT="methods" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1573635725904" COLOR="#990000" HGAP_QUANTITY="-105.99999642372143 pt" VSHIFT_QUANTITY="89.99999731779107 pt">
+<icon BUILTIN="yes"/>
+<font SIZE="12" BOLD="true"/>
+<edge COLOR="#007c00"/>
 </node>
 </node>
 </map>
