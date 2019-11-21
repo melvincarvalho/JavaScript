@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 13,
+                    "@_COUNTER": 14,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -434,6 +434,20 @@
                     },
                     "edge": {
                         "@_COLOR": "#0000ff"
+                    }
+                },
+                {
+                    "@_TEXT": "articles",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_51150335",
+                    "@_CREATED": 1574355033593,
+                    "@_MODIFIED": 1574355114620,
+                    "@_LINK": "articles/index.mm",
+                    "icon": {
+                        "@_BUILTIN": "very_positive"
+                    },
+                    "edge": {
+                        "@_COLOR": "#00ff00"
                     }
                 }
             ]

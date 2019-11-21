@@ -26,3 +26,4 @@
 <#ID_1150601009> <urn:string:child> <ID_1150601009> .
 <#ID_1516168898> <urn:string:@_TEXT> """server""" .
 <#ID_437549538> <urn:string:@_TEXT> """errors""" .
+<#ID_51150335> <urn:string:@_TEXT> """articles""" .
