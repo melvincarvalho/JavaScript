@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 14,
+                    "@_COUNTER": 15,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -317,6 +317,23 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "process",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_796850607",
+                    "@_CREATED": 1574676985952,
+                    "@_MODIFIED": 1574676990158,
+                    "@_LINK": "https://nodejs.org/docs/latest/api/process.html",
+                    "edge": {
+                        "@_COLOR": "#ff00ff"
+                    },
+                    "node": {
+                        "@_TEXT": "argv",
+                        "@_ID": "ID_476473429",
+                        "@_CREATED": 1574676993097,
+                        "@_MODIFIED": 1574676995257
+                    }
                 }
             ]
         }

@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="14" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="15" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
@@ -108,6 +108,10 @@
 <node TEXT="node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }" ID="ID_1696017079" CREATED="1574676282246" MODIFIED="1574676283779"/>
 <node TEXT="node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }" ID="ID_143113865" CREATED="1574676290102" MODIFIED="1574676291542"/>
 </node>
+</node>
+<node TEXT="process" POSITION="right" ID="ID_796850607" CREATED="1574676985952" MODIFIED="1574676990158" LINK="https://nodejs.org/docs/latest/api/process.html">
+<edge COLOR="#ff00ff"/>
+<node TEXT="argv" ID="ID_476473429" CREATED="1574676993097" MODIFIED="1574676995257"/>
 </node>
 </node>
 </map>
