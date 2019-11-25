@@ -1,3 +1,4 @@
 <#ID_990086409> <urn:string:@_TEXT> """links""" .
 <#ID_1596624615> <urn:string:@_TEXT> """useState""" .
+<#ID_227003475> <urn:string:@_TEXT> """useEffect""" .
 <#ID_995948036> <urn:string:@_TEXT> """useSWR""" .

@@ -187,7 +187,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 18,
+                    "@_COUNTER": 19,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -205,10 +205,10 @@
                         "@_COLOR": "#ff00ff"
                     },
                     "node": {
-                        "@_TEXT": "getting started",
+                        "@_TEXT": "intro to hooks",
                         "@_ID": "ID_1710336257",
                         "@_CREATED": 1570527641882,
-                        "@_MODIFIED": 1573031397854,
+                        "@_MODIFIED": 1574675634982,
                         "@_LINK": "https://reactjs.org/docs/getting-started.html"
                     }
                 },
@@ -221,6 +221,17 @@
                     "@_LINK": "https://reactjs.org/docs/hooks-state.html",
                     "edge": {
                         "@_COLOR": "#ff00ff"
+                    }
+                },
+                {
+                    "@_TEXT": "useEffect",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_227003475",
+                    "@_CREATED": 1574675661239,
+                    "@_MODIFIED": 1574675673682,
+                    "@_LINK": "https://reactjs.org/docs/hooks-effect.html",
+                    "edge": {
+                        "@_COLOR": "#007c00"
                     }
                 },
                 {

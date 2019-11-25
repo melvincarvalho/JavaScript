@@ -63,14 +63,17 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="links" POSITION="left" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
 <icon BUILTIN="attach"/>
 <edge COLOR="#ff00ff"/>
-<node TEXT="getting started" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1573031397854" LINK="https://reactjs.org/docs/getting-started.html"/>
+<node TEXT="intro to hooks" ID="ID_1710336257" CREATED="1570527641882" MODIFIED="1574675634982" LINK="https://reactjs.org/docs/getting-started.html"/>
 </node>
 <node TEXT="useState" POSITION="right" ID="ID_1596624615" CREATED="1571811851473" MODIFIED="1573031485749" LINK="https://reactjs.org/docs/hooks-state.html">
 <edge COLOR="#ff00ff"/>
+</node>
+<node TEXT="useEffect" POSITION="right" ID="ID_227003475" CREATED="1574675661239" MODIFIED="1574675673682" LINK="https://reactjs.org/docs/hooks-effect.html">
+<edge COLOR="#007c00"/>
 </node>
 <node TEXT="useSWR" POSITION="right" ID="ID_995948036" CREATED="1573031457768" MODIFIED="1573031464970" LINK="https://swr.now.sh/">
 <edge COLOR="#00007c"/>
