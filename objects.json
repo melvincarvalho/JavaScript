@@ -6,7 +6,7 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1573635737120,
+            "@_MODIFIED": 1574673247355,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -207,6 +207,13 @@
                     },
                     "edge": {
                         "@_COLOR": "#ff00ff"
+                    },
+                    "node": {
+                        "@_TEXT": "MDN",
+                        "@_ID": "ID_879552252",
+                        "@_CREATED": 1574673106804,
+                        "@_MODIFIED": 1574673121336,
+                        "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object"
                     }
                 },
                 {
@@ -274,10 +281,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_422242255",
                     "@_CREATED": 1571978826011,
-                    "@_MODIFIED": 1573635730753,
+                    "@_MODIFIED": 1574673236106,
                     "@_COLOR": "#006600",
-                    "@_HGAP_QUANTITY": "52.24999886006121 pt",
-                    "@_VSHIFT_QUANTITY": "-8.999999731779113 pt",
+                    "@_HGAP_QUANTITY": "53.74999881535773 pt",
+                    "@_VSHIFT_QUANTITY": "38.2499988600612 pt",
                     "icon": {
                         "@_BUILTIN": "go"
                     },
@@ -301,10 +308,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_721627699",
                     "@_CREATED": 1571978829050,
-                    "@_MODIFIED": 1573635725904,
+                    "@_MODIFIED": 1574673251071,
                     "@_COLOR": "#990000",
-                    "@_HGAP_QUANTITY": "-105.99999642372143 pt",
-                    "@_VSHIFT_QUANTITY": "89.99999731779107 pt",
+                    "@_HGAP_QUANTITY": "-108.99999633431446 pt",
+                    "@_VSHIFT_QUANTITY": "89.24999734014281 pt",
                     "icon": {
                         "@_BUILTIN": "yes"
                     },
@@ -314,6 +321,21 @@
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
+                    },
+                    "node": {
+                        "@_TEXT": "keys",
+                        "@_ID": "ID_1264483989",
+                        "@_CREATED": 1574673190177,
+                        "@_MODIFIED": 1574673251070,
+                        "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
+                        "@_HGAP_QUANTITY": "16.249999932944775 pt",
+                        "@_VSHIFT_QUANTITY": "1.4999999552965178 pt",
+                        "node": {
+                            "@_TEXT": "const object1 = {&#xa;  a: &apos;somestring&apos;,&#xa;  b: 42,&#xa;  c: false&#xa;};&#xa;&#xa;console.log(Object.keys(object1));&#xa;// expected output: Array [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]",
+                            "@_ID": "ID_1464311988",
+                            "@_CREATED": 1574673227364,
+                            "@_MODIFIED": 1574673228872
+                        }
                     }
                 }
             ]
