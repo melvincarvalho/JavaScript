@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="13" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="14" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
@@ -78,7 +78,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://nodejs.org/en/">https://nodejs.org/en/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -98,8 +97,16 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://docs.npmjs.com/files/package.json">https://docs.npmjs.com/files/package.json</a> 
   </body>
 </html>
-
 </richcontent>
+</node>
+</node>
+<node TEXT="cli" POSITION="right" ID="ID_254723387" CREATED="1574676184865" MODIFIED="1574676186814">
+<edge COLOR="#00ff00"/>
+<node TEXT="yargs" ID="ID_947854242" CREATED="1574676188755" MODIFIED="1574676228056" LINK="https://www.npmjs.com/package/yargs"/>
+<node TEXT="minimist" ID="ID_1959242244" CREATED="1574676191279" MODIFIED="1574676211729" LINK="https://www.npmjs.com/package/minimist">
+<node TEXT="var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);" ID="ID_1190547862" CREATED="1574676254118" MODIFIED="1574676255769"/>
+<node TEXT="node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }" ID="ID_1696017079" CREATED="1574676282246" MODIFIED="1574676283779"/>
+<node TEXT="node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }" ID="ID_143113865" CREATED="1574676290102" MODIFIED="1574676291542"/>
 </node>
 </node>
 </node>

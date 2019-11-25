@@ -80,7 +80,7 @@
 <edge COLOR="#007c7c"/>
 <node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
 </node>
-<node TEXT="Community" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1572498262464">
+<node TEXT="Communities" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1574676159071">
 <icon BUILTIN="licq"/>
 <edge COLOR="#ff00ff"/>
 <node ID="ID_1384859362" CREATED="1570476124707" MODIFIED="1570476124707" LINK="https://bxjs.dev/"><richcontent TYPE="NODE">

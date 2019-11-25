@@ -260,11 +260,11 @@
                     }
                 },
                 {
-                    "@_TEXT": "Community",
+                    "@_TEXT": "Communities",
                     "@_POSITION": "right",
                     "@_ID": "ID_849215328",
                     "@_CREATED": 1570476065863,
-                    "@_MODIFIED": 1572498262464,
+                    "@_MODIFIED": 1574676159071,
                     "icon": {
                         "@_BUILTIN": "licq"
                     },

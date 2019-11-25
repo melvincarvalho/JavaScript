@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 13,
+                    "@_COUNTER": 14,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -271,6 +271,52 @@
                             }
                         }
                     }
+                },
+                {
+                    "@_TEXT": "cli",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_254723387",
+                    "@_CREATED": 1574676184865,
+                    "@_MODIFIED": 1574676186814,
+                    "edge": {
+                        "@_COLOR": "#00ff00"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "yargs",
+                            "@_ID": "ID_947854242",
+                            "@_CREATED": 1574676188755,
+                            "@_MODIFIED": 1574676228056,
+                            "@_LINK": "https://www.npmjs.com/package/yargs"
+                        },
+                        {
+                            "@_TEXT": "minimist",
+                            "@_ID": "ID_1959242244",
+                            "@_CREATED": 1574676191279,
+                            "@_MODIFIED": 1574676211729,
+                            "@_LINK": "https://www.npmjs.com/package/minimist",
+                            "node": [
+                                {
+                                    "@_TEXT": "var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);",
+                                    "@_ID": "ID_1190547862",
+                                    "@_CREATED": 1574676254118,
+                                    "@_MODIFIED": 1574676255769
+                                },
+                                {
+                                    "@_TEXT": "node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }",
+                                    "@_ID": "ID_1696017079",
+                                    "@_CREATED": 1574676282246,
+                                    "@_MODIFIED": 1574676283779
+                                },
+                                {
+                                    "@_TEXT": "node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }",
+                                    "@_ID": "ID_143113865",
+                                    "@_CREATED": 1574676290102,
+                                    "@_MODIFIED": 1574676291542
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

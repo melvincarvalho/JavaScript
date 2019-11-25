@@ -1,3 +1,14 @@
 <#ID_1425964050> <urn:string:@_TEXT> """docs""" .
 <#ID_829378880> <urn:string:@_TEXT> """lists""" .
 <#ID_943883803> <urn:string:@_TEXT> """npm""" .
+<#ID_254723387> <urn:string:@_TEXT> """cli""" .
+<#ID_947854242> <urn:string:@_TEXT> """yargs""" .
+<#ID_947854242> <urn:string:child> <ID_947854242> .
+<#ID_1959242244> <urn:string:@_TEXT> """minimist""" .
+<#ID_1959242244> <urn:string:child> <ID_1959242244> .
+<#ID_1190547862> <urn:string:@_TEXT> """var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);""" .
+<#ID_1190547862> <urn:string:child> <ID_1190547862> .
+<#ID_1696017079> <urn:string:@_TEXT> """node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }""" .
+<#ID_1696017079> <urn:string:child> <ID_1696017079> .
+<#ID_143113865> <urn:string:@_TEXT> """node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }""" .
+<#ID_143113865> <urn:string:child> <ID_143113865> .
