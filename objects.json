@@ -6,7 +6,7 @@
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1574673247355,
+            "@_MODIFIED": 1574673787606,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -261,9 +261,9 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_827097705",
                     "@_CREATED": 1571978822555,
-                    "@_MODIFIED": 1573635737119,
+                    "@_MODIFIED": 1574673779696,
                     "@_COLOR": "#0000ff",
-                    "@_HGAP_QUANTITY": "-99.99999660253533 pt",
+                    "@_HGAP_QUANTITY": "-103.74999649077662 pt",
                     "@_VSHIFT_QUANTITY": "-65.24999805539852 pt",
                     "icon": {
                         "@_BUILTIN": "forward"
@@ -281,10 +281,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_422242255",
                     "@_CREATED": 1571978826011,
-                    "@_MODIFIED": 1574673236106,
+                    "@_MODIFIED": 1574673787604,
                     "@_COLOR": "#006600",
                     "@_HGAP_QUANTITY": "53.74999881535773 pt",
-                    "@_VSHIFT_QUANTITY": "38.2499988600612 pt",
+                    "@_VSHIFT_QUANTITY": "41.99999874830249 pt",
                     "icon": {
                         "@_BUILTIN": "go"
                     },
@@ -308,10 +308,10 @@
                     "@_POSITION": "right",
                     "@_ID": "ID_721627699",
                     "@_CREATED": 1571978829050,
-                    "@_MODIFIED": 1574673251071,
+                    "@_MODIFIED": 1574673784106,
                     "@_COLOR": "#990000",
-                    "@_HGAP_QUANTITY": "-108.99999633431446 pt",
-                    "@_VSHIFT_QUANTITY": "89.24999734014281 pt",
+                    "@_HGAP_QUANTITY": "-108.2499963566662 pt",
+                    "@_VSHIFT_QUANTITY": "89.99999731779107 pt",
                     "icon": {
                         "@_BUILTIN": "yes"
                     },
@@ -322,21 +322,30 @@
                     "edge": {
                         "@_COLOR": "#007c00"
                     },
-                    "node": {
-                        "@_TEXT": "keys",
-                        "@_ID": "ID_1264483989",
-                        "@_CREATED": 1574673190177,
-                        "@_MODIFIED": 1574673251070,
-                        "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
-                        "@_HGAP_QUANTITY": "16.249999932944775 pt",
-                        "@_VSHIFT_QUANTITY": "1.4999999552965178 pt",
-                        "node": {
-                            "@_TEXT": "const object1 = {&#xa;  a: &apos;somestring&apos;,&#xa;  b: 42,&#xa;  c: false&#xa;};&#xa;&#xa;console.log(Object.keys(object1));&#xa;// expected output: Array [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]",
-                            "@_ID": "ID_1464311988",
-                            "@_CREATED": 1574673227364,
-                            "@_MODIFIED": 1574673228872
+                    "node": [
+                        {
+                            "@_TEXT": "keys",
+                            "@_ID": "ID_1264483989",
+                            "@_CREATED": 1574673190177,
+                            "@_MODIFIED": 1574673251070,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
+                            "@_HGAP_QUANTITY": "16.249999932944775 pt",
+                            "@_VSHIFT_QUANTITY": "1.4999999552965178 pt",
+                            "node": {
+                                "@_TEXT": "const object1 = {&#xa;  a: &apos;somestring&apos;,&#xa;  b: 42,&#xa;  c: false&#xa;};&#xa;&#xa;console.log(Object.keys(object1));&#xa;// expected output: Array [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]",
+                                "@_ID": "ID_1464311988",
+                                "@_CREATED": 1574673227364,
+                                "@_MODIFIED": 1574673228872
+                            }
+                        },
+                        {
+                            "@_TEXT": "values",
+                            "@_ID": "ID_1146278827",
+                            "@_CREATED": 1574673753244,
+                            "@_MODIFIED": 1574673774840,
+                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values"
                         }
-                    }
+                    ]
                 }
             ]
         }

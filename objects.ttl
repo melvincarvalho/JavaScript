@@ -8,3 +8,7 @@
 <#ID_827097705> <urn:string:@_TEXT> """general""" .
 <#ID_422242255> <urn:string:@_TEXT> """properties""" .
 <#ID_721627699> <urn:string:@_TEXT> """methods""" .
+<#ID_1264483989> <urn:string:@_TEXT> """keys""" .
+<#ID_1264483989> <urn:string:child> <ID_1264483989> .
+<#ID_1146278827> <urn:string:@_TEXT> """values""" .
+<#ID_1146278827> <urn:string:child> <ID_1146278827> .

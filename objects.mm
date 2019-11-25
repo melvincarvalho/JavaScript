@@ -1,6 +1,6 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="objects" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1574673247355" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="objects" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1574673787606" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -80,24 +80,25 @@
 <node TEXT="#javascript" ID="ID_1903100884" CREATED="1571980549151" MODIFIED="1571980553198"/>
 <node TEXT="#object" ID="ID_574380056" CREATED="1571980554162" MODIFIED="1573635692412"/>
 </node>
-<node TEXT="general" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1573635737119" COLOR="#0000ff" HGAP_QUANTITY="-99.99999660253533 pt" VSHIFT_QUANTITY="-65.24999805539852 pt">
+<node TEXT="general" POSITION="right" ID="ID_827097705" CREATED="1571978822555" MODIFIED="1574673779696" COLOR="#0000ff" HGAP_QUANTITY="-103.74999649077662 pt" VSHIFT_QUANTITY="-65.24999805539852 pt">
 <icon BUILTIN="forward"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#7c0000"/>
 </node>
-<node TEXT="properties" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1574673236106" COLOR="#006600" HGAP_QUANTITY="53.74999881535773 pt" VSHIFT_QUANTITY="38.2499988600612 pt">
+<node TEXT="properties" POSITION="right" ID="ID_422242255" CREATED="1571978826011" MODIFIED="1574673787604" COLOR="#006600" HGAP_QUANTITY="53.74999881535773 pt" VSHIFT_QUANTITY="41.99999874830249 pt">
 <icon BUILTIN="go"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#00007c"/>
 <node TEXT="attributes of object properties" ID="ID_484164969" CREATED="1573635711039" MODIFIED="1573635719271" LINK="https://2ality.com/2019/11/object-property-attributes.html"/>
 </node>
-<node TEXT="methods" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1574673251071" COLOR="#990000" HGAP_QUANTITY="-108.99999633431446 pt" VSHIFT_QUANTITY="89.24999734014281 pt">
+<node TEXT="methods" POSITION="right" ID="ID_721627699" CREATED="1571978829050" MODIFIED="1574673784106" COLOR="#990000" HGAP_QUANTITY="-108.2499963566662 pt" VSHIFT_QUANTITY="89.99999731779107 pt">
 <icon BUILTIN="yes"/>
 <font SIZE="12" BOLD="true"/>
 <edge COLOR="#007c00"/>
 <node TEXT="keys" ID="ID_1264483989" CREATED="1574673190177" MODIFIED="1574673251070" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys" HGAP_QUANTITY="16.249999932944775 pt" VSHIFT_QUANTITY="1.4999999552965178 pt">
 <node TEXT="const object1 = {&#xa;  a: &apos;somestring&apos;,&#xa;  b: 42,&#xa;  c: false&#xa;};&#xa;&#xa;console.log(Object.keys(object1));&#xa;// expected output: Array [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;]" ID="ID_1464311988" CREATED="1574673227364" MODIFIED="1574673228872"/>
 </node>
+<node TEXT="values" ID="ID_1146278827" CREATED="1574673753244" MODIFIED="1574673774840" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values"/>
 </node>
 </node>
 </map>
