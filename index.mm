@@ -74,6 +74,7 @@
 <edge COLOR="#7c7c00"/>
 <node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 <node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
+<node TEXT="clean-code-javascript" ID="ID_724832318" CREATED="1574723390415" MODIFIED="1574723399826" LINK="https://github.com/ryanmcdermott/clean-code-javascript"/>
 </node>
 <node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1572498219817">
 <icon BUILTIN="list"/>
