@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 14,
+                    "@_COUNTER": 17,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -375,21 +375,14 @@
                 {
                     "@_TEXT": "questions",
                     "@_POSITION": "right",
-                    "@_ID": "ID_1450636763",
-                    "@_CREATED": 1571271470008,
-                    "@_MODIFIED": 1572498224362,
-                    "icon": {
-                        "@_BUILTIN": "help"
-                    },
+                    "@_ID": "ID_845980270",
+                    "@_CREATED": 1574896985664,
+                    "@_MODIFIED": 1574896985681,
+                    "@_LINK": "questions.mm",
                     "edge": {
-                        "@_COLOR": "#007c00"
-                    },
-                    "node": {
-                        "@_TEXT": "Tricky Interview Questions",
-                        "@_ID": "ID_83102648",
-                        "@_CREATED": 1571271537267,
-                        "@_MODIFIED": 1572498172310,
-                        "@_LINK": "https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"
+                        "@_STYLE": "bezier",
+                        "@_COLOR": "#007c00",
+                        "@_WIDTH": "thin"
                     }
                 },
                 {
@@ -475,6 +468,19 @@
                     },
                     "edge": {
                         "@_COLOR": "#00ff00"
+                    }
+                },
+                {
+                    "@_TEXT": "apps",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_452171129",
+                    "@_CREATED": 1574897128910,
+                    "@_MODIFIED": 1574897128922,
+                    "@_LINK": "apps/index.mm",
+                    "edge": {
+                        "@_STYLE": "bezier",
+                        "@_COLOR": "#00ffff",
+                        "@_WIDTH": "thin"
                     }
                 }
             ]

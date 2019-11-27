@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="14" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -82,7 +82,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://js-tldr.info/">https://js-tldr.info/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
@@ -123,10 +122,8 @@
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
 </node>
-<node TEXT="questions" POSITION="right" ID="ID_1450636763" CREATED="1571271470008" MODIFIED="1572498224362">
-<icon BUILTIN="help"/>
-<edge COLOR="#007c00"/>
-<node TEXT="Tricky Interview Questions" ID="ID_83102648" CREATED="1571271537267" MODIFIED="1572498172310" LINK="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/"/>
+<node TEXT="questions" POSITION="right" ID="ID_845980270" CREATED="1574896985664" MODIFIED="1574896985681" LINK="questions.mm">
+<edge STYLE="bezier" COLOR="#007c00" WIDTH="thin"/>
 </node>
 <node TEXT="sandboxes" POSITION="right" ID="ID_1460537766" CREATED="1571361050431" MODIFIED="1572498249927">
 <icon BUILTIN="pencil"/>
@@ -147,6 +144,9 @@
 <node TEXT="articles" POSITION="right" ID="ID_51150335" CREATED="1574355033593" MODIFIED="1574355114620" LINK="articles/index.mm">
 <icon BUILTIN="very_positive"/>
 <edge COLOR="#00ff00"/>
+</node>
+<node TEXT="apps" POSITION="right" ID="ID_452171129" CREATED="1574897128910" MODIFIED="1574897128922" LINK="apps/index.mm">
+<edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
 </node>
 </node>
 </map>
