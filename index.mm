@@ -72,6 +72,19 @@
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
+<node ID="ID_1375223842" CREATED="1574850018186" MODIFIED="1574850018186" LINK="https://js-tldr.info/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://js-tldr.info/">https://js-tldr.info/</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 <node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
 <node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
 <node TEXT="clean-code-javascript" ID="ID_724832318" CREATED="1574723390415" MODIFIED="1574723399826" LINK="https://github.com/ryanmcdermott/clean-code-javascript"/>
