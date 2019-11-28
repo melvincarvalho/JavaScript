@@ -107,7 +107,9 @@
 <node TEXT="var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);" ID="ID_1190547862" CREATED="1574676254118" MODIFIED="1574676255769"/>
 <node TEXT="node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }" ID="ID_1696017079" CREATED="1574676282246" MODIFIED="1574676283779"/>
 <node TEXT="node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }" ID="ID_143113865" CREATED="1574676290102" MODIFIED="1574676291542"/>
+<node TEXT="devhints cheat sheet" ID="ID_1637037044" CREATED="1574948950083" MODIFIED="1574949039784" LINK="https://devhints.io/minimist%20%20%3Chttps://devhints.io/minimist%3E"/>
 </node>
+<node TEXT="chalk" ID="ID_1699654178" CREATED="1574900336750" MODIFIED="1574900352318" LINK="https://www.npmjs.com/package/chalk"/>
 </node>
 <node TEXT="process" POSITION="right" ID="ID_796850607" CREATED="1574676985952" MODIFIED="1574676990158" LINK="https://nodejs.org/docs/latest/api/process.html">
 <edge COLOR="#ff00ff"/>

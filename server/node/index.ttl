@@ -12,4 +12,8 @@
 <#ID_1696017079> <urn:string:child> <ID_1696017079> .
 <#ID_143113865> <urn:string:@_TEXT> """node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }""" .
 <#ID_143113865> <urn:string:child> <ID_143113865> .
+<#ID_1637037044> <urn:string:@_TEXT> """devhints cheat sheet""" .
+<#ID_1637037044> <urn:string:child> <ID_1637037044> .
+<#ID_1699654178> <urn:string:@_TEXT> """chalk""" .
+<#ID_1699654178> <urn:string:child> <ID_1699654178> .
 <#ID_796850607> <urn:string:@_TEXT> """process""" .

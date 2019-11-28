@@ -313,8 +313,22 @@
                                     "@_ID": "ID_143113865",
                                     "@_CREATED": 1574676290102,
                                     "@_MODIFIED": 1574676291542
+                                },
+                                {
+                                    "@_TEXT": "devhints cheat sheet",
+                                    "@_ID": "ID_1637037044",
+                                    "@_CREATED": 1574948950083,
+                                    "@_MODIFIED": 1574949039784,
+                                    "@_LINK": "https://devhints.io/minimist%20%20%3Chttps://devhints.io/minimist%3E"
                                 }
                             ]
+                        },
+                        {
+                            "@_TEXT": "chalk",
+                            "@_ID": "ID_1699654178",
+                            "@_CREATED": 1574900336750,
+                            "@_MODIFIED": 1574900352318,
+                            "@_LINK": "https://www.npmjs.com/package/chalk"
                         }
                     ]
                 },
