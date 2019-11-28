@@ -115,6 +115,7 @@
 <node TEXT="nomnom" ID="ID_76514077" CREATED="1574949292521" MODIFIED="1574949316459" LINK="https://github.com/harthur/nomnom"/>
 <node TEXT="optimist" ID="ID_1291499310" CREATED="1574949295191" MODIFIED="1574949326103" LINK="https://github.com/substack/node-optimist"/>
 <node TEXT="trends" ID="ID_452522485" CREATED="1574949352822" MODIFIED="1574949361489" LINK="https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"/>
+<node TEXT="ink" ID="ID_1392937972" CREATED="1574949848131" MODIFIED="1574949855121" LINK="https://www.npmjs.com/package/ink"/>
 <node TEXT="compare" ID="ID_237207484" CREATED="1574949452441" MODIFIED="1574949456914" LINK="https://npmcompare.com/compare/commander,meow,minimist,nomnom,optimist">
 <node TEXT="blog" ID="ID_53085124" CREATED="1574949555770" MODIFIED="1574949560408" LINK="https://pantas.net/node_argument_parsers/"/>
 </node>
