@@ -109,7 +109,12 @@
 <node TEXT="node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }" ID="ID_143113865" CREATED="1574676290102" MODIFIED="1574676291542"/>
 <node TEXT="devhints cheat sheet" ID="ID_1637037044" CREATED="1574948950083" MODIFIED="1574949039784" LINK="https://devhints.io/minimist%20%20%3Chttps://devhints.io/minimist%3E"/>
 </node>
+<node TEXT="meow" ID="ID_1391692224" CREATED="1574949233954" MODIFIED="1574949243800" LINK="https://www.npmjs.com/package/meow"/>
 <node TEXT="chalk" ID="ID_1699654178" CREATED="1574900336750" MODIFIED="1574900352318" LINK="https://www.npmjs.com/package/chalk"/>
+<node TEXT="commander" ID="ID_1594985415" CREATED="1574949290108" MODIFIED="1574949306323" LINK="https://github.com/tj/commander.js"/>
+<node TEXT="nomnom" ID="ID_76514077" CREATED="1574949292521" MODIFIED="1574949316459" LINK="https://github.com/harthur/nomnom"/>
+<node TEXT="optimist" ID="ID_1291499310" CREATED="1574949295191" MODIFIED="1574949326103" LINK="https://github.com/substack/node-optimist"/>
+<node TEXT="trends" ID="ID_452522485" CREATED="1574949352822" MODIFIED="1574949361489" LINK="https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"/>
 </node>
 <node TEXT="process" POSITION="right" ID="ID_796850607" CREATED="1574676985952" MODIFIED="1574676990158" LINK="https://nodejs.org/docs/latest/api/process.html">
 <edge COLOR="#ff00ff"/>

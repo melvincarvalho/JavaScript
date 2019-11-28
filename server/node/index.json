@@ -324,11 +324,46 @@
                             ]
                         },
                         {
+                            "@_TEXT": "meow",
+                            "@_ID": "ID_1391692224",
+                            "@_CREATED": 1574949233954,
+                            "@_MODIFIED": 1574949243800,
+                            "@_LINK": "https://www.npmjs.com/package/meow"
+                        },
+                        {
                             "@_TEXT": "chalk",
                             "@_ID": "ID_1699654178",
                             "@_CREATED": 1574900336750,
                             "@_MODIFIED": 1574900352318,
                             "@_LINK": "https://www.npmjs.com/package/chalk"
+                        },
+                        {
+                            "@_TEXT": "commander",
+                            "@_ID": "ID_1594985415",
+                            "@_CREATED": 1574949290108,
+                            "@_MODIFIED": 1574949306323,
+                            "@_LINK": "https://github.com/tj/commander.js"
+                        },
+                        {
+                            "@_TEXT": "nomnom",
+                            "@_ID": "ID_76514077",
+                            "@_CREATED": 1574949292521,
+                            "@_MODIFIED": 1574949316459,
+                            "@_LINK": "https://github.com/harthur/nomnom"
+                        },
+                        {
+                            "@_TEXT": "optimist",
+                            "@_ID": "ID_1291499310",
+                            "@_CREATED": 1574949295191,
+                            "@_MODIFIED": 1574949326103,
+                            "@_LINK": "https://github.com/substack/node-optimist"
+                        },
+                        {
+                            "@_TEXT": "trends",
+                            "@_ID": "ID_452522485",
+                            "@_CREATED": 1574949352822,
+                            "@_MODIFIED": 1574949361489,
+                            "@_LINK": "https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"
                         }
                     ]
                 },
