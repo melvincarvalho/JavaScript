@@ -364,6 +364,20 @@
                             "@_CREATED": 1574949352822,
                             "@_MODIFIED": 1574949361489,
                             "@_LINK": "https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"
+                        },
+                        {
+                            "@_TEXT": "compare",
+                            "@_ID": "ID_237207484",
+                            "@_CREATED": 1574949452441,
+                            "@_MODIFIED": 1574949456914,
+                            "@_LINK": "https://npmcompare.com/compare/commander,meow,minimist,nomnom,optimist",
+                            "node": {
+                                "@_TEXT": "blog",
+                                "@_ID": "ID_53085124",
+                                "@_CREATED": 1574949555770,
+                                "@_MODIFIED": 1574949560408,
+                                "@_LINK": "https://pantas.net/node_argument_parsers/"
+                            }
                         }
                     ]
                 },
