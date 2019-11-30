@@ -6,12 +6,11 @@
             "@_FOLDED": false,
             "@_ID": "ID_131836552",
             "@_CREATED": 1574897110329,
-            "@_MODIFIED": 1574897128819,
+            "@_MODIFIED": 1575144927748,
             "@_LINK": "../index.mm",
+            "@_STYLE": "oval",
             "edge": {
                 "@_STYLE": "bezier",
-                "@_COLOR": "#00ffff",
-                "@_WIDTH": "thin",
                 "@_DASH": "SOLID"
             },
             "hook": [
@@ -193,35 +192,83 @@
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
+            "font": {
+                "@_SIZE": 18
+            },
             "node": {
-                "@_TEXT": "mindmap",
+                "@_TEXT": "information maps",
                 "@_POSITION": "right",
                 "@_ID": "ID_1505022052",
                 "@_CREATED": 1574897135608,
-                "@_MODIFIED": 1574897137715,
+                "@_MODIFIED": 1575144909175,
                 "edge": {
                     "@_COLOR": "#7c0000"
                 },
-                "node": {
-                    "@_ID": "ID_1008171028",
-                    "@_CREATED": 1574884067176,
-                    "@_MODIFIED": 1574884067176,
-                    "@_LINK": "https://github.com/alyssaxuu/flowy",
-                    "richcontent": {
-                        "@_TYPE": "NODE",
-                        "html": {
-                            "head": "",
-                            "body": {
-                                "a": {
-                                    "#text": "https://github.com/alyssaxuu/flowy",
-                                    "@_http-equiv": "content-type",
-                                    "@_content": "text/html; charset=utf-8",
-                                    "@_href": "https://github.com/alyssaxuu/flowy"
+                "font": {
+                    "@_BOLD": true
+                },
+                "node": [
+                    {
+                        "@_ID": "ID_1008171028",
+                        "@_CREATED": 1574884067176,
+                        "@_MODIFIED": 1574884067176,
+                        "@_LINK": "https://github.com/alyssaxuu/flowy",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/alyssaxuu/flowy",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/alyssaxuu/flowy"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@_ID": "ID_1060403936",
+                        "@_CREATED": 1575144536809,
+                        "@_MODIFIED": 1575144536809,
+                        "@_LINK": "https://github.com/jagenjo/litegraph.js#projects-using-it",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/jagenjo/litegraph.js#projects-using-it",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/jagenjo/litegraph.js#projects-using-it"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@_ID": "ID_260563962",
+                        "@_CREATED": 1575144649171,
+                        "@_MODIFIED": 1575144649171,
+                        "@_LINK": "https://github.com/ssshooter/mind-elixir-core",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/ssshooter/mind-elixir-core",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/ssshooter/mind-elixir-core"
+                                    }
                                 }
                             }
                         }
                     }
-                }
+                ]
             }
         }
     }
