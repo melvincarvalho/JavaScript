@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 19,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -480,6 +480,19 @@
                     "edge": {
                         "@_STYLE": "bezier",
                         "@_COLOR": "#00ffff",
+                        "@_WIDTH": "thin"
+                    }
+                },
+                {
+                    "@_TEXT": "DOM",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1132407233",
+                    "@_CREATED": 1575148729684,
+                    "@_MODIFIED": 1575148729703,
+                    "@_LINK": "DOM.mm",
+                    "edge": {
+                        "@_STYLE": "bezier",
+                        "@_COLOR": "#00007c",
                         "@_WIDTH": "thin"
                     }
                 }

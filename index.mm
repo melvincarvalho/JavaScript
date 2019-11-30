@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -147,6 +147,9 @@
 </node>
 <node TEXT="apps" POSITION="right" ID="ID_452171129" CREATED="1574897128910" MODIFIED="1574897128922" LINK="apps/index.mm">
 <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
+</node>
+<node TEXT="DOM" POSITION="right" ID="ID_1132407233" CREATED="1575148729684" MODIFIED="1575148729703" LINK="DOM.mm">
+<edge STYLE="bezier" COLOR="#00007c" WIDTH="thin"/>
 </node>
 </node>
 </map>
