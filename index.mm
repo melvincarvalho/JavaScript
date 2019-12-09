@@ -144,7 +144,9 @@
 <node TEXT="To specify how the actions transform the state tree, you write pure reducers." ID="ID_697698801" CREATED="1575899232106" MODIFIED="1575899232106"/>
 </node>
 </node>
-<node TEXT="examples" ID="ID_1437141218" CREATED="1575899420351" MODIFIED="1575899428269" LINK="https://redux.js.org/introduction/examples"/>
+<node TEXT="examples" ID="ID_1437141218" CREATED="1575899420351" MODIFIED="1575899428269" LINK="https://redux.js.org/introduction/examples">
+<node TEXT="codesandbox" ID="ID_1397733159" CREATED="1575633622987" MODIFIED="1575902513506" LINK="https://codesandbox.io/s/reduxjs-joqhu"/>
+</node>
 </node>
 </node>
 </node>
