@@ -12,12 +12,16 @@
 <#ID_849215328> <urn:string:@_TEXT> """Communities""" .
 <#ID_1566689685> <urn:string:@_TEXT> """language""" .
 <#ID_153818301> <urn:string:@_TEXT> """frameworks""" .
+<#ID_208171559> <urn:string:@_TEXT> """MVVM""" .
+<#ID_208171559> <urn:string:child> <ID_208171559> .
 <#ID_921980201> <urn:string:@_TEXT> """react""" .
 <#ID_921980201> <urn:string:child> <ID_921980201> .
 <#ID_850712897> <urn:string:@_TEXT> """vue""" .
 <#ID_850712897> <urn:string:child> <ID_850712897> .
 <#ID_101804111> <urn:string:@_TEXT> """angular""" .
 <#ID_101804111> <urn:string:child> <ID_101804111> .
+<#ID_156551041> <urn:string:@_TEXT> """state""" .
+<#ID_156551041> <urn:string:child> <ID_156551041> .
 <#ID_845980270> <urn:string:@_TEXT> """questions""" .
 <#ID_1460537766> <urn:string:@_TEXT> """sandboxes""" .
 <#ID_899668548> <urn:string:@_TEXT> """Code Sandbox""" .

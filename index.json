@@ -347,28 +347,133 @@
                     },
                     "node": [
                         {
-                            "@_TEXT": "react",
-                            "@_ID": "ID_921980201",
-                            "@_CREATED": 1570477831137,
-                            "@_MODIFIED": 1571821835867,
-                            "@_LINK": "react/index.mm",
-                            "icon": {
-                                "@_BUILTIN": "list"
+                            "@_TEXT": "MVVM",
+                            "@_ID": "ID_208171559",
+                            "@_CREATED": 1575899575309,
+                            "@_MODIFIED": 1575899577190,
+                            "node": [
+                                {
+                                    "@_TEXT": "react",
+                                    "@_ID": "ID_921980201",
+                                    "@_CREATED": 1570477831137,
+                                    "@_MODIFIED": 1571821835867,
+                                    "@_LINK": "react/index.mm",
+                                    "icon": {
+                                        "@_BUILTIN": "list"
+                                    }
+                                },
+                                {
+                                    "@_TEXT": "vue",
+                                    "@_ID": "ID_850712897",
+                                    "@_CREATED": 1570477834617,
+                                    "@_MODIFIED": 1570477889990,
+                                    "@_LINK": "https://vuejs.org/"
+                                },
+                                {
+                                    "@_TEXT": "angular",
+                                    "@_ID": "ID_101804111",
+                                    "@_CREATED": 1570477835956,
+                                    "@_MODIFIED": 1570477905907,
+                                    "@_LINK": "https://angular.io/"
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "state",
+                            "@_ID": "ID_156551041",
+                            "@_CREATED": 1575899599811,
+                            "@_MODIFIED": 1575899609927,
+                            "node": {
+                                "@_TEXT": "Redux",
+                                "@_ID": "ID_1287476678",
+                                "@_CREATED": 1575899050104,
+                                "@_MODIFIED": 1575899059341,
+                                "@_LINK": "https://redux.js.org/",
+                                "node": [
+                                    {
+                                        "@_TEXT": "A predictable state container for JavaScript apps.",
+                                        "@_ID": "ID_952075275",
+                                        "@_CREATED": 1575899068275,
+                                        "@_MODIFIED": 1575899068275
+                                    },
+                                    {
+                                        "@_TEXT": "Getting Started",
+                                        "@_ID": "ID_597064892",
+                                        "@_CREATED": 1575899120537,
+                                        "@_MODIFIED": 1575899126976,
+                                        "@_LINK": "https://redux.js.org/introduction/getting-started",
+                                        "node": {
+                                            "@_TEXT": "npm install --save redux",
+                                            "@_ID": "ID_332762210",
+                                            "@_CREATED": 1575899167567,
+                                            "@_MODIFIED": 1575899167567
+                                        }
+                                    },
+                                    {
+                                        "@_TEXT": "Terms",
+                                        "@_ID": "ID_737373630",
+                                        "@_CREATED": 1575899224275,
+                                        "@_MODIFIED": 1575899284362,
+                                        "font": {
+                                            "@_BOLD": true
+                                        },
+                                        "node": [
+                                            {
+                                                "@_TEXT": "Store",
+                                                "@_ID": "ID_135925682",
+                                                "@_CREATED": 1575899239069,
+                                                "@_MODIFIED": 1575899246977,
+                                                "font": {
+                                                    "@_BOLD": true
+                                                },
+                                                "node": {
+                                                    "@_TEXT": "The whole state of your app is stored in an object tree inside a single store.",
+                                                    "@_ID": "ID_877971409",
+                                                    "@_CREATED": 1575899232098,
+                                                    "@_MODIFIED": 1575899232098
+                                                }
+                                            },
+                                            {
+                                                "@_TEXT": "Action",
+                                                "@_ID": "ID_334240610",
+                                                "@_CREATED": 1575899256772,
+                                                "@_MODIFIED": 1575899262558,
+                                                "font": {
+                                                    "@_BOLD": true
+                                                },
+                                                "node": {
+                                                    "@_TEXT": "The only way to change the state tree is to emit an action, an object describing what happened.",
+                                                    "@_ID": "ID_1174193716",
+                                                    "@_CREATED": 1575899232098,
+                                                    "@_MODIFIED": 1575899232098
+                                                }
+                                            },
+                                            {
+                                                "@_TEXT": "Reducer",
+                                                "@_ID": "ID_226284364",
+                                                "@_CREATED": 1575899269516,
+                                                "@_MODIFIED": 1575899276114,
+                                                "font": {
+                                                    "@_BOLD": true
+                                                },
+                                                "node": {
+                                                    "@_TEXT": "To specify how the actions transform the state tree, you write pure reducers.",
+                                                    "@_ID": "ID_697698801",
+                                                    "@_CREATED": 1575899232106,
+                                                    "@_MODIFIED": 1575899232106
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@_TEXT": "examples",
+                                        "@_ID": "ID_1437141218",
+                                        "@_CREATED": 1575899420351,
+                                        "@_MODIFIED": 1575899428269,
+                                        "@_LINK": "https://redux.js.org/introduction/examples"
+                                    }
+                                ]
                             }
-                        },
-                        {
-                            "@_TEXT": "vue",
-                            "@_ID": "ID_850712897",
-                            "@_CREATED": 1570477834617,
-                            "@_MODIFIED": 1570477889990,
-                            "@_LINK": "https://vuejs.org/"
-                        },
-                        {
-                            "@_TEXT": "angular",
-                            "@_ID": "ID_101804111",
-                            "@_CREATED": 1570477835956,
-                            "@_MODIFIED": 1570477905907,
-                            "@_LINK": "https://angular.io/"
                         }
                     ]
                 },

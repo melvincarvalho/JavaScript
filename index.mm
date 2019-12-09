@@ -116,11 +116,37 @@
 <node TEXT="frameworks" POSITION="right" ID="ID_153818301" CREATED="1570477824954" MODIFIED="1572498255710">
 <icon BUILTIN="executable"/>
 <edge COLOR="#7c0000"/>
+<node TEXT="MVVM" ID="ID_208171559" CREATED="1575899575309" MODIFIED="1575899577190">
 <node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571821835867" LINK="react/index.mm">
 <icon BUILTIN="list"/>
 </node>
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
+</node>
+<node TEXT="state" ID="ID_156551041" CREATED="1575899599811" MODIFIED="1575899609927">
+<node TEXT="Redux" ID="ID_1287476678" CREATED="1575899050104" MODIFIED="1575899059341" LINK="https://redux.js.org/">
+<node TEXT="A predictable state container for JavaScript apps." ID="ID_952075275" CREATED="1575899068275" MODIFIED="1575899068275"/>
+<node TEXT="Getting Started" ID="ID_597064892" CREATED="1575899120537" MODIFIED="1575899126976" LINK="https://redux.js.org/introduction/getting-started">
+<node TEXT="npm install --save redux" ID="ID_332762210" CREATED="1575899167567" MODIFIED="1575899167567"/>
+</node>
+<node TEXT="Terms" ID="ID_737373630" CREATED="1575899224275" MODIFIED="1575899284362">
+<font BOLD="true"/>
+<node TEXT="Store" ID="ID_135925682" CREATED="1575899239069" MODIFIED="1575899246977">
+<font BOLD="true"/>
+<node TEXT="The whole state of your app is stored in an object tree inside a single store." ID="ID_877971409" CREATED="1575899232098" MODIFIED="1575899232098"/>
+</node>
+<node TEXT="Action" ID="ID_334240610" CREATED="1575899256772" MODIFIED="1575899262558">
+<font BOLD="true"/>
+<node TEXT="The only way to change the state tree is to emit an action, an object describing what happened." ID="ID_1174193716" CREATED="1575899232098" MODIFIED="1575899232098"/>
+</node>
+<node TEXT="Reducer" ID="ID_226284364" CREATED="1575899269516" MODIFIED="1575899276114">
+<font BOLD="true"/>
+<node TEXT="To specify how the actions transform the state tree, you write pure reducers." ID="ID_697698801" CREATED="1575899232106" MODIFIED="1575899232106"/>
+</node>
+</node>
+<node TEXT="examples" ID="ID_1437141218" CREATED="1575899420351" MODIFIED="1575899428269" LINK="https://redux.js.org/introduction/examples"/>
+</node>
+</node>
 </node>
 <node TEXT="questions" POSITION="right" ID="ID_845980270" CREATED="1574896985664" MODIFIED="1574896985681" LINK="questions.mm">
 <edge STYLE="bezier" COLOR="#007c00" WIDTH="thin"/>
