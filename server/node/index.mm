@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="15" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
@@ -123,6 +123,9 @@
 <node TEXT="process" POSITION="right" ID="ID_796850607" CREATED="1574676985952" MODIFIED="1574676990158" LINK="https://nodejs.org/docs/latest/api/process.html">
 <edge COLOR="#ff00ff"/>
 <node TEXT="argv" ID="ID_476473429" CREATED="1574676993097" MODIFIED="1574676995257"/>
+</node>
+<node TEXT="crypto" POSITION="right" ID="ID_139862141" CREATED="1577230150936" MODIFIED="1577230150940" LINK="crypto.mm">
+<edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
 </node>
 </node>
 </map>

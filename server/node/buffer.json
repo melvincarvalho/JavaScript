@@ -2,19 +2,18 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "node",
+            "@_TEXT": "buffer",
             "@_FOLDED": false,
-            "@_ID": "ID_110073400",
-            "@_CREATED": 1570292852860,
-            "@_MODIFIED": 1573030887746,
-            "@_ICON_SIZE": "16.0 pt",
-            "@_LINK": "../index.mm",
+            "@_ID": "ID_1306494869",
+            "@_CREATED": 1577230141836,
+            "@_MODIFIED": 1577252208376,
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
-            "icon": {
-                "@_BUILTIN": "bookmark"
-            },
-            "font": {
-                "@_SIZE": 18
+            "edge": {
+                "@_STYLE": "bezier",
+                "@_COLOR": "#00ffff",
+                "@_WIDTH": "thin",
+                "@_DASH": "SOLID"
             },
             "hook": [
                 {
@@ -191,38 +190,38 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 19,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
+            "font": {
+                "@_SIZE": 18
+            },
             "node": [
                 {
                     "@_TEXT": "docs",
                     "@_POSITION": "left",
-                    "@_ID": "ID_1425964050",
-                    "@_CREATED": 1572497990298,
-                    "@_MODIFIED": 1572498279093,
-                    "icon": {
-                        "@_BUILTIN": "info"
-                    },
+                    "@_ID": "ID_851807732",
+                    "@_CREATED": 1577230223389,
+                    "@_MODIFIED": 1577230226360,
                     "edge": {
-                        "@_COLOR": "#7c7c00"
+                        "@_COLOR": "#7c0000"
                     },
                     "node": {
-                        "@_ID": "ID_273339059",
-                        "@_CREATED": 1573030842692,
-                        "@_MODIFIED": 1573030842692,
-                        "@_LINK": "https://nodejs.org/en/",
+                        "@_ID": "ID_1096114684",
+                        "@_CREATED": 1577252212780,
+                        "@_MODIFIED": 1577252212780,
+                        "@_LINK": "https://nodejs.org/api/buffer.html",
                         "richcontent": {
                             "@_TYPE": "NODE",
                             "html": {
                                 "head": "",
                                 "body": {
                                     "a": {
-                                        "#text": "https://nodejs.org/en/",
+                                        "#text": "https://nodejs.org/api/buffer.html",
                                         "@_http-equiv": "content-type",
                                         "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://nodejs.org/en/"
+                                        "@_href": "https://nodejs.org/api/buffer.html"
                                     }
                                 }
                             }
@@ -230,193 +229,120 @@
                     }
                 },
                 {
-                    "@_TEXT": "lists",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_829378880",
-                    "@_CREATED": 1571361129403,
-                    "@_MODIFIED": 1572498219817,
-                    "icon": {
-                        "@_BUILTIN": "list"
-                    },
-                    "edge": {
-                        "@_COLOR": "#007c7c"
-                    }
-                },
-                {
-                    "@_TEXT": "npm",
+                    "@_TEXT": "Class",
                     "@_POSITION": "right",
-                    "@_ID": "ID_943883803",
-                    "@_CREATED": 1573030865320,
-                    "@_MODIFIED": 1573030866720,
+                    "@_ID": "ID_1365723081",
+                    "@_CREATED": 1577230263124,
+                    "@_MODIFIED": 1577230264864,
                     "edge": {
-                        "@_COLOR": "#0000ff"
+                        "@_COLOR": "#00007c"
                     },
                     "node": {
-                        "@_ID": "ID_954942221",
-                        "@_CREATED": 1573030867890,
-                        "@_MODIFIED": 1573030867890,
-                        "@_LINK": "https://docs.npmjs.com/files/package.json",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://docs.npmjs.com/files/package.json",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://docs.npmjs.com/files/package.json"
-                                    }
-                                }
+                        "@_TEXT": "Buffer",
+                        "@_ID": "ID_760598017",
+                        "@_CREATED": 1577252225498,
+                        "@_MODIFIED": 1577252227479,
+                        "node": [
+                            {
+                                "@_TEXT": "typed array of 256 ints",
+                                "@_ID": "ID_1239577313",
+                                "@_CREATED": 1577252453938,
+                                "@_MODIFIED": 1577252466916
+                            },
+                            {
+                                "@_TEXT": "global scope",
+                                "@_ID": "ID_1305546883",
+                                "@_CREATED": 1577252504335,
+                                "@_MODIFIED": 1577252507362
                             }
-                        }
+                        ]
                     }
                 },
                 {
-                    "@_TEXT": "cli",
+                    "@_TEXT": "methods",
                     "@_POSITION": "right",
-                    "@_ID": "ID_254723387",
-                    "@_CREATED": 1574676184865,
-                    "@_MODIFIED": 1574676186814,
+                    "@_ID": "ID_1093047629",
+                    "@_CREATED": 1577252543730,
+                    "@_MODIFIED": 1577252546045,
                     "edge": {
-                        "@_COLOR": "#00ff00"
+                        "@_COLOR": "#007c00"
                     },
                     "node": [
                         {
-                            "@_TEXT": "yargs",
-                            "@_ID": "ID_947854242",
-                            "@_CREATED": 1574676188755,
-                            "@_MODIFIED": 1574676228056,
-                            "@_LINK": "https://www.npmjs.com/package/yargs"
+                            "@_TEXT": "alloc",
+                            "@_ID": "ID_1391415302",
+                            "@_CREATED": 1577252547009,
+                            "@_MODIFIED": 1577252550957
                         },
                         {
-                            "@_TEXT": "minimist",
-                            "@_ID": "ID_1959242244",
-                            "@_CREATED": 1574676191279,
-                            "@_MODIFIED": 1574676211729,
-                            "@_LINK": "https://www.npmjs.com/package/minimist",
+                            "@_TEXT": "from",
+                            "@_ID": "ID_1626460080",
+                            "@_CREATED": 1577252551778,
+                            "@_MODIFIED": 1577252553430
+                        },
+                        {
+                            "@_TEXT": "toString",
+                            "@_ID": "ID_737769976",
+                            "@_CREATED": 1577252574107,
+                            "@_MODIFIED": 1577252576824,
+                            "node": {
+                                "@_TEXT": "hex",
+                                "@_ID": "ID_1601708294",
+                                "@_CREATED": 1577252577778,
+                                "@_MODIFIED": 1577252579214
+                            }
+                        },
+                        {
+                            "@_TEXT": "concat",
+                            "@_ID": "ID_1495425573",
+                            "@_CREATED": 1577252657260,
+                            "@_MODIFIED": 1577252659728,
                             "node": [
                                 {
-                                    "@_TEXT": "var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);",
-                                    "@_ID": "ID_1190547862",
-                                    "@_CREATED": 1574676254118,
-                                    "@_MODIFIED": 1574676255769
+                                    "@_TEXT": "const buf1 = Buffer.alloc(10);",
+                                    "@_ID": "ID_666033027",
+                                    "@_CREATED": 1577252712232,
+                                    "@_MODIFIED": 1577252712232
                                 },
                                 {
-                                    "@_TEXT": "node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }",
-                                    "@_ID": "ID_1696017079",
-                                    "@_CREATED": 1574676282246,
-                                    "@_MODIFIED": 1574676283779
+                                    "@_TEXT": "const buf2 = Buffer.alloc(14);",
+                                    "@_ID": "ID_524240879",
+                                    "@_CREATED": 1577252712232,
+                                    "@_MODIFIED": 1577252712232
                                 },
                                 {
-                                    "@_TEXT": "node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }",
-                                    "@_ID": "ID_143113865",
-                                    "@_CREATED": 1574676290102,
-                                    "@_MODIFIED": 1574676291542
+                                    "@_TEXT": "const buf3 = Buffer.alloc(18);",
+                                    "@_ID": "ID_419108433",
+                                    "@_CREATED": 1577252712233,
+                                    "@_MODIFIED": 1577252712233
                                 },
                                 {
-                                    "@_TEXT": "devhints cheat sheet",
-                                    "@_ID": "ID_1637037044",
-                                    "@_CREATED": 1574948950083,
-                                    "@_MODIFIED": 1574949039784,
-                                    "@_LINK": "https://devhints.io/minimist%20%20%3Chttps://devhints.io/minimist%3E"
+                                    "@_TEXT": "const totalLength = buf1.length + buf2.length + buf3.length;",
+                                    "@_ID": "ID_318808453",
+                                    "@_CREATED": 1577252712233,
+                                    "@_MODIFIED": 1577252712233
+                                },
+                                {
+                                    "@_TEXT": "console.log(totalLength);",
+                                    "@_ID": "ID_968333234",
+                                    "@_CREATED": 1577252712233,
+                                    "@_MODIFIED": 1577252712233
+                                },
+                                {
+                                    "@_TEXT": "// Prints: 42",
+                                    "@_ID": "ID_1714949658",
+                                    "@_CREATED": 1577252712235,
+                                    "@_MODIFIED": 1577252712235
+                                },
+                                {
+                                    "@_TEXT": "const bufA = Buffer.concat([buf1, buf2, buf3], totalLength);",
+                                    "@_ID": "ID_610779074",
+                                    "@_CREATED": 1577252712236,
+                                    "@_MODIFIED": 1577252712236
                                 }
                             ]
-                        },
-                        {
-                            "@_TEXT": "meow",
-                            "@_ID": "ID_1391692224",
-                            "@_CREATED": 1574949233954,
-                            "@_MODIFIED": 1574949243800,
-                            "@_LINK": "https://www.npmjs.com/package/meow"
-                        },
-                        {
-                            "@_TEXT": "chalk",
-                            "@_ID": "ID_1699654178",
-                            "@_CREATED": 1574900336750,
-                            "@_MODIFIED": 1574900352318,
-                            "@_LINK": "https://www.npmjs.com/package/chalk"
-                        },
-                        {
-                            "@_TEXT": "commander",
-                            "@_ID": "ID_1594985415",
-                            "@_CREATED": 1574949290108,
-                            "@_MODIFIED": 1574949306323,
-                            "@_LINK": "https://github.com/tj/commander.js"
-                        },
-                        {
-                            "@_TEXT": "nomnom",
-                            "@_ID": "ID_76514077",
-                            "@_CREATED": 1574949292521,
-                            "@_MODIFIED": 1574949316459,
-                            "@_LINK": "https://github.com/harthur/nomnom"
-                        },
-                        {
-                            "@_TEXT": "optimist",
-                            "@_ID": "ID_1291499310",
-                            "@_CREATED": 1574949295191,
-                            "@_MODIFIED": 1574949326103,
-                            "@_LINK": "https://github.com/substack/node-optimist"
-                        },
-                        {
-                            "@_TEXT": "trends",
-                            "@_ID": "ID_452522485",
-                            "@_CREATED": 1574949352822,
-                            "@_MODIFIED": 1574949361489,
-                            "@_LINK": "https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"
-                        },
-                        {
-                            "@_TEXT": "ink",
-                            "@_ID": "ID_1392937972",
-                            "@_CREATED": 1574949848131,
-                            "@_MODIFIED": 1574949855121,
-                            "@_LINK": "https://www.npmjs.com/package/ink"
-                        },
-                        {
-                            "@_TEXT": "compare",
-                            "@_ID": "ID_237207484",
-                            "@_CREATED": 1574949452441,
-                            "@_MODIFIED": 1574949456914,
-                            "@_LINK": "https://npmcompare.com/compare/commander,meow,minimist,nomnom,optimist",
-                            "node": {
-                                "@_TEXT": "blog",
-                                "@_ID": "ID_53085124",
-                                "@_CREATED": 1574949555770,
-                                "@_MODIFIED": 1574949560408,
-                                "@_LINK": "https://pantas.net/node_argument_parsers/"
-                            }
                         }
                     ]
-                },
-                {
-                    "@_TEXT": "process",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_796850607",
-                    "@_CREATED": 1574676985952,
-                    "@_MODIFIED": 1574676990158,
-                    "@_LINK": "https://nodejs.org/docs/latest/api/process.html",
-                    "edge": {
-                        "@_COLOR": "#ff00ff"
-                    },
-                    "node": {
-                        "@_TEXT": "argv",
-                        "@_ID": "ID_476473429",
-                        "@_CREATED": 1574676993097,
-                        "@_MODIFIED": 1574676995257
-                    }
-                },
-                {
-                    "@_TEXT": "crypto",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_139862141",
-                    "@_CREATED": 1577230150936,
-                    "@_MODIFIED": 1577230150940,
-                    "@_LINK": "crypto.mm",
-                    "edge": {
-                        "@_STYLE": "bezier",
-                        "@_COLOR": "#00ffff",
-                        "@_WIDTH": "thin"
-                    }
                 }
             ]
         }

@@ -1,0 +1,25 @@
+<#ID_851807732> <urn:string:@_TEXT> """docs""" .
+<#ID_1365723081> <urn:string:@_TEXT> """Class""" .
+<#ID_1093047629> <urn:string:@_TEXT> """methods""" .
+<#ID_1391415302> <urn:string:@_TEXT> """alloc""" .
+<#ID_1391415302> <urn:string:child> <ID_1391415302> .
+<#ID_1626460080> <urn:string:@_TEXT> """from""" .
+<#ID_1626460080> <urn:string:child> <ID_1626460080> .
+<#ID_737769976> <urn:string:@_TEXT> """toString""" .
+<#ID_737769976> <urn:string:child> <ID_737769976> .
+<#ID_1495425573> <urn:string:@_TEXT> """concat""" .
+<#ID_1495425573> <urn:string:child> <ID_1495425573> .
+<#ID_666033027> <urn:string:@_TEXT> """const buf1 = Buffer.alloc(10);""" .
+<#ID_666033027> <urn:string:child> <ID_666033027> .
+<#ID_524240879> <urn:string:@_TEXT> """const buf2 = Buffer.alloc(14);""" .
+<#ID_524240879> <urn:string:child> <ID_524240879> .
+<#ID_419108433> <urn:string:@_TEXT> """const buf3 = Buffer.alloc(18);""" .
+<#ID_419108433> <urn:string:child> <ID_419108433> .
+<#ID_318808453> <urn:string:@_TEXT> """const totalLength = buf1.length + buf2.length + buf3.length;""" .
+<#ID_318808453> <urn:string:child> <ID_318808453> .
+<#ID_968333234> <urn:string:@_TEXT> """console.log(totalLength);""" .
+<#ID_968333234> <urn:string:child> <ID_968333234> .
+<#ID_1714949658> <urn:string:@_TEXT> """// Prints: 42""" .
+<#ID_1714949658> <urn:string:child> <ID_1714949658> .
+<#ID_610779074> <urn:string:@_TEXT> """const bufA = Buffer.concat([buf1, buf2, buf3], totalLength);""" .
+<#ID_610779074> <urn:string:child> <ID_610779074> .

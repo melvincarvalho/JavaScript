@@ -2,19 +2,18 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "node",
+            "@_TEXT": "crypto",
             "@_FOLDED": false,
-            "@_ID": "ID_110073400",
-            "@_CREATED": 1570292852860,
-            "@_MODIFIED": 1573030887746,
-            "@_ICON_SIZE": "16.0 pt",
-            "@_LINK": "../index.mm",
+            "@_ID": "ID_1306494869",
+            "@_CREATED": 1577230141836,
+            "@_MODIFIED": 1577230164798,
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
-            "icon": {
-                "@_BUILTIN": "bookmark"
-            },
-            "font": {
-                "@_SIZE": 18
+            "edge": {
+                "@_STYLE": "bezier",
+                "@_COLOR": "#00ffff",
+                "@_WIDTH": "thin",
+                "@_DASH": "SOLID"
             },
             "hook": [
                 {
@@ -191,38 +190,38 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
+            "font": {
+                "@_SIZE": 18
+            },
             "node": [
                 {
                     "@_TEXT": "docs",
                     "@_POSITION": "left",
-                    "@_ID": "ID_1425964050",
-                    "@_CREATED": 1572497990298,
-                    "@_MODIFIED": 1572498279093,
-                    "icon": {
-                        "@_BUILTIN": "info"
-                    },
+                    "@_ID": "ID_851807732",
+                    "@_CREATED": 1577230223389,
+                    "@_MODIFIED": 1577230226360,
                     "edge": {
-                        "@_COLOR": "#7c7c00"
+                        "@_COLOR": "#7c0000"
                     },
                     "node": {
-                        "@_ID": "ID_273339059",
-                        "@_CREATED": 1573030842692,
-                        "@_MODIFIED": 1573030842692,
-                        "@_LINK": "https://nodejs.org/en/",
+                        "@_ID": "ID_1247430274",
+                        "@_CREATED": 1577230228230,
+                        "@_MODIFIED": 1577230228230,
+                        "@_LINK": "https://nodejs.org/api/crypto.html",
                         "richcontent": {
                             "@_TYPE": "NODE",
                             "html": {
                                 "head": "",
                                 "body": {
                                     "a": {
-                                        "#text": "https://nodejs.org/en/",
+                                        "#text": "https://nodejs.org/api/crypto.html",
                                         "@_http-equiv": "content-type",
                                         "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://nodejs.org/en/"
+                                        "@_href": "https://nodejs.org/api/crypto.html"
                                     }
                                 }
                             }
@@ -230,193 +229,76 @@
                     }
                 },
                 {
-                    "@_TEXT": "lists",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_829378880",
-                    "@_CREATED": 1571361129403,
-                    "@_MODIFIED": 1572498219817,
-                    "icon": {
-                        "@_BUILTIN": "list"
-                    },
-                    "edge": {
-                        "@_COLOR": "#007c7c"
-                    }
-                },
-                {
-                    "@_TEXT": "npm",
+                    "@_TEXT": "Class",
                     "@_POSITION": "right",
-                    "@_ID": "ID_943883803",
-                    "@_CREATED": 1573030865320,
-                    "@_MODIFIED": 1573030866720,
+                    "@_ID": "ID_1365723081",
+                    "@_CREATED": 1577230263124,
+                    "@_MODIFIED": 1577230264864,
                     "edge": {
-                        "@_COLOR": "#0000ff"
-                    },
-                    "node": {
-                        "@_ID": "ID_954942221",
-                        "@_CREATED": 1573030867890,
-                        "@_MODIFIED": 1573030867890,
-                        "@_LINK": "https://docs.npmjs.com/files/package.json",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://docs.npmjs.com/files/package.json",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://docs.npmjs.com/files/package.json"
-                                    }
-                                }
-                            }
-                        }
-                    }
-                },
-                {
-                    "@_TEXT": "cli",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_254723387",
-                    "@_CREATED": 1574676184865,
-                    "@_MODIFIED": 1574676186814,
-                    "edge": {
-                        "@_COLOR": "#00ff00"
+                        "@_COLOR": "#00007c"
                     },
                     "node": [
                         {
-                            "@_TEXT": "yargs",
-                            "@_ID": "ID_947854242",
-                            "@_CREATED": 1574676188755,
-                            "@_MODIFIED": 1574676228056,
-                            "@_LINK": "https://www.npmjs.com/package/yargs"
+                            "@_TEXT": "Certificate",
+                            "@_ID": "ID_1192333022",
+                            "@_CREATED": 1577230269389,
+                            "@_MODIFIED": 1577230272150
                         },
                         {
-                            "@_TEXT": "minimist",
-                            "@_ID": "ID_1959242244",
-                            "@_CREATED": 1574676191279,
-                            "@_MODIFIED": 1574676211729,
-                            "@_LINK": "https://www.npmjs.com/package/minimist",
-                            "node": [
-                                {
-                                    "@_TEXT": "var argv = require(&apos;minimist&apos;)(process.argv.slice(2));&#xa;console.dir(argv);",
-                                    "@_ID": "ID_1190547862",
-                                    "@_CREATED": 1574676254118,
-                                    "@_MODIFIED": 1574676255769
-                                },
-                                {
-                                    "@_TEXT": "node example/parse.js -a beep -b boop&#xa;{ _: [], a: &apos;beep&apos;, b: &apos;boop&apos; }",
-                                    "@_ID": "ID_1696017079",
-                                    "@_CREATED": 1574676282246,
-                                    "@_MODIFIED": 1574676283779
-                                },
-                                {
-                                    "@_TEXT": "node example/parse.js -x 3 -y 4 -n5 -abc --beep=boop foo bar baz&#xa;{ _: [ &apos;foo&apos;, &apos;bar&apos;, &apos;baz&apos; ],&#xa;  x: 3,&#xa;  y: 4,&#xa;  n: 5,&#xa;  a: true,&#xa;  b: true,&#xa;  c: true,&#xa;  beep: &apos;boop&apos; }",
-                                    "@_ID": "ID_143113865",
-                                    "@_CREATED": 1574676290102,
-                                    "@_MODIFIED": 1574676291542
-                                },
-                                {
-                                    "@_TEXT": "devhints cheat sheet",
-                                    "@_ID": "ID_1637037044",
-                                    "@_CREATED": 1574948950083,
-                                    "@_MODIFIED": 1574949039784,
-                                    "@_LINK": "https://devhints.io/minimist%20%20%3Chttps://devhints.io/minimist%3E"
-                                }
-                            ]
+                            "@_TEXT": "Cipher",
+                            "@_ID": "ID_681592839",
+                            "@_CREATED": 1577230277143,
+                            "@_MODIFIED": 1577230278888
                         },
                         {
-                            "@_TEXT": "meow",
-                            "@_ID": "ID_1391692224",
-                            "@_CREATED": 1574949233954,
-                            "@_MODIFIED": 1574949243800,
-                            "@_LINK": "https://www.npmjs.com/package/meow"
+                            "@_TEXT": "Decipher",
+                            "@_ID": "ID_882824195",
+                            "@_CREATED": 1577230279655,
+                            "@_MODIFIED": 1577230282186
                         },
                         {
-                            "@_TEXT": "chalk",
-                            "@_ID": "ID_1699654178",
-                            "@_CREATED": 1574900336750,
-                            "@_MODIFIED": 1574900352318,
-                            "@_LINK": "https://www.npmjs.com/package/chalk"
+                            "@_TEXT": "DiffieHelmanGroup",
+                            "@_ID": "ID_722886666",
+                            "@_CREATED": 1577230287109,
+                            "@_MODIFIED": 1577230290927
                         },
                         {
-                            "@_TEXT": "commander",
-                            "@_ID": "ID_1594985415",
-                            "@_CREATED": 1574949290108,
-                            "@_MODIFIED": 1574949306323,
-                            "@_LINK": "https://github.com/tj/commander.js"
+                            "@_TEXT": "ECDH",
+                            "@_ID": "ID_755480062",
+                            "@_CREATED": 1577230293990,
+                            "@_MODIFIED": 1577230297234
                         },
                         {
-                            "@_TEXT": "nomnom",
-                            "@_ID": "ID_76514077",
-                            "@_CREATED": 1574949292521,
-                            "@_MODIFIED": 1574949316459,
-                            "@_LINK": "https://github.com/harthur/nomnom"
+                            "@_TEXT": "Hash",
+                            "@_ID": "ID_1906813945",
+                            "@_CREATED": 1577230302894,
+                            "@_MODIFIED": 1577230304169
                         },
                         {
-                            "@_TEXT": "optimist",
-                            "@_ID": "ID_1291499310",
-                            "@_CREATED": 1574949295191,
-                            "@_MODIFIED": 1574949326103,
-                            "@_LINK": "https://github.com/substack/node-optimist"
+                            "@_TEXT": "Hmac",
+                            "@_ID": "ID_1243788388",
+                            "@_CREATED": 1577230305984,
+                            "@_MODIFIED": 1577230307711
                         },
                         {
-                            "@_TEXT": "trends",
-                            "@_ID": "ID_452522485",
-                            "@_CREATED": 1574949352822,
-                            "@_MODIFIED": 1574949361489,
-                            "@_LINK": "https://www.npmtrends.com/commander-vs-meow-vs-minimist-vs-nomnom-vs-optimist-vs-yargs"
+                            "@_TEXT": "KeyObject",
+                            "@_ID": "ID_1157090389",
+                            "@_CREATED": 1577230308487,
+                            "@_MODIFIED": 1577230310600
                         },
                         {
-                            "@_TEXT": "ink",
-                            "@_ID": "ID_1392937972",
-                            "@_CREATED": 1574949848131,
-                            "@_MODIFIED": 1574949855121,
-                            "@_LINK": "https://www.npmjs.com/package/ink"
+                            "@_TEXT": "Sign",
+                            "@_ID": "ID_697899110",
+                            "@_CREATED": 1577230316912,
+                            "@_MODIFIED": 1577230319269
                         },
                         {
-                            "@_TEXT": "compare",
-                            "@_ID": "ID_237207484",
-                            "@_CREATED": 1574949452441,
-                            "@_MODIFIED": 1574949456914,
-                            "@_LINK": "https://npmcompare.com/compare/commander,meow,minimist,nomnom,optimist",
-                            "node": {
-                                "@_TEXT": "blog",
-                                "@_ID": "ID_53085124",
-                                "@_CREATED": 1574949555770,
-                                "@_MODIFIED": 1574949560408,
-                                "@_LINK": "https://pantas.net/node_argument_parsers/"
-                            }
+                            "@_TEXT": "Verify",
+                            "@_ID": "ID_255442215",
+                            "@_CREATED": 1577230320058,
+                            "@_MODIFIED": 1577230323890
                         }
                     ]
-                },
-                {
-                    "@_TEXT": "process",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_796850607",
-                    "@_CREATED": 1574676985952,
-                    "@_MODIFIED": 1574676990158,
-                    "@_LINK": "https://nodejs.org/docs/latest/api/process.html",
-                    "edge": {
-                        "@_COLOR": "#ff00ff"
-                    },
-                    "node": {
-                        "@_TEXT": "argv",
-                        "@_ID": "ID_476473429",
-                        "@_CREATED": 1574676993097,
-                        "@_MODIFIED": 1574676995257
-                    }
-                },
-                {
-                    "@_TEXT": "crypto",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_139862141",
-                    "@_CREATED": 1577230150936,
-                    "@_MODIFIED": 1577230150940,
-                    "@_LINK": "crypto.mm",
-                    "edge": {
-                        "@_STYLE": "bezier",
-                        "@_COLOR": "#00ffff",
-                        "@_WIDTH": "thin"
-                    }
                 }
             ]
         }
