@@ -278,13 +278,22 @@
                     "edge": {
                         "@_COLOR": "#007c7c"
                     },
-                    "node": {
-                        "@_TEXT": "Awesome JavaScript",
-                        "@_ID": "ID_157748484",
-                        "@_CREATED": 1571361132464,
-                        "@_MODIFIED": 1572498017973,
-                        "@_LINK": "https://github.com/sorrycc/awesome-javascript"
-                    }
+                    "node": [
+                        {
+                            "@_TEXT": "Awesome JavaScript",
+                            "@_ID": "ID_157748484",
+                            "@_CREATED": 1571361132464,
+                            "@_MODIFIED": 1572498017973,
+                            "@_LINK": "https://github.com/sorrycc/awesome-javascript"
+                        },
+                        {
+                            "@_TEXT": "stateofjs 2019",
+                            "@_ID": "ID_1532315868",
+                            "@_CREATED": 1577431173433,
+                            "@_MODIFIED": 1577431304142,
+                            "@_LINK": "https://2019.stateofjs.com/"
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "Communities",

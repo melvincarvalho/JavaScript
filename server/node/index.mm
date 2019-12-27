@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
@@ -126,6 +126,9 @@
 </node>
 <node TEXT="crypto" POSITION="right" ID="ID_139862141" CREATED="1577230150936" MODIFIED="1577230150940" LINK="crypto.mm">
 <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
+</node>
+<node TEXT="buffer" POSITION="right" ID="ID_1028977624" CREATED="1577254246918" MODIFIED="1577254251870" LINK="buffer.mm">
+<edge COLOR="#00007c"/>
 </node>
 </node>
 </map>

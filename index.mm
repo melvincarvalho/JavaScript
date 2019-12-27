@@ -92,6 +92,7 @@
 <icon BUILTIN="list"/>
 <edge COLOR="#007c7c"/>
 <node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
+<node TEXT="stateofjs 2019" ID="ID_1532315868" CREATED="1577431173433" MODIFIED="1577431304142" LINK="https://2019.stateofjs.com/"/>
 </node>
 <node TEXT="Communities" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1574676159071">
 <icon BUILTIN="licq"/>

@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -416,6 +416,17 @@
                         "@_STYLE": "bezier",
                         "@_COLOR": "#00ffff",
                         "@_WIDTH": "thin"
+                    }
+                },
+                {
+                    "@_TEXT": "buffer",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1028977624",
+                    "@_CREATED": 1577254246918,
+                    "@_MODIFIED": 1577254251870,
+                    "@_LINK": "buffer.mm",
+                    "edge": {
+                        "@_COLOR": "#00007c"
                     }
                 }
             ]
