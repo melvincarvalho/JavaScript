@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -93,6 +93,22 @@
 <edge COLOR="#007c7c"/>
 <node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
 <node TEXT="stateofjs 2019" ID="ID_1532315868" CREATED="1577431173433" MODIFIED="1577431304142" LINK="https://2019.stateofjs.com/"/>
+</node>
+<node TEXT="books" POSITION="left" ID="ID_214253158" CREATED="1577512266884" MODIFIED="1577512271050">
+<edge COLOR="#7c007c"/>
+<node ID="ID_343623880" CREATED="1577512297801" MODIFIED="1577512297801" LINK="https://exploringjs.com/deep-js/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://exploringjs.com/deep-js/">https://exploringjs.com/deep-js/</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Communities" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1574676159071">
 <icon BUILTIN="licq"/>

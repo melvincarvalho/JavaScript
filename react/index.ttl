@@ -35,4 +35,5 @@
 <#ID_1862350426> <urn:string:@_TEXT> """Utility Libraries""" .
 <#ID_1596624615> <urn:string:@_TEXT> """Testing""" .
 <#ID_454994441> <urn:string:@_TEXT> """i18n""" .
+<#ID_1505495598> <urn:string:@_TEXT> """components""" .
 <#ID_1974336673> <urn:string:@_TEXT> """hooks""" .

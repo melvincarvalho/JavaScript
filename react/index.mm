@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="links" POSITION="left" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
 <icon BUILTIN="attach"/>
 <edge COLOR="#ff00ff"/>
@@ -116,6 +116,24 @@
 </node>
 <node TEXT="i18n" POSITION="right" ID="ID_454994441" CREATED="1571811854648" MODIFIED="1571817987487">
 <edge COLOR="#00ffff"/>
+</node>
+<node TEXT="components" POSITION="right" ID="ID_1505495598" CREATED="1577512552782" MODIFIED="1577512559248">
+<edge COLOR="#00007c"/>
+<node TEXT="tabs" ID="ID_1663917073" CREATED="1577512560452" MODIFIED="1577512562501">
+<node ID="ID_453444192" CREATED="1577512564345" MODIFIED="1577512564345" LINK="https://github.com/reactjs/react-tabs"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/reactjs/react-tabs">https://github.com/reactjs/react-tabs</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="hooks" POSITION="right" ID="ID_1974336673" CREATED="1573031317266" MODIFIED="1573031357682" LINK="hooks.mm">
 <edge COLOR="#7c0000"/>

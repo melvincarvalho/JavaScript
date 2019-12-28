@@ -187,7 +187,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -413,6 +413,42 @@
                     "@_MODIFIED": 1571817987487,
                     "edge": {
                         "@_COLOR": "#00ffff"
+                    }
+                },
+                {
+                    "@_TEXT": "components",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1505495598",
+                    "@_CREATED": 1577512552782,
+                    "@_MODIFIED": 1577512559248,
+                    "edge": {
+                        "@_COLOR": "#00007c"
+                    },
+                    "node": {
+                        "@_TEXT": "tabs",
+                        "@_ID": "ID_1663917073",
+                        "@_CREATED": 1577512560452,
+                        "@_MODIFIED": 1577512562501,
+                        "node": {
+                            "@_ID": "ID_453444192",
+                            "@_CREATED": 1577512564345,
+                            "@_MODIFIED": 1577512564345,
+                            "@_LINK": "https://github.com/reactjs/react-tabs",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://github.com/reactjs/react-tabs",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://github.com/reactjs/react-tabs"
+                                        }
+                                    }
+                                }
+                            }
+                        }
                     }
                 },
                 {

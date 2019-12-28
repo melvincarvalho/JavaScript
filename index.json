@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 19,
+                    "@_COUNTER": 20,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -294,6 +294,36 @@
                             "@_LINK": "https://2019.stateofjs.com/"
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "books",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_214253158",
+                    "@_CREATED": 1577512266884,
+                    "@_MODIFIED": 1577512271050,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    },
+                    "node": {
+                        "@_ID": "ID_343623880",
+                        "@_CREATED": 1577512297801,
+                        "@_MODIFIED": 1577512297801,
+                        "@_LINK": "https://exploringjs.com/deep-js/",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://exploringjs.com/deep-js/",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://exploringjs.com/deep-js/"
+                                    }
+                                }
+                            }
+                        }
+                    }
                 },
                 {
                     "@_TEXT": "Communities",
