@@ -106,7 +106,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://exploringjs.com/deep-js/">https://exploringjs.com/deep-js/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

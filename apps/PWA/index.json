@@ -2,18 +2,17 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "apps",
+            "@_TEXT": "PWA",
             "@_FOLDED": false,
-            "@_ID": "ID_131836552",
-            "@_CREATED": 1574897110329,
-            "@_MODIFIED": 1575144927748,
+            "@_ID": "ID_732344505",
+            "@_CREATED": 1577950370323,
+            "@_MODIFIED": 1577950412696,
             "@_LINK": "../index.mm",
             "@_STYLE": "oval",
-            "font": {
-                "@_SIZE": 18
-            },
             "edge": {
                 "@_STYLE": "bezier",
+                "@_COLOR": "#00007c",
+                "@_WIDTH": "thin",
                 "@_DASH": "SOLID"
             },
             "hook": [
@@ -195,96 +194,39 @@
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "node": [
-                {
-                    "@_TEXT": "information maps",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1505022052",
-                    "@_CREATED": 1574897135608,
-                    "@_MODIFIED": 1575144909175,
-                    "edge": {
-                        "@_COLOR": "#7c0000"
-                    },
-                    "font": {
-                        "@_BOLD": true
-                    },
-                    "node": [
-                        {
-                            "@_ID": "ID_1008171028",
-                            "@_CREATED": 1574884067176,
-                            "@_MODIFIED": 1574884067176,
-                            "@_LINK": "https://github.com/alyssaxuu/flowy",
-                            "richcontent": {
-                                "@_TYPE": "NODE",
-                                "html": {
-                                    "head": "",
-                                    "body": {
-                                        "a": {
-                                            "#text": "https://github.com/alyssaxuu/flowy",
-                                            "@_http-equiv": "content-type",
-                                            "@_content": "text/html; charset=utf-8",
-                                            "@_href": "https://github.com/alyssaxuu/flowy"
-                                        }
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "@_ID": "ID_1060403936",
-                            "@_CREATED": 1575144536809,
-                            "@_MODIFIED": 1575144536809,
-                            "@_LINK": "https://github.com/jagenjo/litegraph.js#projects-using-it",
-                            "richcontent": {
-                                "@_TYPE": "NODE",
-                                "html": {
-                                    "head": "",
-                                    "body": {
-                                        "a": {
-                                            "#text": "https://github.com/jagenjo/litegraph.js#projects-using-it",
-                                            "@_http-equiv": "content-type",
-                                            "@_content": "text/html; charset=utf-8",
-                                            "@_href": "https://github.com/jagenjo/litegraph.js#projects-using-it"
-                                        }
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "@_ID": "ID_260563962",
-                            "@_CREATED": 1575144649171,
-                            "@_MODIFIED": 1575144649171,
-                            "@_LINK": "https://github.com/ssshooter/mind-elixir-core",
-                            "richcontent": {
-                                "@_TYPE": "NODE",
-                                "html": {
-                                    "head": "",
-                                    "body": {
-                                        "a": {
-                                            "#text": "https://github.com/ssshooter/mind-elixir-core",
-                                            "@_http-equiv": "content-type",
-                                            "@_content": "text/html; charset=utf-8",
-                                            "@_href": "https://github.com/ssshooter/mind-elixir-core"
-                                        }
-                                    }
+            "font": {
+                "@_SIZE": 18
+            },
+            "node": {
+                "@_TEXT": "links",
+                "@_POSITION": "right",
+                "@_ID": "ID_113274707",
+                "@_CREATED": 1577950431177,
+                "@_MODIFIED": 1577950433160,
+                "edge": {
+                    "@_COLOR": "#007c00"
+                },
+                "node": {
+                    "@_ID": "ID_1152393940",
+                    "@_CREATED": 1577950434230,
+                    "@_MODIFIED": 1577950434230,
+                    "@_LINK": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                    "richcontent": {
+                        "@_TYPE": "NODE",
+                        "html": {
+                            "head": "",
+                            "body": {
+                                "a": {
+                                    "#text": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                                    "@_http-equiv": "content-type",
+                                    "@_content": "text/html; charset=utf-8",
+                                    "@_href": "https://en.wikipedia.org/wiki/Progressive_web_application"
                                 }
                             }
                         }
-                    ]
-                },
-                {
-                    "@_TEXT": "PWA",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_80162103",
-                    "@_CREATED": 1577950396859,
-                    "@_MODIFIED": 1577950396862,
-                    "@_LINK": "PWA/index.mm",
-                    "edge": {
-                        "@_STYLE": "bezier",
-                        "@_COLOR": "#00007c",
-                        "@_WIDTH": "thin"
                     }
                 }
-            ]
+            }
         }
     }
 }

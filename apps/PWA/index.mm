@@ -1,8 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="apps" FOLDED="false" ID="ID_131836552" CREATED="1574897110329" MODIFIED="1575144927748" LINK="../index.mm" STYLE="oval">
-<font SIZE="18"/>
-<edge STYLE="bezier" DASH="SOLID"/>
+<node TEXT="PWA" FOLDED="false" ID="ID_732344505" CREATED="1577950370323" MODIFIED="1577950412696" LINK="../index.mm" STYLE="oval">
+<edge STYLE="bezier" COLOR="#00007c" WIDTH="thin" DASH="SOLID"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
@@ -65,48 +64,22 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="information maps" POSITION="right" ID="ID_1505022052" CREATED="1574897135608" MODIFIED="1575144909175">
-<edge COLOR="#7c0000"/>
-<font BOLD="true"/>
-<node ID="ID_1008171028" CREATED="1574884067176" MODIFIED="1574884067176" LINK="https://github.com/alyssaxuu/flowy"><richcontent TYPE="NODE">
+<font SIZE="18"/>
+<node TEXT="links" POSITION="right" ID="ID_113274707" CREATED="1577950431177" MODIFIED="1577950433160">
+<edge COLOR="#007c00"/>
+<node ID="ID_1152393940" CREATED="1577950434230" MODIFIED="1577950434230" LINK="https://en.wikipedia.org/wiki/Progressive_web_application"><richcontent TYPE="NODE">
 
 <html>
   <head>
     
   </head>
   <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/alyssaxuu/flowy">https://github.com/alyssaxuu/flowy</a> 
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://en.wikipedia.org/wiki/Progressive_web_application">https://en.wikipedia.org/wiki/Progressive_web_application</a> 
   </body>
 </html>
-</richcontent>
-</node>
-<node ID="ID_1060403936" CREATED="1575144536809" MODIFIED="1575144536809" LINK="https://github.com/jagenjo/litegraph.js#projects-using-it"><richcontent TYPE="NODE">
 
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/jagenjo/litegraph.js#projects-using-it">https://github.com/jagenjo/litegraph.js#projects-using-it</a> 
-  </body>
-</html>
 </richcontent>
 </node>
-<node ID="ID_260563962" CREATED="1575144649171" MODIFIED="1575144649171" LINK="https://github.com/ssshooter/mind-elixir-core"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/ssshooter/mind-elixir-core">https://github.com/ssshooter/mind-elixir-core</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="PWA" POSITION="right" ID="ID_80162103" CREATED="1577950396859" MODIFIED="1577950396862" LINK="PWA/index.mm">
-<edge STYLE="bezier" COLOR="#00007c" WIDTH="thin"/>
 </node>
 </node>
 </map>
