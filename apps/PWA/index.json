@@ -9,6 +9,9 @@
             "@_MODIFIED": 1577950412696,
             "@_LINK": "../index.mm",
             "@_STYLE": "oval",
+            "font": {
+                "@_SIZE": 18
+            },
             "edge": {
                 "@_STYLE": "bezier",
                 "@_COLOR": "#00007c",
@@ -190,43 +193,240 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 19,
+                    "@_COUNTER": 20,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "font": {
-                "@_SIZE": 18
-            },
-            "node": {
-                "@_TEXT": "links",
-                "@_POSITION": "right",
-                "@_ID": "ID_113274707",
-                "@_CREATED": 1577950431177,
-                "@_MODIFIED": 1577950433160,
-                "edge": {
-                    "@_COLOR": "#007c00"
-                },
-                "node": {
-                    "@_ID": "ID_1152393940",
-                    "@_CREATED": 1577950434230,
-                    "@_MODIFIED": 1577950434230,
-                    "@_LINK": "https://en.wikipedia.org/wiki/Progressive_web_application",
-                    "richcontent": {
-                        "@_TYPE": "NODE",
-                        "html": {
-                            "head": "",
-                            "body": {
-                                "a": {
-                                    "#text": "https://en.wikipedia.org/wiki/Progressive_web_application",
-                                    "@_http-equiv": "content-type",
-                                    "@_content": "text/html; charset=utf-8",
-                                    "@_href": "https://en.wikipedia.org/wiki/Progressive_web_application"
+            "node": [
+                {
+                    "@_TEXT": "links",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_113274707",
+                    "@_CREATED": 1577950431177,
+                    "@_MODIFIED": 1577950433160,
+                    "edge": {
+                        "@_COLOR": "#007c00"
+                    },
+                    "node": {
+                        "@_ID": "ID_1152393940",
+                        "@_CREATED": 1577950434230,
+                        "@_MODIFIED": 1577950434230,
+                        "@_LINK": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://en.wikipedia.org/wiki/Progressive_web_application"
+                                    }
                                 }
                             }
-                        }
+                        },
+                        "node": [
+                            {
+                                "@_TEXT": "similar to native apps",
+                                "@_ID": "ID_1369658565",
+                                "@_CREATED": 1577951326179,
+                                "@_MODIFIED": 1577951336552
+                            },
+                            {
+                                "@_TEXT": "working offline",
+                                "@_ID": "ID_1329686996",
+                                "@_CREATED": 1577951310036,
+                                "@_MODIFIED": 1577951313299
+                            },
+                            {
+                                "@_TEXT": "push notifications",
+                                "@_ID": "ID_340811988",
+                                "@_CREATED": 1577951314141,
+                                "@_MODIFIED": 1577951317211
+                            },
+                            {
+                                "@_TEXT": "device hardware access",
+                                "@_ID": "ID_174306735",
+                                "@_CREATED": 1577951318606,
+                                "@_MODIFIED": 1577951324502
+                            }
+                        ]
                     }
+                },
+                {
+                    "@_TEXT": "characteristics",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1159517338",
+                    "@_CREATED": 1577951941875,
+                    "@_MODIFIED": 1577951945994,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "progressive",
+                            "@_ID": "ID_99034568",
+                            "@_CREATED": 1577951947216,
+                            "@_MODIFIED": 1577951949699
+                        },
+                        {
+                            "@_TEXT": "responsive",
+                            "@_ID": "ID_59359680",
+                            "@_CREATED": 1577951952565,
+                            "@_MODIFIED": 1577951954247
+                        },
+                        {
+                            "@_TEXT": "faster after initial load",
+                            "@_ID": "ID_1634602906",
+                            "@_CREATED": 1577951958436,
+                            "@_MODIFIED": 1577951962430
+                        },
+                        {
+                            "@_TEXT": "connectivity independent",
+                            "@_ID": "ID_1142338198",
+                            "@_CREATED": 1577951965957,
+                            "@_MODIFIED": 1577951970396,
+                            "node": {
+                                "@_TEXT": "service workers",
+                                "@_ID": "ID_591799852",
+                                "@_CREATED": 1577951971224,
+                                "@_MODIFIED": 1577951973601
+                            }
+                        },
+                        {
+                            "@_TEXT": "app like",
+                            "@_ID": "ID_1231928697",
+                            "@_CREATED": 1577951980757,
+                            "@_MODIFIED": 1577951982465
+                        },
+                        {
+                            "@_TEXT": "fresh",
+                            "@_ID": "ID_1600819586",
+                            "@_CREATED": 1577951986903,
+                            "@_MODIFIED": 1577951988392
+                        },
+                        {
+                            "@_TEXT": "safe",
+                            "@_ID": "ID_1744604502",
+                            "@_CREATED": 1577951989425,
+                            "@_MODIFIED": 1577951990213
+                        },
+                        {
+                            "@_TEXT": "dicoverable",
+                            "@_ID": "ID_1449257409",
+                            "@_CREATED": 1577951994123,
+                            "@_MODIFIED": 1577952000484
+                        },
+                        {
+                            "@_TEXT": "re-engagable",
+                            "@_ID": "ID_1440089559",
+                            "@_CREATED": 1577952005552,
+                            "@_MODIFIED": 1577952011536
+                        },
+                        {
+                            "@_TEXT": "installable",
+                            "@_ID": "ID_1509731886",
+                            "@_CREATED": 1577952014916,
+                            "@_MODIFIED": 1577952016822
+                        },
+                        {
+                            "@_TEXT": "linkable",
+                            "@_ID": "ID_1267454241",
+                            "@_CREATED": 1577952017489,
+                            "@_MODIFIED": 1577952019122
+                        },
+                        {
+                            "@_TEXT": "baseline",
+                            "@_ID": "ID_1832040674",
+                            "@_CREATED": 1577952034132,
+                            "@_MODIFIED": 1577952036637,
+                            "node": [
+                                {
+                                    "@_TEXT": "secure origin",
+                                    "@_ID": "ID_1483217803",
+                                    "@_CREATED": 1577952040793,
+                                    "@_MODIFIED": 1577952043276
+                                },
+                                {
+                                    "@_TEXT": "load while offline",
+                                    "@_ID": "ID_1531144450",
+                                    "@_CREATED": 1577952046345,
+                                    "@_MODIFIED": 1577952049465
+                                },
+                                {
+                                    "@_TEXT": "web app manifest",
+                                    "@_ID": "ID_746386372",
+                                    "@_CREATED": 1577952053806,
+                                    "@_MODIFIED": 1577952058196,
+                                    "node": [
+                                        {
+                                            "@_TEXT": "manifest.json",
+                                            "@_ID": "ID_1258039223",
+                                            "@_CREATED": 1577952264620,
+                                            "@_MODIFIED": 1577952268745
+                                        },
+                                        {
+                                            "@_TEXT": "name",
+                                            "@_ID": "ID_47766000",
+                                            "@_CREATED": 1577952327003,
+                                            "@_MODIFIED": 1577952328650
+                                        },
+                                        {
+                                            "@_TEXT": "icon",
+                                            "@_ID": "ID_1993265280",
+                                            "@_CREATED": 1577952329277,
+                                            "@_MODIFIED": 1577952330622
+                                        },
+                                        {
+                                            "@_TEXT": "URL",
+                                            "@_ID": "ID_1344699859",
+                                            "@_CREATED": 1577952338298,
+                                            "@_MODIFIED": 1577952340548
+                                        },
+                                        {
+                                            "@_TEXT": "configuration",
+                                            "@_ID": "ID_1947079124",
+                                            "@_CREATED": 1577952402550,
+                                            "@_MODIFIED": 1577952405863
+                                        },
+                                        {
+                                            "@_TEXT": "default orientation",
+                                            "@_ID": "ID_1661648497",
+                                            "@_CREATED": 1577952409123,
+                                            "@_MODIFIED": 1577952412107
+                                        },
+                                        {
+                                            "@_TEXT": "option to set display mode",
+                                            "@_ID": "ID_1042660404",
+                                            "@_CREATED": 1577952417261,
+                                            "@_MODIFIED": 1577952421992
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_TEXT": "icon",
+                                    "@_ID": "ID_1966305473",
+                                    "@_CREATED": 1577952065390,
+                                    "@_MODIFIED": 1577952066905,
+                                    "node": {
+                                        "@_TEXT": "144x144 png",
+                                        "@_ID": "ID_234504182",
+                                        "@_CREATED": 1577952067952,
+                                        "@_MODIFIED": 1577952071813
+                                    }
+                                },
+                                {
+                                    "@_TEXT": "use of vector graphics",
+                                    "@_ID": "ID_1119864842",
+                                    "@_CREATED": 1577952080971,
+                                    "@_MODIFIED": 1577952085231
+                                }
+                            ]
+                        }
+                    ]
                 }
-            }
+            ]
         }
     }
 }

@@ -187,7 +187,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 18,
+                    "@_COUNTER": 19,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -254,6 +254,36 @@
                             "@_LINK": "https://storybook.js.org/"
                         }
                     ]
+                },
+                {
+                    "@_TEXT": "tools",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_198452527",
+                    "@_CREATED": 1578215073365,
+                    "@_MODIFIED": 1578215075106,
+                    "edge": {
+                        "@_COLOR": "#007c00"
+                    },
+                    "node": {
+                        "@_ID": "ID_1761135339",
+                        "@_CREATED": 1578215078698,
+                        "@_MODIFIED": 1578215078698,
+                        "@_LINK": "https://github.com/aeksco/react-typescript-chrome-extension-starter",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/aeksco/react-typescript-chrome-extension-starter",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/aeksco/react-typescript-chrome-extension-starter"
+                                    }
+                                }
+                            }
+                        }
+                    }
                 },
                 {
                     "@_TEXT": "Build Tools",

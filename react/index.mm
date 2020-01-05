@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="links" POSITION="left" ID="ID_990086409" CREATED="1571160460734" MODIFIED="1571160488688">
 <icon BUILTIN="attach"/>
 <edge COLOR="#ff00ff"/>
@@ -76,6 +76,22 @@
 </node>
 <node TEXT="react view" ID="ID_1353090153" CREATED="1577603835871" MODIFIED="1577611563038" LINK="https://baseweb.design/blog/introducing-react-view/"/>
 <node TEXT="storybook" ID="ID_1418687782" CREATED="1577611575614" MODIFIED="1577611583019" LINK="https://storybook.js.org/"/>
+</node>
+<node TEXT="tools" POSITION="left" ID="ID_198452527" CREATED="1578215073365" MODIFIED="1578215075106">
+<edge COLOR="#007c00"/>
+<node ID="ID_1761135339" CREATED="1578215078698" MODIFIED="1578215078698" LINK="https://github.com/aeksco/react-typescript-chrome-extension-starter"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/aeksco/react-typescript-chrome-extension-starter">https://github.com/aeksco/react-typescript-chrome-extension-starter</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 <node TEXT="Build Tools" POSITION="right" ID="ID_724688107" CREATED="1571811593039" MODIFIED="1571817987453">
 <edge COLOR="#00007c"/>

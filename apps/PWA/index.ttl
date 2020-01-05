@@ -1,0 +1,50 @@
+<#ID_113274707> <urn:string:@_TEXT> """links""" .
+<#ID_1159517338> <urn:string:@_TEXT> """characteristics""" .
+<#ID_99034568> <urn:string:@_TEXT> """progressive""" .
+<#ID_99034568> <urn:string:child> <ID_99034568> .
+<#ID_59359680> <urn:string:@_TEXT> """responsive""" .
+<#ID_59359680> <urn:string:child> <ID_59359680> .
+<#ID_1634602906> <urn:string:@_TEXT> """faster after initial load""" .
+<#ID_1634602906> <urn:string:child> <ID_1634602906> .
+<#ID_1142338198> <urn:string:@_TEXT> """connectivity independent""" .
+<#ID_1142338198> <urn:string:child> <ID_1142338198> .
+<#ID_1231928697> <urn:string:@_TEXT> """app like""" .
+<#ID_1231928697> <urn:string:child> <ID_1231928697> .
+<#ID_1600819586> <urn:string:@_TEXT> """fresh""" .
+<#ID_1600819586> <urn:string:child> <ID_1600819586> .
+<#ID_1744604502> <urn:string:@_TEXT> """safe""" .
+<#ID_1744604502> <urn:string:child> <ID_1744604502> .
+<#ID_1449257409> <urn:string:@_TEXT> """dicoverable""" .
+<#ID_1449257409> <urn:string:child> <ID_1449257409> .
+<#ID_1440089559> <urn:string:@_TEXT> """re-engagable""" .
+<#ID_1440089559> <urn:string:child> <ID_1440089559> .
+<#ID_1509731886> <urn:string:@_TEXT> """installable""" .
+<#ID_1509731886> <urn:string:child> <ID_1509731886> .
+<#ID_1267454241> <urn:string:@_TEXT> """linkable""" .
+<#ID_1267454241> <urn:string:child> <ID_1267454241> .
+<#ID_1832040674> <urn:string:@_TEXT> """baseline""" .
+<#ID_1832040674> <urn:string:child> <ID_1832040674> .
+<#ID_1483217803> <urn:string:@_TEXT> """secure origin""" .
+<#ID_1483217803> <urn:string:child> <ID_1483217803> .
+<#ID_1531144450> <urn:string:@_TEXT> """load while offline""" .
+<#ID_1531144450> <urn:string:child> <ID_1531144450> .
+<#ID_746386372> <urn:string:@_TEXT> """web app manifest""" .
+<#ID_746386372> <urn:string:child> <ID_746386372> .
+<#ID_1258039223> <urn:string:@_TEXT> """manifest.json""" .
+<#ID_1258039223> <urn:string:child> <ID_1258039223> .
+<#ID_47766000> <urn:string:@_TEXT> """name""" .
+<#ID_47766000> <urn:string:child> <ID_47766000> .
+<#ID_1993265280> <urn:string:@_TEXT> """icon""" .
+<#ID_1993265280> <urn:string:child> <ID_1993265280> .
+<#ID_1344699859> <urn:string:@_TEXT> """URL""" .
+<#ID_1344699859> <urn:string:child> <ID_1344699859> .
+<#ID_1947079124> <urn:string:@_TEXT> """configuration""" .
+<#ID_1947079124> <urn:string:child> <ID_1947079124> .
+<#ID_1661648497> <urn:string:@_TEXT> """default orientation""" .
+<#ID_1661648497> <urn:string:child> <ID_1661648497> .
+<#ID_1042660404> <urn:string:@_TEXT> """option to set display mode""" .
+<#ID_1042660404> <urn:string:child> <ID_1042660404> .
+<#ID_1966305473> <urn:string:@_TEXT> """icon""" .
+<#ID_1966305473> <urn:string:child> <ID_1966305473> .
+<#ID_1119864842> <urn:string:@_TEXT> """use of vector graphics""" .
+<#ID_1119864842> <urn:string:child> <ID_1119864842> .
