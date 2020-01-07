@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 20,
+                    "@_COUNTER": 21,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -296,34 +296,83 @@
                     ]
                 },
                 {
-                    "@_TEXT": "books",
+                    "@_TEXT": "learn",
                     "@_POSITION": "left",
                     "@_ID": "ID_214253158",
                     "@_CREATED": 1577512266884,
-                    "@_MODIFIED": 1577512271050,
+                    "@_MODIFIED": 1578223651226,
                     "edge": {
                         "@_COLOR": "#7c007c"
                     },
-                    "node": {
-                        "@_ID": "ID_343623880",
-                        "@_CREATED": 1577512297801,
-                        "@_MODIFIED": 1577512297801,
-                        "@_LINK": "https://exploringjs.com/deep-js/",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://exploringjs.com/deep-js/",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://exploringjs.com/deep-js/"
+                    "node": [
+                        {
+                            "@_ID": "ID_343623880",
+                            "@_CREATED": 1577512297801,
+                            "@_MODIFIED": 1577512297801,
+                            "@_LINK": "https://exploringjs.com/deep-js/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://exploringjs.com/deep-js/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://exploringjs.com/deep-js/"
+                                        }
                                     }
                                 }
                             }
+                        },
+                        {
+                            "@_ID": "ID_1803206718",
+                            "@_CREATED": 1578126281182,
+                            "@_MODIFIED": 1578126281182,
+                            "@_LINK": "https://github.com/jonasschmedtmann/complete-javascript-course",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://github.com/jonasschmedtmann/complete-javascript-course",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://github.com/jonasschmedtmann/complete-javascript-course"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_ID": "ID_1408745494",
+                            "@_CREATED": 1578126289931,
+                            "@_MODIFIED": 1578126289931,
+                            "@_LINK": "https://github.com/trekhleb/javascript-algorithms",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://github.com/trekhleb/javascript-algorithms",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://github.com/trekhleb/javascript-algorithms"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_TEXT": "https://github.com/Asabeneh/30DaysOfJavaScript",
+                            "@_ID": "ID_1597121470",
+                            "@_CREATED": 1578223725814,
+                            "@_MODIFIED": 1578223725814,
+                            "@_LINK": "https://github.com/Asabeneh/30DaysOfJavaScript"
                         }
-                    }
+                    ]
                 },
                 {
                     "@_TEXT": "Communities",
@@ -645,6 +694,36 @@
                         "@_STYLE": "bezier",
                         "@_COLOR": "#00007c",
                         "@_WIDTH": "thin"
+                    }
+                },
+                {
+                    "@_TEXT": "tools",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1461111151",
+                    "@_CREATED": 1578218087552,
+                    "@_MODIFIED": 1578218089200,
+                    "edge": {
+                        "@_COLOR": "#007c7c"
+                    },
+                    "node": {
+                        "@_ID": "ID_1388137807",
+                        "@_CREATED": 1578218092677,
+                        "@_MODIFIED": 1578218092677,
+                        "@_LINK": "https://github.com/typicode/json-server",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/typicode/json-server",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/typicode/json-server"
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             ]

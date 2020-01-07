@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
 <icon BUILTIN="bookmark"/>
 <edge COLOR="#0000ff"/>
@@ -94,7 +94,7 @@
 <node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
 <node TEXT="stateofjs 2019" ID="ID_1532315868" CREATED="1577431173433" MODIFIED="1577431304142" LINK="https://2019.stateofjs.com/"/>
 </node>
-<node TEXT="books" POSITION="left" ID="ID_214253158" CREATED="1577512266884" MODIFIED="1577512271050">
+<node TEXT="learn" POSITION="left" ID="ID_214253158" CREATED="1577512266884" MODIFIED="1578223651226">
 <edge COLOR="#7c007c"/>
 <node ID="ID_343623880" CREATED="1577512297801" MODIFIED="1577512297801" LINK="https://exploringjs.com/deep-js/"><richcontent TYPE="NODE">
 
@@ -108,6 +108,31 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_1803206718" CREATED="1578126281182" MODIFIED="1578126281182" LINK="https://github.com/jonasschmedtmann/complete-javascript-course"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/jonasschmedtmann/complete-javascript-course">https://github.com/jonasschmedtmann/complete-javascript-course</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1408745494" CREATED="1578126289931" MODIFIED="1578126289931" LINK="https://github.com/trekhleb/javascript-algorithms"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/trekhleb/javascript-algorithms">https://github.com/trekhleb/javascript-algorithms</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="https://github.com/Asabeneh/30DaysOfJavaScript" ID="ID_1597121470" CREATED="1578223725814" MODIFIED="1578223725814" LINK="https://github.com/Asabeneh/30DaysOfJavaScript"/>
 </node>
 <node TEXT="Communities" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1574676159071">
 <icon BUILTIN="licq"/>
@@ -194,6 +219,22 @@
 </node>
 <node TEXT="DOM" POSITION="right" ID="ID_1132407233" CREATED="1575148729684" MODIFIED="1575148729703" LINK="DOM.mm">
 <edge STYLE="bezier" COLOR="#00007c" WIDTH="thin"/>
+</node>
+<node TEXT="tools" POSITION="right" ID="ID_1461111151" CREATED="1578218087552" MODIFIED="1578218089200">
+<edge COLOR="#007c7c"/>
+<node ID="ID_1388137807" CREATED="1578218092677" MODIFIED="1578218092677" LINK="https://github.com/typicode/json-server"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/typicode/json-server">https://github.com/typicode/json-server</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </map>

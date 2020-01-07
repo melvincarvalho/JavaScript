@@ -191,7 +191,7 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 18,
+                    "@_COUNTER": 20,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
@@ -427,6 +427,36 @@
                     "@_LINK": "buffer.mm",
                     "edge": {
                         "@_COLOR": "#00007c"
+                    }
+                },
+                {
+                    "@_TEXT": "search",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1173342578",
+                    "@_CREATED": 1578217875624,
+                    "@_MODIFIED": 1578217877161,
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    },
+                    "node": {
+                        "@_ID": "ID_82189168",
+                        "@_CREATED": 1578217878401,
+                        "@_MODIFIED": 1578217878401,
+                        "@_LINK": "https://github.com/nextapps-de/flexsearch",
+                        "richcontent": {
+                            "@_TYPE": "NODE",
+                            "html": {
+                                "head": "",
+                                "body": {
+                                    "a": {
+                                        "#text": "https://github.com/nextapps-de/flexsearch",
+                                        "@_http-equiv": "content-type",
+                                        "@_content": "text/html; charset=utf-8",
+                                        "@_href": "https://github.com/nextapps-de/flexsearch"
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             ]

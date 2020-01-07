@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
 <edge COLOR="#7c7c00"/>
@@ -129,6 +129,22 @@
 </node>
 <node TEXT="buffer" POSITION="right" ID="ID_1028977624" CREATED="1577254246918" MODIFIED="1577254251870" LINK="buffer.mm">
 <edge COLOR="#00007c"/>
+</node>
+<node TEXT="search" POSITION="right" ID="ID_1173342578" CREATED="1578217875624" MODIFIED="1578217877161">
+<edge COLOR="#7c007c"/>
+<node ID="ID_82189168" CREATED="1578217878401" MODIFIED="1578217878401" LINK="https://github.com/nextapps-de/flexsearch"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/nextapps-de/flexsearch">https://github.com/nextapps-de/flexsearch</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
 </node>
 </node>
 </map>
