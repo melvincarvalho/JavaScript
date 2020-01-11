@@ -1,4 +1,20 @@
 <#ID_113274707> <urn:string:@_TEXT> """links""" .
+<#ID_1152393940> <urn:string:@_TEXT> """undefined""" .
+<#ID_1152393940> <urn:string:child> <ID_1152393940> .
+<#ID_1369658565> <urn:string:@_TEXT> """similar to native apps""" .
+<#ID_1369658565> <urn:string:child> <ID_1369658565> .
+<#ID_1329686996> <urn:string:@_TEXT> """working offline""" .
+<#ID_1329686996> <urn:string:child> <ID_1329686996> .
+<#ID_340811988> <urn:string:@_TEXT> """push notifications""" .
+<#ID_340811988> <urn:string:child> <ID_340811988> .
+<#ID_174306735> <urn:string:@_TEXT> """device hardware access""" .
+<#ID_174306735> <urn:string:child> <ID_174306735> .
+<#ID_115273725> <urn:string:@_TEXT> """https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc""" .
+<#ID_115273725> <urn:string:child> <ID_115273725> .
+<#ID_275627778> <urn:string:@_TEXT> """undefined""" .
+<#ID_275627778> <urn:string:child> <ID_275627778> .
+<#ID_1803210614> <urn:string:@_TEXT> """undefined""" .
+<#ID_1803210614> <urn:string:child> <ID_1803210614> .
 <#ID_1159517338> <urn:string:@_TEXT> """characteristics""" .
 <#ID_99034568> <urn:string:@_TEXT> """progressive""" .
 <#ID_99034568> <urn:string:child> <ID_99034568> .

@@ -207,52 +207,101 @@
                     "edge": {
                         "@_COLOR": "#007c00"
                     },
-                    "node": {
-                        "@_ID": "ID_1152393940",
-                        "@_CREATED": 1577950434230,
-                        "@_MODIFIED": 1577950434230,
-                        "@_LINK": "https://en.wikipedia.org/wiki/Progressive_web_application",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://en.wikipedia.org/wiki/Progressive_web_application",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://en.wikipedia.org/wiki/Progressive_web_application"
+                    "node": [
+                        {
+                            "@_ID": "ID_1152393940",
+                            "@_CREATED": 1577950434230,
+                            "@_MODIFIED": 1577950434230,
+                            "@_LINK": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://en.wikipedia.org/wiki/Progressive_web_application",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://en.wikipedia.org/wiki/Progressive_web_application"
+                                        }
+                                    }
+                                }
+                            },
+                            "node": [
+                                {
+                                    "@_TEXT": "similar to native apps",
+                                    "@_ID": "ID_1369658565",
+                                    "@_CREATED": 1577951326179,
+                                    "@_MODIFIED": 1577951336552
+                                },
+                                {
+                                    "@_TEXT": "working offline",
+                                    "@_ID": "ID_1329686996",
+                                    "@_CREATED": 1577951310036,
+                                    "@_MODIFIED": 1577951313299
+                                },
+                                {
+                                    "@_TEXT": "push notifications",
+                                    "@_ID": "ID_340811988",
+                                    "@_CREATED": 1577951314141,
+                                    "@_MODIFIED": 1577951317211
+                                },
+                                {
+                                    "@_TEXT": "device hardware access",
+                                    "@_ID": "ID_174306735",
+                                    "@_CREATED": 1577951318606,
+                                    "@_MODIFIED": 1577951324502
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc",
+                            "@_ID": "ID_115273725",
+                            "@_CREATED": 1578574066710,
+                            "@_MODIFIED": 1578574066710,
+                            "@_LINK": "https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc"
+                        },
+                        {
+                            "@_ID": "ID_275627778",
+                            "@_CREATED": 1578583437349,
+                            "@_MODIFIED": 1578583437349,
+                            "@_LINK": "https://glitch.com/edit/#!/pwa?path=sw.js:9:0",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://glitch.com/edit/#!/pwa?path=sw.js:9:0",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://glitch.com/edit/#!/pwa?path=sw.js:9:0"
+                                        }
                                     }
                                 }
                             }
                         },
-                        "node": [
-                            {
-                                "@_TEXT": "similar to native apps",
-                                "@_ID": "ID_1369658565",
-                                "@_CREATED": 1577951326179,
-                                "@_MODIFIED": 1577951336552
-                            },
-                            {
-                                "@_TEXT": "working offline",
-                                "@_ID": "ID_1329686996",
-                                "@_CREATED": 1577951310036,
-                                "@_MODIFIED": 1577951313299
-                            },
-                            {
-                                "@_TEXT": "push notifications",
-                                "@_ID": "ID_340811988",
-                                "@_CREATED": 1577951314141,
-                                "@_MODIFIED": 1577951317211
-                            },
-                            {
-                                "@_TEXT": "device hardware access",
-                                "@_ID": "ID_174306735",
-                                "@_CREATED": 1577951318606,
-                                "@_MODIFIED": 1577951324502
+                        {
+                            "@_ID": "ID_1803210614",
+                            "@_CREATED": 1578556068445,
+                            "@_MODIFIED": 1578556068445,
+                            "@_LINK": "https://github.com/GoogleChrome/workbox",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://github.com/GoogleChrome/workbox",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://github.com/GoogleChrome/workbox"
+                                        }
+                                    }
+                                }
                             }
-                        ]
-                    }
+                        }
+                    ]
                 },
                 {
                     "@_TEXT": "characteristics",

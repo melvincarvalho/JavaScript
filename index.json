@@ -672,10 +672,11 @@
                 },
                 {
                     "@_TEXT": "apps",
+                    "@_LOCALIZED_STYLE_REF": "AutomaticLayout.level,1",
                     "@_POSITION": "right",
                     "@_ID": "ID_452171129",
                     "@_CREATED": 1574897128910,
-                    "@_MODIFIED": 1574897128922,
+                    "@_MODIFIED": 1578583413124,
                     "@_LINK": "apps/index.mm",
                     "edge": {
                         "@_STYLE": "bezier",

@@ -214,7 +214,7 @@
 <icon BUILTIN="very_positive"/>
 <edge COLOR="#00ff00"/>
 </node>
-<node TEXT="apps" POSITION="right" ID="ID_452171129" CREATED="1574897128910" MODIFIED="1574897128922" LINK="apps/index.mm">
+<node TEXT="apps" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_452171129" CREATED="1574897128910" MODIFIED="1578583413124" LINK="apps/index.mm">
 <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
 </node>
 <node TEXT="DOM" POSITION="right" ID="ID_1132407233" CREATED="1575148729684" MODIFIED="1575148729703" LINK="DOM.mm">
@@ -232,7 +232,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/typicode/json-server">https://github.com/typicode/json-server</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

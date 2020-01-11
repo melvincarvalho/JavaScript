@@ -83,6 +83,31 @@
 <node TEXT="push notifications" ID="ID_340811988" CREATED="1577951314141" MODIFIED="1577951317211"/>
 <node TEXT="device hardware access" ID="ID_174306735" CREATED="1577951318606" MODIFIED="1577951324502"/>
 </node>
+<node TEXT="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc" ID="ID_115273725" CREATED="1578574066710" MODIFIED="1578574066710" LINK="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc"/>
+<node ID="ID_275627778" CREATED="1578583437349" MODIFIED="1578583437349" LINK="https://glitch.com/edit/#!/pwa?path=sw.js:9:0"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://glitch.com/edit/#!/pwa?path=sw.js:9:0">https://glitch.com/edit/#!/pwa?path=sw.js:9:0</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1803210614" CREATED="1578556068445" MODIFIED="1578556068445" LINK="https://github.com/GoogleChrome/workbox"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/GoogleChrome/workbox">https://github.com/GoogleChrome/workbox</a> 
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="characteristics" POSITION="right" ID="ID_1159517338" CREATED="1577951941875" MODIFIED="1577951945994">
 <edge COLOR="#7c007c"/>
