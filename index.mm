@@ -64,10 +64,20 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="webmaps" POSITION="left" ID="ID_634574866" CREATED="1570294548787" MODIFIED="1572498300535" LINK="https://github.com/solidpayorg/webmaps/">
-<icon BUILTIN="bookmark"/>
-<edge COLOR="#0000ff"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="22" RULE="ON_BRANCH_CREATION"/>
+<node POSITION="left" ID="ID_1974475433" CREATED="1578928125418" MODIFIED="1578929000724" LINK="https://webmaps.io/" COLOR="#000099"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    Made with <img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" style="border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none"/>&#160;using webmaps.io
+  </body>
+</html>
+</richcontent>
+<font SIZE="10" BOLD="true"/>
+<edge COLOR="#7c7c00"/>
 </node>
 <node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
 <icon BUILTIN="info"/>
@@ -164,30 +174,9 @@
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
 </node>
-<node TEXT="state" ID="ID_156551041" CREATED="1575899599811" MODIFIED="1575899609927">
-<node TEXT="Redux" ID="ID_1287476678" CREATED="1575899050104" MODIFIED="1575899059341" LINK="https://redux.js.org/">
-<node TEXT="A predictable state container for JavaScript apps." ID="ID_952075275" CREATED="1575899068275" MODIFIED="1575899068275"/>
-<node TEXT="Getting Started" ID="ID_597064892" CREATED="1575899120537" MODIFIED="1575899126976" LINK="https://redux.js.org/introduction/getting-started">
-<node TEXT="npm install --save redux" ID="ID_332762210" CREATED="1575899167567" MODIFIED="1575899167567"/>
-</node>
-<node TEXT="Terms" ID="ID_737373630" CREATED="1575899224275" MODIFIED="1575899284362">
-<font BOLD="true"/>
-<node TEXT="Store" ID="ID_135925682" CREATED="1575899239069" MODIFIED="1575899246977">
-<font BOLD="true"/>
-<node TEXT="The whole state of your app is stored in an object tree inside a single store." ID="ID_877971409" CREATED="1575899232098" MODIFIED="1575899232098"/>
-</node>
-<node TEXT="Action" ID="ID_334240610" CREATED="1575899256772" MODIFIED="1575899262558">
-<font BOLD="true"/>
-<node TEXT="The only way to change the state tree is to emit an action, an object describing what happened." ID="ID_1174193716" CREATED="1575899232098" MODIFIED="1575899232098"/>
-</node>
-<node TEXT="Reducer" ID="ID_226284364" CREATED="1575899269516" MODIFIED="1575899276114">
-<font BOLD="true"/>
-<node TEXT="To specify how the actions transform the state tree, you write pure reducers." ID="ID_697698801" CREATED="1575899232106" MODIFIED="1575899232106"/>
-</node>
-</node>
-<node TEXT="examples" ID="ID_1437141218" CREATED="1575899420351" MODIFIED="1575899428269" LINK="https://redux.js.org/introduction/examples">
-<node TEXT="codesandbox" ID="ID_1397733159" CREATED="1575633622987" MODIFIED="1575902513506" LINK="https://codesandbox.io/s/reduxjs-joqhu"/>
-</node>
+<node TEXT="state" ID="ID_156551041" CREATED="1575899599811" MODIFIED="1578925449264" LINK="state/index.mm">
+<node TEXT="Redux" ID="ID_1871522161" CREATED="1578925435990" MODIFIED="1578925435995" LINK="state/index.mm">
+<edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
 </node>
 </node>
 </node>
@@ -201,6 +190,9 @@
 <node TEXT="Glitch" ID="ID_1286093091" CREATED="1571360703809" MODIFIED="1572498185769" LINK="https://glitch.com/"/>
 <node TEXT="Codepen" ID="ID_942460316" CREATED="1571361098536" MODIFIED="1572498194984" LINK="https://codepen.io/"/>
 <node TEXT="JS Fiddle" ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1572498190247" LINK="https://jsfiddle.net/"/>
+<node TEXT="cli" ID="ID_430954936" CREATED="1578925395177" MODIFIED="1578925396249">
+<node TEXT="hopa" ID="ID_1925156083" CREATED="1578925379580" MODIFIED="1578925392991" LINK="https://github.com/krasimir/hopa"/>
+</node>
 </node>
 <node TEXT="server" POSITION="right" ID="ID_1516168898" CREATED="1573030715288" MODIFIED="1573030784377" LINK="server/index.mm">
 <icon BUILTIN="16x16-free-application-icons/png/16x16/Database"/>

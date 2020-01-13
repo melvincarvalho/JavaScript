@@ -191,23 +191,41 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 21,
+                    "@_COUNTER": 22,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
             "node": [
                 {
-                    "@_TEXT": "webmaps",
                     "@_POSITION": "left",
-                    "@_ID": "ID_634574866",
-                    "@_CREATED": 1570294548787,
-                    "@_MODIFIED": 1572498300535,
-                    "@_LINK": "https://github.com/solidpayorg/webmaps/",
-                    "icon": {
-                        "@_BUILTIN": "bookmark"
+                    "@_ID": "ID_1974475433",
+                    "@_CREATED": 1578928125418,
+                    "@_MODIFIED": 1578929000724,
+                    "@_LINK": "https://webmaps.io/",
+                    "@_COLOR": "#000099",
+                    "richcontent": {
+                        "@_TYPE": "NODE",
+                        "html": {
+                            "head": "",
+                            "body": {
+                                "#text": "Made with&#160;using webmaps.io",
+                                "img": {
+                                    "@_class": "emoji",
+                                    "@_alt": "heart",
+                                    "@_height": 20,
+                                    "@_width": 20,
+                                    "@_src": "https://github.githubassets.com/images/icons/emoji/unicode/2764.png",
+                                    "@_style": "border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none"
+                                }
+                            }
+                        }
+                    },
+                    "font": {
+                        "@_SIZE": 10,
+                        "@_BOLD": true
                     },
                     "edge": {
-                        "@_COLOR": "#0000ff"
+                        "@_COLOR": "#7c7c00"
                     }
                 },
                 {
@@ -470,104 +488,19 @@
                             "@_TEXT": "state",
                             "@_ID": "ID_156551041",
                             "@_CREATED": 1575899599811,
-                            "@_MODIFIED": 1575899609927,
+                            "@_MODIFIED": 1578925449264,
+                            "@_LINK": "state/index.mm",
                             "node": {
                                 "@_TEXT": "Redux",
-                                "@_ID": "ID_1287476678",
-                                "@_CREATED": 1575899050104,
-                                "@_MODIFIED": 1575899059341,
-                                "@_LINK": "https://redux.js.org/",
-                                "node": [
-                                    {
-                                        "@_TEXT": "A predictable state container for JavaScript apps.",
-                                        "@_ID": "ID_952075275",
-                                        "@_CREATED": 1575899068275,
-                                        "@_MODIFIED": 1575899068275
-                                    },
-                                    {
-                                        "@_TEXT": "Getting Started",
-                                        "@_ID": "ID_597064892",
-                                        "@_CREATED": 1575899120537,
-                                        "@_MODIFIED": 1575899126976,
-                                        "@_LINK": "https://redux.js.org/introduction/getting-started",
-                                        "node": {
-                                            "@_TEXT": "npm install --save redux",
-                                            "@_ID": "ID_332762210",
-                                            "@_CREATED": 1575899167567,
-                                            "@_MODIFIED": 1575899167567
-                                        }
-                                    },
-                                    {
-                                        "@_TEXT": "Terms",
-                                        "@_ID": "ID_737373630",
-                                        "@_CREATED": 1575899224275,
-                                        "@_MODIFIED": 1575899284362,
-                                        "font": {
-                                            "@_BOLD": true
-                                        },
-                                        "node": [
-                                            {
-                                                "@_TEXT": "Store",
-                                                "@_ID": "ID_135925682",
-                                                "@_CREATED": 1575899239069,
-                                                "@_MODIFIED": 1575899246977,
-                                                "font": {
-                                                    "@_BOLD": true
-                                                },
-                                                "node": {
-                                                    "@_TEXT": "The whole state of your app is stored in an object tree inside a single store.",
-                                                    "@_ID": "ID_877971409",
-                                                    "@_CREATED": 1575899232098,
-                                                    "@_MODIFIED": 1575899232098
-                                                }
-                                            },
-                                            {
-                                                "@_TEXT": "Action",
-                                                "@_ID": "ID_334240610",
-                                                "@_CREATED": 1575899256772,
-                                                "@_MODIFIED": 1575899262558,
-                                                "font": {
-                                                    "@_BOLD": true
-                                                },
-                                                "node": {
-                                                    "@_TEXT": "The only way to change the state tree is to emit an action, an object describing what happened.",
-                                                    "@_ID": "ID_1174193716",
-                                                    "@_CREATED": 1575899232098,
-                                                    "@_MODIFIED": 1575899232098
-                                                }
-                                            },
-                                            {
-                                                "@_TEXT": "Reducer",
-                                                "@_ID": "ID_226284364",
-                                                "@_CREATED": 1575899269516,
-                                                "@_MODIFIED": 1575899276114,
-                                                "font": {
-                                                    "@_BOLD": true
-                                                },
-                                                "node": {
-                                                    "@_TEXT": "To specify how the actions transform the state tree, you write pure reducers.",
-                                                    "@_ID": "ID_697698801",
-                                                    "@_CREATED": 1575899232106,
-                                                    "@_MODIFIED": 1575899232106
-                                                }
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "@_TEXT": "examples",
-                                        "@_ID": "ID_1437141218",
-                                        "@_CREATED": 1575899420351,
-                                        "@_MODIFIED": 1575899428269,
-                                        "@_LINK": "https://redux.js.org/introduction/examples",
-                                        "node": {
-                                            "@_TEXT": "codesandbox",
-                                            "@_ID": "ID_1397733159",
-                                            "@_CREATED": 1575633622987,
-                                            "@_MODIFIED": 1575902513506,
-                                            "@_LINK": "https://codesandbox.io/s/reduxjs-joqhu"
-                                        }
-                                    }
-                                ]
+                                "@_ID": "ID_1871522161",
+                                "@_CREATED": 1578925435990,
+                                "@_MODIFIED": 1578925435995,
+                                "@_LINK": "state/index.mm",
+                                "edge": {
+                                    "@_STYLE": "bezier",
+                                    "@_COLOR": "#7c0000",
+                                    "@_WIDTH": "thin"
+                                }
                             }
                         }
                     ]
@@ -625,6 +558,19 @@
                             "@_CREATED": 1571361085412,
                             "@_MODIFIED": 1572498190247,
                             "@_LINK": "https://jsfiddle.net/"
+                        },
+                        {
+                            "@_TEXT": "cli",
+                            "@_ID": "ID_430954936",
+                            "@_CREATED": 1578925395177,
+                            "@_MODIFIED": 1578925396249,
+                            "node": {
+                                "@_TEXT": "hopa",
+                                "@_ID": "ID_1925156083",
+                                "@_CREATED": 1578925379580,
+                                "@_MODIFIED": 1578925392991,
+                                "@_LINK": "https://github.com/krasimir/hopa"
+                            }
                         }
                     ]
                 },

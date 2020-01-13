@@ -1,0 +1,307 @@
+{
+    "map": {
+        "@_version": "freeplane 1.7.0",
+        "node": {
+            "@_TEXT": "state",
+            "@_FOLDED": false,
+            "@_ID": "ID_1287476678",
+            "@_CREATED": 1575899050104,
+            "@_MODIFIED": 1578925504725,
+            "@_LINK": "../index.mm",
+            "@_STYLE": "oval",
+            "font": {
+                "@_SIZE": 18
+            },
+            "edge": {
+                "@_STYLE": "bezier",
+                "@_COLOR": "#7c0000",
+                "@_WIDTH": "thin",
+                "@_DASH": "SOLID"
+            },
+            "hook": [
+                {
+                    "@_NAME": "MapStyle",
+                    "properties": {
+                        "@_edgeColorConfiguration": "#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff",
+                        "@_fit_to_viewport": false
+                    },
+                    "map_styles": {
+                        "stylenode": {
+                            "@_LOCALIZED_TEXT": "styles.root_node",
+                            "@_STYLE": "oval",
+                            "@_UNIFORM_SHAPE": true,
+                            "@_VGAP_QUANTITY": "24.0 pt",
+                            "font": {
+                                "@_SIZE": 24
+                            },
+                            "stylenode": [
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.predefined",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "default",
+                                            "@_ICON_SIZE": "12.0 pt",
+                                            "@_COLOR": "#000000",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "SansSerif",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": false,
+                                                "@_ITALIC": false
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.details"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.attributes",
+                                            "font": {
+                                                "@_SIZE": 9
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.note",
+                                            "@_COLOR": "#000000",
+                                            "@_BACKGROUND_COLOR": "#ffffff",
+                                            "@_TEXT_ALIGN": "LEFT"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "defaultstyle.floating",
+                                            "edge": {
+                                                "@_STYLE": "hide_edge"
+                                            },
+                                            "cloud": {
+                                                "@_COLOR": "#f0f0f0",
+                                                "@_SHAPE": "ROUND_RECT"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.user-defined",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.topic",
+                                            "@_COLOR": "#18898b",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.subtopic",
+                                            "@_COLOR": "#cc3300",
+                                            "@_STYLE": "fork",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.subsubtopic",
+                                            "@_COLOR": "#669900",
+                                            "font": {
+                                                "@_NAME": "Liberation Sans",
+                                                "@_SIZE": 10,
+                                                "@_BOLD": true
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "styles.important",
+                                            "icon": {
+                                                "@_BUILTIN": "yes"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_LOCALIZED_TEXT": "styles.AutomaticLayout",
+                                    "@_POSITION": "right",
+                                    "@_STYLE": "bubble",
+                                    "stylenode": [
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level.root",
+                                            "@_COLOR": "#000000",
+                                            "@_STYLE": "oval",
+                                            "@_SHAPE_HORIZONTAL_MARGIN": "10.0 pt",
+                                            "@_SHAPE_VERTICAL_MARGIN": "10.0 pt",
+                                            "font": {
+                                                "@_SIZE": 18
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,1",
+                                            "@_COLOR": "#0033ff",
+                                            "font": {
+                                                "@_SIZE": 16
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,2",
+                                            "@_COLOR": "#00b439",
+                                            "font": {
+                                                "@_SIZE": 14
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,3",
+                                            "@_COLOR": "#990000",
+                                            "font": {
+                                                "@_SIZE": 12
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,4",
+                                            "@_COLOR": "#111111",
+                                            "font": {
+                                                "@_SIZE": 10
+                                            }
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,5"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,6"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,7"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,8"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,9"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,10"
+                                        },
+                                        {
+                                            "@_LOCALIZED_TEXT": "AutomaticLayout.level,11"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "@_NAME": "AutomaticEdgeColor",
+                    "@_COUNTER": 21,
+                    "@_RULE": "ON_BRANCH_CREATION"
+                }
+            ],
+            "node": {
+                "@_TEXT": "Redux",
+                "@_POSITION": "right",
+                "@_ID": "ID_512653034",
+                "@_CREATED": 1575899050104,
+                "@_MODIFIED": 1578925435754,
+                "@_LINK": "../index.mm",
+                "edge": {
+                    "@_STYLE": "bezier",
+                    "@_COLOR": "#7c0000",
+                    "@_WIDTH": "thin",
+                    "@_DASH": "SOLID"
+                },
+                "node": [
+                    {
+                        "@_TEXT": "A predictable state container for JavaScript apps.",
+                        "@_ID": "ID_1351253301",
+                        "@_CREATED": 1575899068275,
+                        "@_MODIFIED": 1575899068275
+                    },
+                    {
+                        "@_TEXT": "Getting Started",
+                        "@_ID": "ID_1778052371",
+                        "@_CREATED": 1575899120537,
+                        "@_MODIFIED": 1575899126976,
+                        "@_LINK": "https://redux.js.org/introduction/getting-started",
+                        "node": {
+                            "@_TEXT": "npm install --save redux",
+                            "@_ID": "ID_50343326",
+                            "@_CREATED": 1575899167567,
+                            "@_MODIFIED": 1575899167567
+                        }
+                    },
+                    {
+                        "@_TEXT": "Terms",
+                        "@_ID": "ID_1711994767",
+                        "@_CREATED": 1575899224275,
+                        "@_MODIFIED": 1575899284362,
+                        "font": {
+                            "@_BOLD": true
+                        },
+                        "node": [
+                            {
+                                "@_TEXT": "Store",
+                                "@_ID": "ID_1671723188",
+                                "@_CREATED": 1575899239069,
+                                "@_MODIFIED": 1575899246977,
+                                "font": {
+                                    "@_BOLD": true
+                                },
+                                "node": {
+                                    "@_TEXT": "The whole state of your app is stored in an object tree inside a single store.",
+                                    "@_ID": "ID_1425829042",
+                                    "@_CREATED": 1575899232098,
+                                    "@_MODIFIED": 1575899232098
+                                }
+                            },
+                            {
+                                "@_TEXT": "Action",
+                                "@_ID": "ID_1102222808",
+                                "@_CREATED": 1575899256772,
+                                "@_MODIFIED": 1575899262558,
+                                "font": {
+                                    "@_BOLD": true
+                                },
+                                "node": {
+                                    "@_TEXT": "The only way to change the state tree is to emit an action, an object describing what happened.",
+                                    "@_ID": "ID_988909752",
+                                    "@_CREATED": 1575899232098,
+                                    "@_MODIFIED": 1575899232098
+                                }
+                            },
+                            {
+                                "@_TEXT": "Reducer",
+                                "@_ID": "ID_1202078005",
+                                "@_CREATED": 1575899269516,
+                                "@_MODIFIED": 1575899276114,
+                                "font": {
+                                    "@_BOLD": true
+                                },
+                                "node": {
+                                    "@_TEXT": "To specify how the actions transform the state tree, you write pure reducers.",
+                                    "@_ID": "ID_1702006703",
+                                    "@_CREATED": 1575899232106,
+                                    "@_MODIFIED": 1575899232106
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@_TEXT": "examples",
+                        "@_ID": "ID_1613255975",
+                        "@_CREATED": 1575899420351,
+                        "@_MODIFIED": 1575899428269,
+                        "@_LINK": "https://redux.js.org/introduction/examples",
+                        "node": {
+                            "@_TEXT": "codesandbox",
+                            "@_ID": "ID_1254200183",
+                            "@_CREATED": 1575633622987,
+                            "@_MODIFIED": 1575902513506,
+                            "@_LINK": "https://codesandbox.io/s/reduxjs-joqhu"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

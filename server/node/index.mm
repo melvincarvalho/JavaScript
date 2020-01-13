@@ -80,6 +80,18 @@
 </html>
 </richcontent>
 </node>
+<node ID="ID_387544908" CREATED="1578907223981" MODIFIED="1578907223981" LINK="https://github.com/goldbergyoni/nodebestpractices"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/goldbergyoni/nodebestpractices">https://github.com/goldbergyoni/nodebestpractices</a> 
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="lists" POSITION="left" ID="ID_829378880" CREATED="1571361129403" MODIFIED="1572498219817">
 <icon BUILTIN="list"/>
@@ -142,7 +154,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/nextapps-de/flexsearch">https://github.com/nextapps-de/flexsearch</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>

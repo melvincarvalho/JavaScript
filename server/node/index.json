@@ -208,26 +208,48 @@
                     "edge": {
                         "@_COLOR": "#7c7c00"
                     },
-                    "node": {
-                        "@_ID": "ID_273339059",
-                        "@_CREATED": 1573030842692,
-                        "@_MODIFIED": 1573030842692,
-                        "@_LINK": "https://nodejs.org/en/",
-                        "richcontent": {
-                            "@_TYPE": "NODE",
-                            "html": {
-                                "head": "",
-                                "body": {
-                                    "a": {
-                                        "#text": "https://nodejs.org/en/",
-                                        "@_http-equiv": "content-type",
-                                        "@_content": "text/html; charset=utf-8",
-                                        "@_href": "https://nodejs.org/en/"
+                    "node": [
+                        {
+                            "@_ID": "ID_273339059",
+                            "@_CREATED": 1573030842692,
+                            "@_MODIFIED": 1573030842692,
+                            "@_LINK": "https://nodejs.org/en/",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://nodejs.org/en/",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://nodejs.org/en/"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "@_ID": "ID_387544908",
+                            "@_CREATED": 1578907223981,
+                            "@_MODIFIED": 1578907223981,
+                            "@_LINK": "https://github.com/goldbergyoni/nodebestpractices",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "a": {
+                                            "#text": "https://github.com/goldbergyoni/nodebestpractices",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://github.com/goldbergyoni/nodebestpractices"
+                                        }
                                     }
                                 }
                             }
                         }
-                    }
+                    ]
                 },
                 {
                     "@_TEXT": "lists",
