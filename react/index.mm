@@ -187,7 +187,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://blog.logrocket.com/react-map-library-comparison/">https://blog.logrocket.com/react-map-library-comparison/</a> 
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
