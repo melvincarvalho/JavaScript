@@ -1,4 +1,0 @@
-exec 'nq' 'sleep' '20'
-
-
-[exited with status 0.]
