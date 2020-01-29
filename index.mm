@@ -103,6 +103,7 @@
 <edge COLOR="#007c7c"/>
 <node TEXT="Awesome JavaScript" ID="ID_157748484" CREATED="1571361132464" MODIFIED="1572498017973" LINK="https://github.com/sorrycc/awesome-javascript"/>
 <node TEXT="stateofjs 2019" ID="ID_1532315868" CREATED="1577431173433" MODIFIED="1577431304142" LINK="https://2019.stateofjs.com/"/>
+<node TEXT="reddits" ID="ID_1722376322" CREATED="1580290129002" MODIFIED="1580290135199" LINK="https://anvaka.github.io/sayit/?query=JavaScript"/>
 </node>
 <node TEXT="learn" POSITION="left" ID="ID_214253158" CREATED="1577512266884" MODIFIED="1578223651226">
 <edge COLOR="#7c007c"/>
