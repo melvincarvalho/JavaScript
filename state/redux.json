@@ -2,16 +2,13 @@
     "map": {
         "@_version": "freeplane 1.7.0",
         "node": {
-            "@_TEXT": "state",
+            "@_TEXT": "Redux",
             "@_FOLDED": false,
-            "@_ID": "ID_1287476678",
+            "@_ID": "ID_512653034",
             "@_CREATED": 1575899050104,
-            "@_MODIFIED": 1578925504725,
-            "@_LINK": "../index.mm",
+            "@_MODIFIED": 1580759071881,
+            "@_LINK": "index.mm",
             "@_STYLE": "oval",
-            "font": {
-                "@_SIZE": 18
-            },
             "edge": {
                 "@_STYLE": "bezier",
                 "@_COLOR": "#7c0000",
@@ -197,19 +194,135 @@
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "node": {
-                "@_TEXT": "Redux",
-                "@_POSITION": "right",
-                "@_ID": "ID_497084437",
-                "@_CREATED": 1580759046380,
-                "@_MODIFIED": 1580759046383,
-                "@_LINK": "redux.mm",
-                "edge": {
-                    "@_STYLE": "bezier",
-                    "@_COLOR": "#7c0000",
-                    "@_WIDTH": "thin"
+            "font": {
+                "@_SIZE": 18
+            },
+            "node": [
+                {
+                    "@_TEXT": "A predictable state container for JavaScript apps",
+                    "@_LOCALIZED_STYLE_REF": "AutomaticLayout.level,1",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1351253301",
+                    "@_CREATED": 1575899068275,
+                    "@_MODIFIED": 1580759143020,
+                    "@_STYLE": "bubble",
+                    "font": {
+                        "@_BOLD": true
+                    }
+                },
+                {
+                    "@_TEXT": "Terms",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1711994767",
+                    "@_CREATED": 1575899224275,
+                    "@_MODIFIED": 1580759186520,
+                    "icon": {
+                        "@_BUILTIN": "pencil"
+                    },
+                    "font": {
+                        "@_BOLD": true
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "Store",
+                            "@_ID": "ID_1671723188",
+                            "@_CREATED": 1575899239069,
+                            "@_MODIFIED": 1575899246977,
+                            "font": {
+                                "@_BOLD": true
+                            },
+                            "node": {
+                                "@_TEXT": "The whole state of your app is stored in an object tree inside a single store.",
+                                "@_ID": "ID_1425829042",
+                                "@_CREATED": 1575899232098,
+                                "@_MODIFIED": 1575899232098
+                            }
+                        },
+                        {
+                            "@_TEXT": "Action",
+                            "@_ID": "ID_1102222808",
+                            "@_CREATED": 1575899256772,
+                            "@_MODIFIED": 1575899262558,
+                            "font": {
+                                "@_BOLD": true
+                            },
+                            "node": {
+                                "@_TEXT": "The only way to change the state tree is to emit an action, an object describing what happened.",
+                                "@_ID": "ID_988909752",
+                                "@_CREATED": 1575899232098,
+                                "@_MODIFIED": 1575899232098
+                            }
+                        },
+                        {
+                            "@_TEXT": "Reducer",
+                            "@_ID": "ID_1202078005",
+                            "@_CREATED": 1575899269516,
+                            "@_MODIFIED": 1575899276114,
+                            "font": {
+                                "@_BOLD": true
+                            },
+                            "node": {
+                                "@_TEXT": "To specify how the actions transform the state tree, you write pure reducers.",
+                                "@_ID": "ID_1702006703",
+                                "@_CREATED": 1575899232106,
+                                "@_MODIFIED": 1575899232106
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "links",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_997703536",
+                    "@_CREATED": 1580759073557,
+                    "@_MODIFIED": 1580759075681,
+                    "edge": {
+                        "@_COLOR": "#7c7c00"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "Redux",
+                            "@_ID": "ID_487950240",
+                            "@_CREATED": 1580759091724,
+                            "@_MODIFIED": 1580759164869,
+                            "@_LINK": "https://redux.js.org/",
+                            "font": {
+                                "@_BOLD": true
+                            }
+                        },
+                        {
+                            "@_TEXT": "Getting Started",
+                            "@_ID": "ID_1778052371",
+                            "@_CREATED": 1575899120537,
+                            "@_MODIFIED": 1580759109413,
+                            "@_LINK": "https://redux.js.org/introduction/getting-started",
+                            "font": {
+                                "@_BOLD": true
+                            }
+                        },
+                        {
+                            "@_TEXT": "examples",
+                            "@_ID": "ID_1613255975",
+                            "@_CREATED": 1575899420351,
+                            "@_MODIFIED": 1580759204761,
+                            "@_LINK": "https://redux.js.org/introduction/examples",
+                            "font": {
+                                "@_BOLD": true
+                            }
+                        },
+                        {
+                            "@_TEXT": "codesandbox",
+                            "@_ID": "ID_1254200183",
+                            "@_CREATED": 1575633622987,
+                            "@_MODIFIED": 1580759201703,
+                            "@_LINK": "https://codesandbox.io/s/reduxjs-joqhu",
+                            "font": {
+                                "@_BOLD": true
+                            }
+                        }
+                    ]
                 }
-            }
+            ]
         }
     }
 }

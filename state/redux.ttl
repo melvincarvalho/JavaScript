@@ -1,0 +1,17 @@
+<#ID_1351253301> <urn:string:@_TEXT> """A predictable state container for JavaScript apps""" .
+<#ID_1711994767> <urn:string:@_TEXT> """Terms""" .
+<#ID_1671723188> <urn:string:@_TEXT> """Store""" .
+<#ID_1671723188> <urn:string:child> <ID_1671723188> .
+<#ID_1102222808> <urn:string:@_TEXT> """Action""" .
+<#ID_1102222808> <urn:string:child> <ID_1102222808> .
+<#ID_1202078005> <urn:string:@_TEXT> """Reducer""" .
+<#ID_1202078005> <urn:string:child> <ID_1202078005> .
+<#ID_997703536> <urn:string:@_TEXT> """links""" .
+<#ID_487950240> <urn:string:@_TEXT> """Redux""" .
+<#ID_487950240> <urn:string:child> <ID_487950240> .
+<#ID_1778052371> <urn:string:@_TEXT> """Getting Started""" .
+<#ID_1778052371> <urn:string:child> <ID_1778052371> .
+<#ID_1613255975> <urn:string:@_TEXT> """examples""" .
+<#ID_1613255975> <urn:string:child> <ID_1613255975> .
+<#ID_1254200183> <urn:string:@_TEXT> """codesandbox""" .
+<#ID_1254200183> <urn:string:child> <ID_1254200183> .
