@@ -1,8 +1,8 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="apps" FOLDED="false" ID="ID_131836552" CREATED="1574897110329" MODIFIED="1575144927748" LINK="../index.mm" STYLE="oval">
-<font SIZE="18"/>
-<edge STYLE="bezier" DASH="SOLID"/>
+<node TEXT="information maps" FOLDED="false" ID="ID_1505022052" CREATED="1574897135608" MODIFIED="1581524492110" LINK="index.mm" STYLE="oval">
+<edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin" DASH="SOLID"/>
+<font SIZE="18" BOLD="true"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
@@ -64,13 +64,10 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="information maps" POSITION="right" ID="ID_1646898414" CREATED="1581524472788" MODIFIED="1581524472799" LINK="information-maps.mm">
-<edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
-<font BOLD="true"/>
-</node>
-<node TEXT="PWA" POSITION="right" ID="ID_80162103" CREATED="1577950396859" MODIFIED="1577950396862" LINK="PWA/index.mm">
-<edge STYLE="bezier" COLOR="#00007c" WIDTH="thin"/>
-</node>
+<hook NAME="AutomaticEdgeColor" COUNTER="19" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="flowy" POSITION="right" ID="ID_1008171028" CREATED="1574884067176" MODIFIED="1581524501302" LINK="https://github.com/alyssaxuu/flowy"/>
+<node TEXT="litegraph" POSITION="right" ID="ID_1060403936" CREATED="1575144536809" MODIFIED="1581524507401" LINK="https://github.com/jagenjo/litegraph.js#projects-using-it"/>
+<node TEXT="mind elixir" POSITION="right" ID="ID_260563962" CREATED="1575144649171" MODIFIED="1581524512282" LINK="https://github.com/ssshooter/mind-elixir-core"/>
+<node TEXT="tiddlymap" POSITION="right" ID="ID_1709156390" CREATED="1581524443301" MODIFIED="1581524516556" LINK="http://tiddlymap.org/"/>
 </node>
 </map>
