@@ -396,6 +396,16 @@
                             "@_CREATED": 1578223725814,
                             "@_MODIFIED": 1578223725814,
                             "@_LINK": "https://github.com/Asabeneh/30DaysOfJavaScript"
+                        },
+                        {
+                            "@_TEXT": "articles",
+                            "@_ID": "ID_51150335",
+                            "@_CREATED": 1574355033593,
+                            "@_MODIFIED": 1581546207594,
+                            "@_LINK": "articles/index.mm",
+                            "icon": {
+                                "@_BUILTIN": "very_positive"
+                            }
                         }
                     ]
                 },
@@ -551,20 +561,6 @@
                     },
                     "edge": {
                         "@_COLOR": "#0000ff"
-                    }
-                },
-                {
-                    "@_TEXT": "articles",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_51150335",
-                    "@_CREATED": 1574355033593,
-                    "@_MODIFIED": 1574355114620,
-                    "@_LINK": "articles/index.mm",
-                    "icon": {
-                        "@_BUILTIN": "very_positive"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00ff00"
                     }
                 },
                 {

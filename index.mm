@@ -144,6 +144,9 @@
 </richcontent>
 </node>
 <node TEXT="https://github.com/Asabeneh/30DaysOfJavaScript" ID="ID_1597121470" CREATED="1578223725814" MODIFIED="1578223725814" LINK="https://github.com/Asabeneh/30DaysOfJavaScript"/>
+<node TEXT="articles" ID="ID_51150335" CREATED="1574355033593" MODIFIED="1581546207594" LINK="articles/index.mm">
+<icon BUILTIN="very_positive"/>
+</node>
 </node>
 <node TEXT="Communities" POSITION="right" ID="ID_849215328" CREATED="1570476065863" MODIFIED="1574676159071">
 <icon BUILTIN="licq"/>
@@ -191,10 +194,6 @@
 <node TEXT="errors" POSITION="right" ID="ID_437549538" CREATED="1573042933206" MODIFIED="1573042980995" LINK="https://blog.appsignal.com/2019/10/17/javascript-errors-an-exceptional-history.html">
 <icon BUILTIN="stop-sign"/>
 <edge COLOR="#0000ff"/>
-</node>
-<node TEXT="articles" POSITION="right" ID="ID_51150335" CREATED="1574355033593" MODIFIED="1574355114620" LINK="articles/index.mm">
-<icon BUILTIN="very_positive"/>
-<edge COLOR="#00ff00"/>
 </node>
 <node TEXT="apps" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_452171129" CREATED="1574897128910" MODIFIED="1578583413124" LINK="apps/index.mm">
 <edge STYLE="bezier" COLOR="#00ffff" WIDTH="thin"/>
