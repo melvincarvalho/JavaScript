@@ -1,6 +1,6 @@
 {
     "map": {
-        "@_version": "freeplane 1.7.0",
+        "@_version": "freeplane 1.8.0",
         "node": {
             "@_TEXT": "JavaScript",
             "@_FOLDED": false,
@@ -656,6 +656,13 @@
                                     "@_CREATED": 1571361085412,
                                     "@_MODIFIED": 1572498190247,
                                     "@_LINK": "https://jsfiddle.net/"
+                                },
+                                {
+                                    "@_TEXT": "codejar",
+                                    "@_ID": "ID_1876566559",
+                                    "@_CREATED": 1585765112965,
+                                    "@_MODIFIED": 1585765124345,
+                                    "@_LINK": "https://medv.io/codejar/"
                                 },
                                 {
                                     "@_TEXT": "cli",
