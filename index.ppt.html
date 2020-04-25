@@ -9,10 +9,10 @@
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <link rel="stylesheet" href="https://solidpayorg.github.io/reveal.js/css/reveal.css">
-        <link rel="stylesheet" id="theme" href="https://solidpayorg.github.io/reveal.js/css/theme/solid.css">
+        <link rel="stylesheet" href="reveal.js/css/reveal.css">
+        <link rel="stylesheet" id="theme" href="reveal.js/css/theme/moon.css">
         <!--For syntax highlighting-->
-        <link rel="stylesheet" href="https://solidpayorg.github.io/reveal.js/lib/css/zenburn.css">
+        <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
         <style type="text/css">
             a.connector, a.subsection {margin-left: 1ex; font-size: smaller}
             .illustrations a {float:left; margin: 1ex 5px; max-width:100%}
@@ -37,11 +37,11 @@
         </style>
         <!--If the query includes 'print-pdf', use the PDF print sheet. works in Chrome, maybe not other browsers-->
         <script type="text/javascript">
-        document.write( '<link rel="stylesheet" href="https://solidpayorg.github.io/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print" />' );
+        document.write( '<link rel="stylesheet" href="reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print" />' );
         </script>
         <!--
             [if lt IE 9]>
-            <script src="https://solidpayorg.github.io/reveal.js/lib/js/html5shiv.js"></script>
+            <script src="reveal.js/lib/js/html5shiv.js"></script>
             <![endif]
         -->
         <!--placeholder for custom header items (typically scripts or stylesheets)-->
@@ -50,8 +50,8 @@
         <div class="reveal">
             <!--Any section element inside of this container is displayed as a slide-->
             <div id="mindslide" class="slides">
-                <section class="content" id="ID_110073400">
-                    <h2>JavaScript</h2>
+                <section class="title" id="ID_110073400">
+                    <h1>JavaScript</h1>
                     <ul>
                         <li>
                             <a href="https://webmaps.io/" class="link external">
@@ -59,22 +59,7 @@
   </a>
                         </li>
                         <li class="icon">
-                            <span aria-hidden="true" class="fa fa-info-circle"></span>docs<a href="#/ID_1425964050" class="link subsection"> &#8628;</a>
-                        </li>
-                        <li class="icon">
-                            <span aria-hidden="true" class="fa fa-list"></span>lists<a href="#/ID_829378880" class="link subsection"> &#8628;</a>
-                        </li>
-                        <li>
-                            learn<a href="#/ID_214253158" class="link subsection"> &#8628;</a>
-                        </li>
-                        <li class="icon">
-                            <span aria-hidden="true" class="fa fa-wechat"></span>Communities<a href="#/ID_849215328" class="link subsection"> &#8628;</a>
-                        </li>
-                        <li class="icon">
                             <span aria-hidden="true" class="fa fa-edit"></span><a href="language.mm" class="link external">language</a>
-                        </li>
-                        <li class="icon">
-                            <span aria-hidden="true" class="fa fa-gears"></span>frameworks<a href="#/ID_153818301" class="link subsection"> &#8628;</a>
                         </li>
                         <li>
                             <a href="questions.mm" class="link external">questions</a>
@@ -91,13 +76,33 @@
                         <li>
                             <a href="DOM.mm" class="link external">DOM</a>
                         </li>
+                    </ul>
+                </section>
+                <section class="toc">
+                    <h2>Table of Content</h2>
+                    <ul>
+                        <li class="icon">
+                            <span aria-hidden="true" class="fa fa-info-circle"></span>docs<a href="#/ID_1425964050" class="link subsection"> &#8628;</a>
+                        </li>
+                        <li class="icon">
+                            <span aria-hidden="true" class="fa fa-list"></span>lists<a href="#/ID_829378880" class="link subsection"> &#8628;</a>
+                        </li>
+                        <li>
+                            learn<a href="#/ID_214253158" class="link subsection"> &#8628;</a>
+                        </li>
+                        <li class="icon">
+                            <span aria-hidden="true" class="fa fa-wechat"></span>Communities<a href="#/ID_849215328" class="link subsection"> &#8628;</a>
+                        </li>
+                        <li class="icon">
+                            <span aria-hidden="true" class="fa fa-gears"></span>frameworks<a href="#/ID_153818301" class="link subsection"> &#8628;</a>
+                        </li>
                         <li>
                             tools<a href="#/ID_1461111151" class="link subsection"> &#8628;</a>
                         </li>
                     </ul>
                 </section>
                 <section class="content" id="ID_1425964050">
-                    <h3>docs</h3>
+                    <h2>docs</h2>
                     <ul>
                         <li>
                             <a href="https://js-tldr.info/" class="link external"><a http-equiv="content-type" content="text/html; charset=utf-8" href="https://js-tldr.info/">https://js-tldr.info/</a></a>
@@ -114,7 +119,7 @@
                     </ul>
                 </section>
                 <section class="content" id="ID_829378880">
-                    <h3>lists</h3>
+                    <h2>lists</h2>
                     <ul>
                         <li>
                             <a href="https://github.com/sorrycc/awesome-javascript" class="link external">Awesome JavaScript</a>
@@ -128,7 +133,7 @@
                     </ul>
                 </section>
                 <section class="content" id="ID_214253158">
-                    <h3>learn</h3>
+                    <h2>learn</h2>
                     <ul>
                         <li>
                             <a href="https://exploringjs.com/deep-js/" class="link external"><a http-equiv="content-type" content="text/html; charset=utf-8" href="https://exploringjs.com/deep-js/">https://exploringjs.com/deep-js/</a></a>
@@ -148,7 +153,7 @@
                     </ul>
                 </section>
                 <section class="content" id="ID_849215328">
-                    <h3>Communities</h3>
+                    <h2>Communities</h2>
                     <ul>
                         <li>
                             <a href="https://bxjs.dev/" class="link external"><a http-equiv="content-type" content="text/html; charset=utf-8" href="https://bxjs.dev/">https://bxjs.dev/</a></a>
@@ -158,7 +163,7 @@
                 <!--new subsection-->
                 <section>
                     <section class="content" id="ID_153818301">
-                        <h3>frameworks</h3>
+                        <h2>frameworks</h2>
                         <ul>
                             <li>
                                 MVVM<a href="#/ID_208171559" class="link subsection"> &#8628;</a>
@@ -169,7 +174,7 @@
                         </ul>
                     </section>
                     <section class="content" id="ID_208171559">
-                        <h4>MVVM</h4>
+                        <h3>MVVM</h3>
                         <ul>
                             <li class="icon">
                                 <span aria-hidden="true" class="fa fa-list"></span><a href="react/index.mm" class="link external">react</a>
@@ -183,7 +188,7 @@
                         </ul>
                     </section>
                     <section class="content" id="ID_156551041">
-                        <h4>state</h4>
+                        <h3>state</h3>
                         <ul>
                             <li>
                                 <a href="state/index.mm" class="link external">Redux</a>
@@ -194,7 +199,7 @@
                 <!--new subsection-->
                 <section>
                     <section class="content" id="ID_1461111151">
-                        <h3>tools</h3>
+                        <h2>tools</h2>
                         <ul>
                             <li>
                                 <a href="https://github.com/typicode/json-server" class="link external"><a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/typicode/json-server">https://github.com/typicode/json-server</a></a>
@@ -202,10 +207,13 @@
                             <li class="icon">
                                 <span aria-hidden="true" class="fa fa-pencil"></span>sandboxes<a href="#/ID_1460537766" class="link subsection"> &#8628;</a>
                             </li>
+                            <li>
+                                build<a href="#/ID_1317404734" class="link subsection"> &#8628;</a>
+                            </li>
                         </ul>
                     </section>
                     <section class="content" id="ID_1460537766">
-                        <h4>sandboxes</h4>
+                        <h3>sandboxes</h3>
                         <ul>
                             <li>
                                 <a href="https://codesandbox.io/" class="link external">Code Sandbox</a>
@@ -220,16 +228,50 @@
                                 <a href="https://jsfiddle.net/" class="link external">JS Fiddle</a>
                             </li>
                             <li>
+                                <a href="https://medv.io/codejar/" class="link external">codejar</a>
+                            </li>
+                            <li>
                                 cli<a href="#/ID_430954936" class="link subsection"> &#8628;</a>
                             </li>
                         </ul>
                     </section>
                     <section class="content" id="ID_430954936">
-                        <h5>cli</h5>
+                        <h4>cli</h4>
                         <ul>
                             <li>
                                 <a href="https://github.com/krasimir/hopa" class="link external">hopa</a>
                             </li>
+                        </ul>
+                    </section>
+                    <section class="content" id="ID_1317404734">
+                        <h3>build</h3>
+                        <ul>
+                            <li>
+                                transpiler<a href="#/ID_407492910" class="link subsection"> &#8628;</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="content" id="ID_407492910">
+                        <h4>transpiler</h4>
+                        <ul>
+                            <li>
+                                babel<a href="#/ID_45437191" class="link subsection"> &#8628;</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="content" id="ID_45437191">
+                        <h5>babel</h5>
+                        <ul>
+                            <li>
+                                presets<a href="#/ID_1448696723" class="link subsection"> &#8628;</a>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="content" id="ID_1448696723">
+                        <h6>presets</h6>
+                        <ul>
+                            <li>react</li>
+                            <li>stage-2</li>
                         </ul>
                     </section>
                 </section>
@@ -244,9 +286,9 @@
             </div>
         </div>
         <footer class="info">
-            JavaScript | <a href="http://berteh.github.io/mindslide/">Mindslide</a> v 0.5 |  <a href="http://freeplane.sourceforge.net/">Freeplane</a> map vfreeplane 1.7.0
+            JavaScript | <a href="http://berteh.github.io/mindslide/">Mindslide</a> v 0.5 |  <a href="http://freeplane.sourceforge.net/">Freeplane</a> map vfreeplane 1.8.0
         </footer>
-        <script src="https://solidpayorg.github.io/reveal.js/lib/js/head.min.js"></script><script src="https://solidpayorg.github.io/reveal.js/js/reveal.js"></script><script>
+        <script src="reveal.js/lib/js/head.min.js"></script><script src="reveal.js/js/reveal.js"></script><script>
 
 	//run reveal.js
 	// Full list of configuration options available here:
@@ -273,7 +315,7 @@
 		mouseWheel: true,
 		hideAddressBar: true,
 		previewLinks: false,
-		transition: 'cube',
+		transition: 'slide',
 		transitionSpeed: 'default',
 		backgroundTransition: 'slide',
 		viewDistance: 3,
@@ -282,19 +324,19 @@
 		parallaxBackgroundHorizontal: null,
 		parallaxBackgroundVertical: null,
 
-		theme: Reveal.getQueryHash().theme || 'solid',
-		transition: Reveal.getQueryHash().transition || 'cube',
+		theme: Reveal.getQueryHash().theme || 'moon',
+		transition: Reveal.getQueryHash().transition || 'slide',
 
 		
         // Optional libraries used to extend on reveal.js - see https://github.com/hakimel/reveal.js#dependencies
         dependencies: [
-          { src:'https://solidpayorg.github.io/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src:'https://solidpayorg.github.io/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src:'https://solidpayorg.github.io/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-          { src:'https://solidpayorg.github.io/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
-          //{ src:'https://solidpayorg.github.io/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]' ); } },
-          //{ src:'https://solidpayorg.github.io/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]' ); } },
-		  //{ src:'https://solidpayorg.github.io/reveal.js/plugin/math/math.js', async: true }
+          { src:'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src:'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src:'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src:'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+          //{ src:'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]' ); } },
+          //{ src:'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]' ); } },
+		  //{ src:'reveal.js/plugin/math/math.js', async: true }
 		]
     	
     });
