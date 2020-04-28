@@ -1,4 +1,4 @@
-<map version="freeplane 1.7.0">
+<map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="react" FOLDED="false" ID="ID_43637424" CREATED="1570527567769" MODIFIED="1570527604613" LINK="../index.mm" STYLE="oval">
 <font SIZE="18"/>
@@ -76,6 +76,7 @@
 </node>
 <node TEXT="react view" ID="ID_1353090153" CREATED="1577603835871" MODIFIED="1577611563038" LINK="https://baseweb.design/blog/introducing-react-view/"/>
 <node TEXT="storybook" ID="ID_1418687782" CREATED="1577611575614" MODIFIED="1577611583019" LINK="https://storybook.js.org/"/>
+<node TEXT="react mental modals" ID="ID_1046743230" CREATED="1588112838929" MODIFIED="1588112845860" LINK="https://obedparla.com/code/a-visual-guide-to-react-mental-models/"/>
 </node>
 <node TEXT="tools" POSITION="left" ID="ID_198452527" CREATED="1578215073365" MODIFIED="1578215075106">
 <edge COLOR="#007c00"/>

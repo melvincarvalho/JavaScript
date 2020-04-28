@@ -1,6 +1,6 @@
 {
     "map": {
-        "@_version": "freeplane 1.7.0",
+        "@_version": "freeplane 1.8.0",
         "node": {
             "@_TEXT": "react",
             "@_FOLDED": false,
@@ -252,6 +252,13 @@
                             "@_CREATED": 1577611575614,
                             "@_MODIFIED": 1577611583019,
                             "@_LINK": "https://storybook.js.org/"
+                        },
+                        {
+                            "@_TEXT": "react mental modals",
+                            "@_ID": "ID_1046743230",
+                            "@_CREATED": 1588112838929,
+                            "@_MODIFIED": 1588112845860,
+                            "@_LINK": "https://obedparla.com/code/a-visual-guide-to-react-mental-models/"
                         }
                     ]
                 },
