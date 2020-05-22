@@ -2,17 +2,13 @@
     "map": {
         "@_version": "freeplane 1.8.0",
         "node": {
-            "@_TEXT": "language",
+            "@_TEXT": "preact",
             "@_FOLDED": false,
-            "@_ID": "ID_1831615648",
-            "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1572498454038,
-            "@_ICON_SIZE": "20.0 pt",
-            "@_LINK": "index.mm",
+            "@_ID": "ID_43637424",
+            "@_CREATED": 1570527567769,
+            "@_MODIFIED": 1588412687773,
+            "@_LINK": "../index.mm",
             "@_STYLE": "oval",
-            "icon": {
-                "@_BUILTIN": "bookmark"
-            },
             "font": {
                 "@_SIZE": 18
             },
@@ -191,123 +187,243 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 9,
+                    "@_COUNTER": 25,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
             "node": [
                 {
-                    "@_TEXT": "arrays",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1284928462",
-                    "@_CREATED": 1571980169123,
-                    "@_MODIFIED": 1572498505851,
-                    "@_LINK": "arrays.mm",
+                    "@_TEXT": "links",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_990086409",
+                    "@_CREATED": 1571160460734,
+                    "@_MODIFIED": 1571160488688,
                     "icon": {
-                        "@_BUILTIN": "list"
+                        "@_BUILTIN": "attach"
                     },
                     "edge": {
-                        "@_COLOR": "#7c0000"
-                    }
+                        "@_COLOR": "#ff00ff"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "getting started",
+                            "@_ID": "ID_1710336257",
+                            "@_CREATED": 1570527641882,
+                            "@_MODIFIED": 1588412725509,
+                            "@_LINK": "https://reactjs.org/docs/getting-started.html"
+                        },
+                        {
+                            "@_ID": "ID_1368440092",
+                            "@_CREATED": 1588414342991,
+                            "@_MODIFIED": 1588414342991,
+                            "@_LINK": "https://project-awesome.org/ooade/awesome-preact",
+                            "richcontent": {
+                                "@_TYPE": "NODE",
+                                "html": {
+                                    "head": "",
+                                    "body": {
+                                        "#text": "&nbsp;",
+                                        "a": {
+                                            "#text": "https://project-awesome.org/ooade/awesome-preact",
+                                            "@_http-equiv": "content-type",
+                                            "@_content": "text/html; charset=utf-8",
+                                            "@_href": "https://project-awesome.org/ooade/awesome-preact"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
                 },
                 {
-                    "@_TEXT": "objects",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1402077036",
-                    "@_CREATED": 1573635591705,
-                    "@_MODIFIED": 1573635773087,
-                    "@_LINK": "objects.mm",
-                    "icon": {
-                        "@_BUILTIN": "xmag"
-                    },
+                    "@_TEXT": "tools",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_198452527",
+                    "@_CREATED": 1578215073365,
+                    "@_MODIFIED": 1578215075106,
                     "edge": {
                         "@_COLOR": "#007c00"
                     }
                 },
                 {
-                    "@_TEXT": "iterators",
+                    "@_TEXT": "components",
                     "@_POSITION": "right",
-                    "@_ID": "ID_828865921",
-                    "@_CREATED": 1573045611406,
-                    "@_MODIFIED": 1573045622975,
-                    "@_LINK": "https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html",
-                    "icon": {
-                        "@_BUILTIN": "16x16-free-application-icons/png/16x16/List"
-                    },
+                    "@_ID": "ID_1505495598",
+                    "@_CREATED": 1577512552782,
+                    "@_MODIFIED": 1577512559248,
                     "edge": {
                         "@_COLOR": "#00007c"
+                    },
+                    "node": {
+                        "@_TEXT": "ui",
+                        "@_ID": "ID_992692990",
+                        "@_CREATED": 1588437051333,
+                        "@_MODIFIED": 1588437053750,
+                        "node": {
+                            "@_TEXT": "material",
+                            "@_ID": "ID_1459921493",
+                            "@_CREATED": 1588431576532,
+                            "@_MODIFIED": 1588431580483,
+                            "node": {
+                                "@_ID": "ID_1707505497",
+                                "@_CREATED": 1588437227589,
+                                "@_MODIFIED": 1588437227589,
+                                "@_LINK": "https://www.jsdelivr.com/package/npm/preact-material-components",
+                                "richcontent": {
+                                    "@_TYPE": "NODE",
+                                    "html": {
+                                        "head": "",
+                                        "body": {
+                                            "#text": "&nbsp;",
+                                            "a": {
+                                                "#text": "https://www.jsdelivr.com/package/npm/preact-material-components",
+                                                "@_http-equiv": "content-type",
+                                                "@_content": "text/html; charset=utf-8",
+                                                "@_href": "https://www.jsdelivr.com/package/npm/preact-material-components"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
                     }
                 },
                 {
-                    "@_TEXT": "string",
+                    "@_TEXT": "import",
                     "@_POSITION": "right",
-                    "@_ID": "ID_1738388930",
-                    "@_CREATED": 1590167025503,
-                    "@_MODIFIED": 1590167130022,
-                    "@_LINK": "string.mm",
+                    "@_ID": "ID_1291461369",
+                    "@_CREATED": 1588412808445,
+                    "@_MODIFIED": 1588412810044,
                     "edge": {
                         "@_COLOR": "#7c007c"
-                    }
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "named",
+                            "@_ID": "ID_1418452284",
+                            "@_CREATED": 1588412811633,
+                            "@_MODIFIED": 1588412813591,
+                            "node": [
+                                {
+                                    "@_TEXT": "h",
+                                    "@_ID": "ID_820904776",
+                                    "@_CREATED": 1588412888057,
+                                    "@_MODIFIED": 1588412889472,
+                                    "node": [
+                                        {
+                                            "@_TEXT": "element",
+                                            "@_ID": "ID_1804939702",
+                                            "@_CREATED": 1588431633499,
+                                            "@_MODIFIED": 1588431638105
+                                        },
+                                        {
+                                            "@_TEXT": "props",
+                                            "@_ID": "ID_802405142",
+                                            "@_CREATED": 1588431640464,
+                                            "@_MODIFIED": 1588431644966
+                                        },
+                                        {
+                                            "@_TEXT": "children",
+                                            "@_ID": "ID_690077064",
+                                            "@_CREATED": 1588431649279,
+                                            "@_MODIFIED": 1588431653252
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@_TEXT": "render",
+                                    "@_ID": "ID_726022233",
+                                    "@_CREATED": 1588412890484,
+                                    "@_MODIFIED": 1588412892232
+                                },
+                                {
+                                    "@_TEXT": "Component",
+                                    "@_ID": "ID_1677658455",
+                                    "@_CREATED": 1588412893528,
+                                    "@_MODIFIED": 1588412896797
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "default",
+                            "@_ID": "ID_384194364",
+                            "@_CREATED": 1588412814562,
+                            "@_MODIFIED": 1588412816571
+                        }
+                    ]
                 },
                 {
-                    "@_TEXT": "links",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_808607355",
-                    "@_CREATED": 1570968728188,
-                    "@_MODIFIED": 1570968728190,
-                    "icon": {
-                        "@_BUILTIN": "attach"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00007c"
-                    }
-                },
-                {
-                    "@_TEXT": "docs",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_1425964050",
-                    "@_CREATED": 1572497990298,
-                    "@_MODIFIED": 1572498279093,
-                    "icon": {
-                        "@_BUILTIN": "info"
-                    },
+                    "@_TEXT": "cdn",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1958994175",
+                    "@_CREATED": 1588413125612,
+                    "@_MODIFIED": 1588413127643,
                     "edge": {
                         "@_COLOR": "#7c7c00"
                     },
                     "node": [
                         {
-                            "@_TEXT": "MDN",
-                            "@_ID": "ID_773205118",
-                            "@_CREATED": 1572497994071,
-                            "@_MODIFIED": 1572498002669,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                            "@_TEXT": "https://cdn.jsdelivr.net/npm/preact/dist/preact.min.js",
+                            "@_ID": "ID_1508457564",
+                            "@_CREATED": 1588413148179,
+                            "@_MODIFIED": 1588436820758,
+                            "@_LINK": "https://cdn.jsdelivr.net/npm/preact/dist/preact.min.js"
                         },
                         {
-                            "@_TEXT": "devdocs",
-                            "@_ID": "ID_83129282",
-                            "@_CREATED": 1572498043641,
-                            "@_MODIFIED": 1572498048395,
-                            "@_LINK": "https://devdocs.io/javascript/"
+                            "@_TEXT": "https://cdn.jsdelivr.net/npm/preact/dist/preact.mjs",
+                            "@_ID": "ID_1735343997",
+                            "@_CREATED": 1588413148187,
+                            "@_MODIFIED": 1588436839042,
+                            "@_LINK": "https://cdn.jsdelivr.net/npm/preact/dist/preact.mjs"
                         }
                     ]
                 },
                 {
-                    "@_TEXT": "tags",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_466759422",
-                    "@_CREATED": 1570968754383,
-                    "@_MODIFIED": 1571411739700,
-                    "icon": {
-                        "@_BUILTIN": "hashtag"
-                    },
+                    "@_TEXT": "pragma",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1796225671",
+                    "@_CREATED": 1588413281012,
+                    "@_MODIFIED": 1588413285319,
                     "edge": {
-                        "@_COLOR": "#007c00"
+                        "@_COLOR": "#ff0000"
                     },
                     "node": {
-                        "@_TEXT": "#JavaScrpt",
-                        "@_ID": "ID_1174764408",
-                        "@_CREATED": 1572498487523,
-                        "@_MODIFIED": 1572498491727
+                        "@_TEXT": ".babelrc",
+                        "@_ID": "ID_1452537391",
+                        "@_CREATED": 1588413286460,
+                        "@_MODIFIED": 1588413289631,
+                        "node": {
+                            "@_TEXT": "[&quot;@babel/plugin-transform-react-jsx&quot;, { &quot;pragma&quot;:&quot;h&quot; }]",
+                            "@_ID": "ID_980362494",
+                            "@_CREATED": 1588413362094,
+                            "@_MODIFIED": 1588413362094
+                        }
+                    }
+                },
+                {
+                    "@_TEXT": "jsx",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1077016112",
+                    "@_CREATED": 1588413389906,
+                    "@_MODIFIED": 1588413391730,
+                    "edge": {
+                        "@_COLOR": "#0000ff"
+                    }
+                },
+                {
+                    "@_TEXT": "cli",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_405419764",
+                    "@_CREATED": 1588415704639,
+                    "@_MODIFIED": 1588415706085,
+                    "edge": {
+                        "@_COLOR": "#00ff00"
+                    },
+                    "node": {
+                        "@_TEXT": "preact create &lt;template&gt; &lt;app&gt;",
+                        "@_ID": "ID_374339320",
+                        "@_CREATED": 1588415707331,
+                        "@_MODIFIED": 1588415719846
                     }
                 }
             ]

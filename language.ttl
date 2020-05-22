@@ -1,6 +1,7 @@
 <#ID_1284928462> <urn:string:@_TEXT> """arrays""" .
 <#ID_1402077036> <urn:string:@_TEXT> """objects""" .
 <#ID_828865921> <urn:string:@_TEXT> """iterators""" .
+<#ID_1738388930> <urn:string:@_TEXT> """string""" .
 <#ID_808607355> <urn:string:@_TEXT> """links""" .
 <#ID_1425964050> <urn:string:@_TEXT> """docs""" .
 <#ID_773205118> <urn:string:@_TEXT> """MDN""" .

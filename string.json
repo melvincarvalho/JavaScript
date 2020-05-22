@@ -2,11 +2,11 @@
     "map": {
         "@_version": "freeplane 1.8.0",
         "node": {
-            "@_TEXT": "language",
+            "@_TEXT": "string",
             "@_FOLDED": false,
             "@_ID": "ID_1831615648",
             "@_CREATED": 1569272472516,
-            "@_MODIFIED": 1572498454038,
+            "@_MODIFIED": 1590167082021,
             "@_ICON_SIZE": "20.0 pt",
             "@_LINK": "index.mm",
             "@_STYLE": "oval",
@@ -197,56 +197,16 @@
             ],
             "node": [
                 {
-                    "@_TEXT": "arrays",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1284928462",
-                    "@_CREATED": 1571980169123,
-                    "@_MODIFIED": 1572498505851,
-                    "@_LINK": "arrays.mm",
+                    "@_TEXT": "docs",
+                    "@_POSITION": "left",
+                    "@_ID": "ID_1100215200",
+                    "@_CREATED": 1570969039178,
+                    "@_MODIFIED": 1570980265221,
                     "icon": {
-                        "@_BUILTIN": "list"
+                        "@_BUILTIN": "folder"
                     },
                     "edge": {
-                        "@_COLOR": "#7c0000"
-                    }
-                },
-                {
-                    "@_TEXT": "objects",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1402077036",
-                    "@_CREATED": 1573635591705,
-                    "@_MODIFIED": 1573635773087,
-                    "@_LINK": "objects.mm",
-                    "icon": {
-                        "@_BUILTIN": "xmag"
-                    },
-                    "edge": {
-                        "@_COLOR": "#007c00"
-                    }
-                },
-                {
-                    "@_TEXT": "iterators",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_828865921",
-                    "@_CREATED": 1573045611406,
-                    "@_MODIFIED": 1573045622975,
-                    "@_LINK": "https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html",
-                    "icon": {
-                        "@_BUILTIN": "16x16-free-application-icons/png/16x16/List"
-                    },
-                    "edge": {
-                        "@_COLOR": "#00007c"
-                    }
-                },
-                {
-                    "@_TEXT": "string",
-                    "@_POSITION": "right",
-                    "@_ID": "ID_1738388930",
-                    "@_CREATED": 1590167025503,
-                    "@_MODIFIED": 1590167130022,
-                    "@_LINK": "string.mm",
-                    "edge": {
-                        "@_COLOR": "#7c007c"
+                        "@_COLOR": "#ff00ff"
                     }
                 },
                 {
@@ -263,52 +223,84 @@
                     }
                 },
                 {
-                    "@_TEXT": "docs",
-                    "@_POSITION": "left",
-                    "@_ID": "ID_1425964050",
-                    "@_CREATED": 1572497990298,
-                    "@_MODIFIED": 1572498279093,
-                    "icon": {
-                        "@_BUILTIN": "info"
-                    },
-                    "edge": {
-                        "@_COLOR": "#7c7c00"
-                    },
-                    "node": [
-                        {
-                            "@_TEXT": "MDN",
-                            "@_ID": "ID_773205118",
-                            "@_CREATED": 1572497994071,
-                            "@_MODIFIED": 1572498002669,
-                            "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-                        },
-                        {
-                            "@_TEXT": "devdocs",
-                            "@_ID": "ID_83129282",
-                            "@_CREATED": 1572498043641,
-                            "@_MODIFIED": 1572498048395,
-                            "@_LINK": "https://devdocs.io/javascript/"
-                        }
-                    ]
-                },
-                {
                     "@_TEXT": "tags",
                     "@_POSITION": "left",
                     "@_ID": "ID_466759422",
                     "@_CREATED": 1570968754383,
-                    "@_MODIFIED": 1571411739700,
+                    "@_MODIFIED": 1571340239144,
                     "icon": {
                         "@_BUILTIN": "hashtag"
                     },
                     "edge": {
                         "@_COLOR": "#007c00"
                     },
-                    "node": {
-                        "@_TEXT": "#JavaScrpt",
-                        "@_ID": "ID_1174764408",
-                        "@_CREATED": 1572498487523,
-                        "@_MODIFIED": 1572498491727
-                    }
+                    "node": [
+                        {
+                            "@_TEXT": "#javascript",
+                            "@_ID": "ID_1903100884",
+                            "@_CREATED": 1571980549151,
+                            "@_MODIFIED": 1571980553198
+                        },
+                        {
+                            "@_TEXT": "#string",
+                            "@_ID": "ID_574380056",
+                            "@_CREATED": 1571980554162,
+                            "@_MODIFIED": 1590167109565
+                        }
+                    ]
+                },
+                {
+                    "@_TEXT": "replace",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1662980457",
+                    "@_CREATED": 1590167095778,
+                    "@_MODIFIED": 1590167148358,
+                    "@_LINK": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace",
+                    "edge": {
+                        "@_COLOR": "#7c007c"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "first",
+                            "@_ID": "ID_1636088530",
+                            "@_CREATED": 1590167366544,
+                            "@_MODIFIED": 1590167371958,
+                            "node": [
+                                {
+                                    "@_TEXT": "regex",
+                                    "@_ID": "ID_331555495",
+                                    "@_CREATED": 1590167374089,
+                                    "@_MODIFIED": 1590167375741
+                                },
+                                {
+                                    "@_TEXT": "substr",
+                                    "@_ID": "ID_953128539",
+                                    "@_CREATED": 1590167376985,
+                                    "@_MODIFIED": 1590167381341
+                                }
+                            ]
+                        },
+                        {
+                            "@_TEXT": "second",
+                            "@_ID": "ID_82948952",
+                            "@_CREATED": 1590167382929,
+                            "@_MODIFIED": 1590167386071,
+                            "node": [
+                                {
+                                    "@_TEXT": "newstr",
+                                    "@_ID": "ID_611591315",
+                                    "@_CREATED": 1590167386985,
+                                    "@_MODIFIED": 1590167388882
+                                },
+                                {
+                                    "@_TEXT": "function",
+                                    "@_ID": "ID_472862155",
+                                    "@_CREATED": 1590167389595,
+                                    "@_MODIFIED": 1590167396641
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

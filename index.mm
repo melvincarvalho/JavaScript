@@ -175,6 +175,7 @@
 <node TEXT="react" ID="ID_921980201" CREATED="1570477831137" MODIFIED="1571821835867" LINK="react/index.mm">
 <icon BUILTIN="list"/>
 </node>
+<node TEXT="preact" ID="ID_359382513" CREATED="1588412596763" MODIFIED="1588440678647" LINK="preact/index.mm"/>
 <node TEXT="vue" ID="ID_850712897" CREATED="1570477834617" MODIFIED="1570477889990" LINK="https://vuejs.org/"/>
 <node TEXT="angular" ID="ID_101804111" CREATED="1570477835956" MODIFIED="1570477905907" LINK="https://angular.io/"/>
 </node>
@@ -182,6 +183,24 @@
 <node TEXT="Redux" ID="ID_1871522161" CREATED="1578925435990" MODIFIED="1578925435995" LINK="state/index.mm">
 <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
 </node>
+</node>
+<node TEXT="templating" ID="ID_1463950363" CREATED="1588440695602" MODIFIED="1588440700546">
+<node ID="ID_1422608322" CREATED="1588440703069" MODIFIED="1588440703069" LINK="https://github.com/developit/htm"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/developit/htm">https://github.com/developit/htm</a>&nbsp;
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="handlebars" ID="ID_209096978" CREATED="1588440706483" MODIFIED="1588440709280"/>
+<node TEXT="jsx" ID="ID_515478277" CREATED="1588440712543" MODIFIED="1588440716410"/>
+<node TEXT="https://github.com/hyperhype/hyperscript#example" ID="ID_57008161" CREATED="1588441653927" MODIFIED="1588441653927" LINK="https://github.com/hyperhype/hyperscript#example"/>
 </node>
 </node>
 <node TEXT="questions" POSITION="right" ID="ID_845980270" CREATED="1574896985664" MODIFIED="1574896985681" LINK="questions.mm">
@@ -222,6 +241,7 @@
 <node TEXT="Codepen" ID="ID_942460316" CREATED="1571361098536" MODIFIED="1572498194984" LINK="https://codepen.io/"/>
 <node TEXT="JS Fiddle" ID="ID_1150601009" CREATED="1571361085412" MODIFIED="1572498190247" LINK="https://jsfiddle.net/"/>
 <node TEXT="codejar" ID="ID_1876566559" CREATED="1585765112965" MODIFIED="1585765124345" LINK="https://medv.io/codejar/"/>
+<node TEXT="stackblitz" ID="ID_1472503630" CREATED="1588156234786" MODIFIED="1588156241080" LINK="https://stackblitz.com/"/>
 <node TEXT="cli" ID="ID_430954936" CREATED="1578925395177" MODIFIED="1578925396249">
 <node TEXT="hopa" ID="ID_1925156083" CREATED="1578925379580" MODIFIED="1578925392991" LINK="https://github.com/krasimir/hopa"/>
 </node>

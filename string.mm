@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="language" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1572498454038" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
+<node TEXT="string" FOLDED="false" ID="ID_1831615648" CREATED="1569272472516" MODIFIED="1590167082021" ICON_SIZE="20.0 pt" LINK="index.mm" STYLE="oval">
 <icon BUILTIN="bookmark"/>
 <font SIZE="18"/>
 <hook NAME="MapStyle">
@@ -65,35 +65,30 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="9" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="arrays" POSITION="right" ID="ID_1284928462" CREATED="1571980169123" MODIFIED="1572498505851" LINK="arrays.mm">
-<icon BUILTIN="list"/>
-<edge COLOR="#7c0000"/>
-</node>
-<node TEXT="objects" POSITION="right" ID="ID_1402077036" CREATED="1573635591705" MODIFIED="1573635773087" LINK="objects.mm">
-<icon BUILTIN="xmag"/>
-<edge COLOR="#007c00"/>
-</node>
-<node TEXT="iterators" POSITION="right" ID="ID_828865921" CREATED="1573045611406" MODIFIED="1573045622975" LINK="https://blog.appsignal.com/2019/07/16/javascript-iterators-and-iterables.html">
-<icon BUILTIN="16x16-free-application-icons/png/16x16/List"/>
-<edge COLOR="#00007c"/>
-</node>
-<node TEXT="string" POSITION="right" ID="ID_1738388930" CREATED="1590167025503" MODIFIED="1590167130022" LINK="string.mm">
-<edge COLOR="#7c007c"/>
+<node TEXT="docs" POSITION="left" ID="ID_1100215200" CREATED="1570969039178" MODIFIED="1570980265221">
+<icon BUILTIN="folder"/>
+<edge COLOR="#ff00ff"/>
 </node>
 <node TEXT="links" POSITION="left" ID="ID_808607355" CREATED="1570968728188" MODIFIED="1570968728190">
 <icon BUILTIN="attach"/>
 <edge COLOR="#00007c"/>
 </node>
-<node TEXT="docs" POSITION="left" ID="ID_1425964050" CREATED="1572497990298" MODIFIED="1572498279093">
-<icon BUILTIN="info"/>
-<edge COLOR="#7c7c00"/>
-<node TEXT="MDN" ID="ID_773205118" CREATED="1572497994071" MODIFIED="1572498002669" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript"/>
-<node TEXT="devdocs" ID="ID_83129282" CREATED="1572498043641" MODIFIED="1572498048395" LINK="https://devdocs.io/javascript/"/>
-</node>
-<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571411739700">
+<node TEXT="tags" POSITION="left" ID="ID_466759422" CREATED="1570968754383" MODIFIED="1571340239144">
 <icon BUILTIN="hashtag"/>
 <edge COLOR="#007c00"/>
-<node TEXT="#JavaScrpt" ID="ID_1174764408" CREATED="1572498487523" MODIFIED="1572498491727"/>
+<node TEXT="#javascript" ID="ID_1903100884" CREATED="1571980549151" MODIFIED="1571980553198"/>
+<node TEXT="#string" ID="ID_574380056" CREATED="1571980554162" MODIFIED="1590167109565"/>
+</node>
+<node TEXT="replace" POSITION="right" ID="ID_1662980457" CREATED="1590167095778" MODIFIED="1590167148358" LINK="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace">
+<edge COLOR="#7c007c"/>
+<node TEXT="first" ID="ID_1636088530" CREATED="1590167366544" MODIFIED="1590167371958">
+<node TEXT="regex" ID="ID_331555495" CREATED="1590167374089" MODIFIED="1590167375741"/>
+<node TEXT="substr" ID="ID_953128539" CREATED="1590167376985" MODIFIED="1590167381341"/>
+</node>
+<node TEXT="second" ID="ID_82948952" CREATED="1590167382929" MODIFIED="1590167386071">
+<node TEXT="newstr" ID="ID_611591315" CREATED="1590167386985" MODIFIED="1590167388882"/>
+<node TEXT="function" ID="ID_472862155" CREATED="1590167389595" MODIFIED="1590167396641"/>
+</node>
 </node>
 </node>
 </map>
