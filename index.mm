@@ -195,7 +195,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://github.com/developit/htm">https://github.com/developit/htm</a>&nbsp;
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="handlebars" ID="ID_209096978" CREATED="1588440706483" MODIFIED="1588440709280"/>
@@ -254,6 +253,36 @@
 <node TEXT="stage-2" ID="ID_79290975" CREATED="1587804783492" MODIFIED="1587804787873"/>
 </node>
 </node>
+</node>
+</node>
+<node TEXT="cdn" ID="ID_911787600" CREATED="1592735922831" MODIFIED="1592735926567">
+<node TEXT="https://jspm.dev/" ID="ID_1719121232" CREATED="1592735939602" MODIFIED="1592735939602" LINK="https://jspm.dev/"/>
+<node ID="ID_1605477307" CREATED="1592735946462" MODIFIED="1592735946462" LINK="https://www.jsdelivr.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://www.jsdelivr.com/">https://www.jsdelivr.com/</a>&nbsp;
+  </body>
+</html>
+
+</richcontent>
+</node>
+<node TEXT="https://unpkg.com/" ID="ID_1130736872" CREATED="1592735954793" MODIFIED="1592735954793" LINK="https://unpkg.com/"/>
+<node ID="ID_381782231" CREATED="1592735969910" MODIFIED="1592735969910" LINK="https://cdnjs.com/"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://cdnjs.com/">https://cdnjs.com/</a>&nbsp;
+  </body>
+</html>
+
+</richcontent>
 </node>
 </node>
 </node>
